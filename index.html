@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
     <header>
         <div class="header-top">
             <h1>ГЛАВНЫЕ НОВОСТИ</h1>
@@ -18,7 +17,6 @@
         </div>
         <nav class="region-nav" id="region-buttons"></nav>
     </header>
-
     <div class="container">
         <div class="meta-bar">
             <h2 class="section-heading" id="current-title">Картина дня</h2>
@@ -26,53 +24,25 @@
         </div>
         <div class="news-grid" id="news-container"></div>
     </div>
-
-    <footer>
-        Автоматическая лента новостей
-    </footer>
+    <footer>Автоматическая лента новостей</footer>
 
     <script>
         const SOURCES = {
-            "Мир": [
-                { name: "ТАСС", url: "https://tass.ru" },
-                { name: "BBC", url: "https://bbci.co.uk" }
-            ],
-            "Европа": [
-                { name: "Euronews", url: "https://euronews.com" }
-            ],
-            "США": [
-                { name: "NPR", url: "https://npr.org" }
-            ],
-            "Азия": [
-                { name: "CNA", url: "https://channelnewsasia.com" }
-            ],
-            "Китай": [
-                { name: "SCMP", url: "https://scmp.com" }
-            ],
-            "Таиланд": [
-                { name: "Bangkok Post", url: "https://bangkokpost.com" },
-                { name: "Pattaya News", url: "https://thepattayanews.com" }
-            ],
-            "Россия": [
-                { name: "Лента.ру", url: "https://lenta.ru" }
-            ],
-            "Барнаул": [
-                { name: "Толк", url: "https://tolknews.ru" },
-                { name: "Амител", url: "https://amic.ru" }
-            ]
+            "Мир": [{ name: "ТАСС", url: "https://tass.ru" }, { name: "BBC", url: "https://bbci.co.uk" }],
+            "Европа": [{ name: "Euronews", url: "https://euronews.com" }],
+            "США": [{ name: "NPR", url: "https://npr.org" }],
+            "Азия": [{ name: "CNA", url: "https://channelnewsasia.com" }],
+            "Китай": [{ name: "SCMP", url: "https://scmp.com" }],
+            "Таиланд": [{ name: "Bangkok Post", url: "https://bangkokpost.com" }, { name: "Pattaya News", url: "https://thepattayanews.com" }],
+            "Россия": [{ name: "Лента.ру", url: "https://lenta.ru" }],
+            "Барнаул": [{ name: "Толк", url: "https://tolknews.ru" }, { name: "Амител", url: "https://amic.ru" }]
         };
 
-        let allNews = [];
-        let currentRegion = "Все";
+        let allNews = [], currentRegion = "Все";
+        const container = document.getElementById("news-container"), heading = document.getElementById("current-title");
+        const updatedSpan = document.getElementById("last-updated"), navContainer = document.getElementById("region-buttons");
 
-        const container = document.getElementById("news-container");
-        const heading = document.getElementById("current-title");
-        const updatedSpan = document.getElementById("last-updated");
-        const navContainer = document.getElementById("region-buttons");
-
-        if (localStorage.getItem("theme") === "dark") {
-            document.body.classList.add("dark-theme");
-        }
+        if (localStorage.getItem("theme") === "dark") document.body.classList.add("dark-theme");
         document.getElementById("theme-btn").onclick = () => {
             document.body.classList.toggle("dark-theme");
             localStorage.setItem("theme", document.body.classList.contains("dark-theme") ? "dark" : "light");
@@ -80,8 +50,7 @@
 
         function buildMenu() {
             navContainer.innerHTML = "";
-            const tabs = ["Все", ...Object.keys(SOURCES)];
-            tabs.forEach(tab => {
+            ["Все", ...Object.keys(SOURCES)].forEach(tab => {
                 const btn = document.createElement("button");
                 btn.className = "region-btn" + (tab === currentRegion ? " active" : "");
                 btn.textContent = tab === "Все" ? "Главное" : tab;
@@ -108,119 +77,67 @@
             try {
                 const r = await fetch("https://googleapis.com" + encodeURIComponent(text));
                 const d = await r.json();
-                return d.map(x => x).join("");
-            } catch {
-                return text;
-            }
+                return d[0].map(x => x[0]).join("");
+            } catch { return text; }
         }
 
         function renderNews() {
             container.innerHTML = "";
-            let list = [];
-            if (currentRegion === "Все") {
-                heading.textContent = "Картина дня по всем рубрикам";
-                Object.keys(SOURCES).forEach(cat => {
-                    list.push(...allNews.filter(n => n.region === cat).slice(0, 1));
-                });
-            } else {
-                heading.textContent = currentRegion;
-                list = allNews.filter(n => n.region === currentRegion).slice(0, 9);
-            }
+            let list = currentRegion === "Все"
+                ? Object.keys(SOURCES).flatMap(cat => allNews.filter(n => n.region === cat).slice(0, 1))
+                : allNews.filter(n => n.region === currentRegion).slice(0, 9);
+            heading.textContent = currentRegion === "Все" ? "Картина дня по всем рубрикам" : currentRegion;
 
-            if (list.length === 0) {
-                container.innerHTML = "<p>Загружаем новости для этой рубрики...</p>";
-                return;
-            }
+            if (!list.length) { container.innerHTML = "<p>Загружаем новости...</p>"; return; }
 
             list.forEach(item => {
                 const card = document.createElement("article");
                 card.className = "news-card";
-                const imgTag = item.image
-                    ? `<a href="${item.link}" target="_blank" rel="noopener"><img src="${item.image}" class="card-img" loading="lazy" onerror="this.parentElement.style.display='none'"></a>`
-                    : "";
-
-                card.innerHTML = `
-                    ${imgTag}
-                    <div class="card-body">
-                        <div>
-                            <div class="card-top">
-                                <span class="badge">${item.region}</span>
-                                <span class="source-name">${item.source}</span>
-                            </div>
-                            <h2><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></h2>
-                            <p>${item.description}</p>
-                        </div>
-                        <div class="card-footer">
-                            <span>${item.date}</span>
-                            <a href="${item.link}" target="_blank" rel="noopener" class="read-link">Читать &rarr;</a>
-                        </div>
-                    </div>
-                `;
+                const imgTag = item.image ? `<a href="${item.link}" target="_blank" rel="noopener"><img src="${item.image}" class="card-img" loading="lazy" onerror="this.parentElement.style.display='none'"></a>` : "";
+                card.innerHTML = `${imgTag}<div class="card-body"><div><div class="card-top"><span class="badge">${item.region}</span><span class="source-name">${item.source}</span></div><h2><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></h2><p>${item.description}</p></div><div class="card-footer"><span>${item.date}</span><a href="${item.link}" target="_blank" rel="noopener" class="read-link">Читать &rarr;</a></div></div>`;
                 container.appendChild(card);
             });
         }
 
         async function fetchFeed(region, feed) {
             try {
-                const res = await fetch("https://allorigins.win" + encodeURIComponent(feed.url));
-                const json = await res.json();
-                if (!json.contents) return;
-
-                const doc = new DOMParser().parseFromString(json.contents, "text/xml");
-                const items = Array.from(doc.querySelectorAll("item")).slice(0, 5);
-
-                for (const el of items) {
-                    const rawTitle = el.querySelector("title")?.textContent?.trim() || "";
-                    if (!rawTitle) continue;
-                    const link = el.querySelector("link")?.textContent?.trim() || "#";
-                    const rawDesc = cleanText(el.querySelector("description")?.textContent || "");
-                    const pubDate = (el.querySelector("pubDate")?.textContent || "").slice(0, 16);
-
-                    let img = "";
-                    const enc = el.querySelector("enclosure");
-                    if (enc && enc.getAttribute("url")) img = enc.getAttribute("url");
-                    if (!img) {
-                        const media = el.getElementsByTagName("media:content") || el.getElementsByTagName("media:thumbnail");
-                        if (media && media.getAttribute("url")) img = media.getAttribute("url");
+                const res = await fetch("https://rss2json.com" + encodeURIComponent(feed.url));
+                const data = await res.json();
+                if (data.status === "ok" && data.items?.length) {
+                    for (const item of data.items.slice(0, 5)) {
+                        allNews.push({
+                            region, source: feed.name, title: await translateRu(item.title || ""),
+                            link: item.link || "#", date: (item.pubDate || "").slice(0, 16),
+                            description: await translateRu(cleanText(item.description || "")),
+                            image: item.thumbnail || item.enclosure?.link || ""
+                        });
                     }
-                    if (!img) {
-                        const m = (el.querySelector("description")?.textContent || "").match(/<img[^>]+src=["']([^"']+)["']/i);
-                        if (m) img = m;
+                } else {
+                    const r2 = await fetch("https://codetabs.com" + encodeURIComponent(feed.url));
+                    const doc = new DOMParser().parseFromString(await r2.text(), "text/xml");
+                    for (const el of Array.from(doc.querySelectorAll("item")).slice(0, 5)) {
+                        const rawTitle = el.querySelector("title")?.textContent?.trim() || "";
+                        if (!rawTitle) continue;
+                        const descHtml = el.querySelector("description")?.textContent || "";
+                        const img = el.querySelector("enclosure")?.getAttribute("url") || (descHtml.match(/<img[^>]+src=["']([^"']+)["']/i)?.[1] || "");
+                        allNews.push({
+                            region, source: feed.name, title: await translateRu(rawTitle),
+                            link: el.querySelector("link")?.textContent?.trim() || "#",
+                            date: (el.querySelector("pubDate")?.textContent || "").slice(0, 16),
+                            description: await translateRu(cleanText(descHtml)), image: img
+                        });
                     }
-
-                    const titleRu = await translateRu(rawTitle);
-                    const descRu = await translateRu(rawDesc);
-
-                    allNews.push({
-                        region,
-                        source: feed.name,
-                        title: titleRu,
-                        link,
-                        date: pubDate,
-                        description: descRu,
-                        image: img
-                    });
                 }
-                renderNews();
-            } catch (e) {
-                console.log("Ошибка:", feed.name);
-            }
+            } catch {}
+            updatedSpan.textContent = `Загружено: ${allNews.length}`;
+            renderNews();
         }
 
         async function loadAll() {
-            updatedSpan.textContent = "Загрузка...";
-            allNews = [];
-            buildMenu();
-            renderNews();
-
-            const jobs = [];
-            for (const [region, feeds] of Object.entries(SOURCES)) {
-                for (const feed of feeds) {
-                    jobs.push(fetchFeed(region, feed));
-                }
-            }
-            await Promise.allSettled(jobs);
-            updatedSpan.textContent = "Обновлено: " + new Date().toLocaleTimeString("ru-RU", { hour: "2-digit", minute: "2-digit" });
+            updatedSpan.textContent = "Подключаемся...";
+            allNews = []; buildMenu(); renderNews();
+            await Promise.allSettled(Object.entries(SOURCES).flatMap(([r, feeds]) => feeds.map(f => fetchFeed(r, f))));
+            updatedSpan.textContent = `Обновлено в ${new Date().toLocaleTimeString("ru-RU", { hour: "2-digit", minute: "2-digit" })} (${allNews.length})`;
         }
 
         document.getElementById("refresh-btn").onclick = loadAll;
