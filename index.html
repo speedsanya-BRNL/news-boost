@@ -54,8 +54,8 @@
         function renderNews() {
             container.innerHTML = "";
             let list = currentRegion === "Все"
-                ? allCategories.flatMap(cat => allNews.filter(n => n.region === cat).slice(0, 1))
-                : allNews.filter(n => n.region === currentRegion).slice(0, 9);
+                ? allCategories.flatMap(cat => allNews.filter(n => n.region === cat).slice(0, 3))
+                : allNews.filter(n => n.region === currentRegion).slice(0, 30);
             heading.textContent = currentRegion === "Все" ? "Картина дня по всем рубрикам" : currentRegion;
 
             if (!list.length) {
