@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23 18:50",
+  "updated": "2026-11-23 19:01",
   "categories": [
     "Мир",
     "Европа",
@@ -15,55 +15,55 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Комитет ГД одобрил ужесточение наказания за призывы к терроризму",
-      "link": "https://tass.ru/politika/28346087",
+      "title": "На Украине предъявили новое обвинение в растрате бывшему вице-премьеру Чернышову",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/28346139",
       "date": "Mon, 23 Nov 2026",
-      "description": "",
+      "description": "По версии следствия, Алексей Чернышов организовал схему выплаты зарплаты из бюджета министерства пяти сотрудникам, которые на само",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Депутат Мишин назвал пиратством нападение на судно в Финском заливе",
-      "link": "https://tass.ru/proisshestviya/28346069",
+      "title": "В Оренбурге выявили превышение ПДК по сероводороду в семь раз",
+      "link": "https://tass.ru/obschestvo/28346129",
       "date": "Mon, 23 Nov 2026",
-      "description": "",
+      "description": "Неоднократные превышения предельно допустимой концентрации стали поводом для заведения уголовного дела",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Путина удивило 30-кратное сокращение судебных дел по налоговым долгам",
-      "link": "https://tass.ru/ekonomika/28346063",
+      "title": "Подмосковный бизнес привлек 1,7 млрд рублей льготных кредитов на инвестиции",
+      "link": "https://tass.ru/ekonomika/28346137",
       "date": "Mon, 23 Nov 2026",
-      "description": "Число таких заседаний снизилось с 3,8 млн в 2025 году до 120 тыс. в 2026 году",
-      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250128/8033157.jpg"
-    },
-    {
-      "region": "Мир",
-      "source": "ТАСС",
-      "title": "На Сахалине предпринимателя подозревают в незаконной рубке деревьев",
-      "link": "https://tass.ru/proisshestviya/28346075",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Ущерб составил более 2,5 млн рублей",
+      "description": "Льготная программа кредитования реализуется Банком России, Минэкономразвития России и Корпорацией МСП",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Комвзвода Томас заявил, что солдат ВСУ отправляют удерживать позиции без связи",
-      "link": "https://tass.ru/armiya-i-opk/28346023",
+      "title": "В Москве представили книгу о работе дрессировщика Николая Павленко",
+      "link": "https://tass.ru/kultura/28346065",
       "date": "Mon, 23 Nov 2026",
-      "description": "Офицер рассказал, что украинские военные не знают реальной обстановки из-за отсутствия радиостанций",
+      "description": "Первый тираж планируют выпустить в декабре",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Рособрнадзор объявил предостережения шести вузам",
-      "link": "https://tass.ru/obschestvo/28346059",
+      "title": "Миронов: Евросоюзу придется восстанавливать Украину и платить репарации России",
+      "link": "https://tass.ru/politika/28346113",
       "date": "Mon, 23 Nov 2026",
-      "description": "Среди них РУДН, МАИ и ДВФУ",
+      "description": "ЕС для помощи Украине выпускает долговые бумаги под гарантии своего долгосрочного бюджета, а Киев собирается возвращать долг Брюсс",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "Эксперт Кокорин прокомментировал неудачу конференции по климату в Турции",
+      "link": "https://tass.ru/obschestvo/28346101",
+      "date": "Mon, 23 Nov 2026",
+      "description": "По его словам, отсутствие итогового документа на мероприятии не означает провала Парижского соглашения",
       "image": ""
     },
     {
@@ -99,7 +99,7 @@
       "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
       "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 23 Nov 2026",
-      "description": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.",
+      "description": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7507/live/ee06aa60-e720-11f1-a094-5fdc692f3e33.jpg"
     },
     {
@@ -125,8 +125,17 @@
       "source": "DW Европа",
       "title": "DW",
       "link": "https://www.dw.com/russian/?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-23T11:26",
+      "date": "2026-11-23T11:41",
       "description": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "image": ""
+    },
+    {
+      "region": "Европа",
+      "source": "DW Европа",
+      "title": "Премьер Чехии Бабиш назвал неприемлемыми 100 млрд евро ЕС для Украины",
+      "link": "https://www.dw.com/ru/премьер-чехии-бабиш-назвал-неприемлемыми-100-млрд-евро-ес-для-украины/a-80017872?maca=rus-rss-ru-eu-4384-rdf",
+      "date": "2026-11-23T11:26",
+      "description": "Премьер Чехии Андрей Бабиш раскритиковал проект бюджета ЕС на 2028-2034 годы, выступив против выделения Украине 100 млрд евро из о",
       "image": ""
     },
     {
@@ -163,15 +172,6 @@
       "link": "https://www.dw.com/ru/ес-сожалеет-что-таджикистан-не-исполнил-ордер-мус-на-арест-путина/a-80015218?maca=rus-rss-ru-eu-4384-rdf",
       "date": "2026-11-22T20:26",
       "description": "Таджикистан не выполнил обязательства в рамках Римского статута Международного уголовного суда и вновь принял президента РФ Владим",
-      "image": ""
-    },
-    {
-      "region": "Европа",
-      "source": "DW Европа",
-      "title": "Бундесвер впервые испытал дроны-камикадзе на учениях в Литве",
-      "link": "https://www.dw.com/ru/бундесвер-впервые-испытал-дроны-камикадзе-на-учениях-в-литве/a-80014648?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-22T18:43",
-      "description": "Армия ФРГ впервые отработала применение дронов-камикадзе на учениях в Литве. На полигоне Руднинкай близ границы с Беларусью беспил",
       "image": ""
     },
     {
@@ -231,6 +231,15 @@
     {
       "region": "Азия",
       "source": "Straits Times",
+      "title": "How to beat the right: Global progressives compare notes in India",
+      "link": "https://www.straitstimes.com/asia/south-asia/how-to-beat-the-right-global-progressives-compare-notes-in-india",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Progressive leaders from 70 countries met in India to brainstorm about how to take on right-wing forces",
+      "image": ""
+    },
+    {
+      "region": "Азия",
+      "source": "Straits Times",
       "title": "Bangladesh garment makers eye 15% wage hike, far short of workers’ demand",
       "link": "https://www.straitstimes.com/asia/south-asia/bangladesh-garment-makers-eye-15-wage-hike-far-short-of-workers-demand",
       "date": "Mon, 23 Nov 2026",
@@ -270,16 +279,7 @@
       "title": "A century-old KL heritage hall lands a bargain lease, setting off a political firestorm",
       "link": "https://www.straitstimes.com/asia/se-asia/a-century-old-kl-heritage-hall-lands-a-bargain-lease-setting-off-a-political-firestorm",
       "date": "Mon, 23 Nov 2026",
-      "description": "The original land valuation for the land in central Kuala Lumpur was originally valued at $1.46 million.",
-      "image": ""
-    },
-    {
-      "region": "Азия",
-      "source": "Straits Times",
-      "title": "Thailand’s floods cost economy over $1.7b, with farmers facing fresh El Nino threat",
-      "link": "https://www.straitstimes.com/asia/se-asia/thailands-floods-cost-economy-over-1-7b-with-farmers-facing-fresh-el-nino-threat",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Losses were concentrated in the agriculture, manufacturing and tourism-related services.",
+      "description": "The land on which the Singapore architect-designed building sits was originally valued at $1.46 million.",
       "image": ""
     },
     {
@@ -438,11 +438,47 @@
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Россиянам назвали признаки фейкового объявления о продаже квартиры",
-      "link": "https://lenta.ru/news/2026/11/23/rossiyanam-nazvali-priznaki-feykovogo-ob-yavleniya-o-prodazhe-kvartiry/",
+      "title": "Россиянам раскрыли причины отказа в выгодном способе купить жилье",
+      "link": "https://lenta.ru/news/2026/11/23/rossiyanam-raskryli-prichiny-otkaza-v-vygodnom-sposobe-kupit-zhilie/",
       "date": "Mon, 23 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/23/10/20261123105947036/pic_993fb89973c4feab34502fdcff85394d.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/23/14/20261123144031466/pic_aa8634f8504679596d02d8a3da975353.jpg"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "В России объяснили нападение СБУ на российский корвет «Меркурий»",
+      "link": "https://lenta.ru/news/2026/11/23/v-rossii-ob-yasnili-napadenie-sbu-na-rossiyskiy-korvet-merkuriy/",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/assets/webpack/images/lenta_og.8735b949.png"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "Главный тренер «Галатасарая» оценил игру Батракова за клуб",
+      "link": "https://lenta.ru/news/2026/11/23/glavnyy-trener-galatasaraya-otsenil-igru-batrakova-za-klub/",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/23/14/20261123145029123/pic_b35e5944128eddf705c5f69f9212ccbb.jpg"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "Сотни школ в Германии получили письма с угрозами взрыва",
+      "link": "https://lenta.ru/news/2026/11/23/sotni-shkol-v-germanii-poluchili-pisma-s-ugrozami-vzryva/",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/23/14/20261123144547496/pic_23b7d32ad945ac4a51ab89aab47696df.jpg"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "В Госдуме отреагировали на призыв Германии к России",
+      "link": "https://lenta.ru/news/2026/11/23/v-gosdume-otreagirovali-na-prizyv-germanii-k-rossii/",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/23/14/20261123144824338/pic_c671495107a49920799a7e30c1ab771e.jpg"
     },
     {
       "region": "Россия",
@@ -454,40 +490,58 @@
       "image": "https://icdn.lenta.ru/images/2026/11/23/14/20261123140646468/pic_d50188c8889bb72db14837c596d3bc5e.jpg"
     },
     {
-      "region": "Россия",
-      "source": "Лента.ру",
-      "title": "Страна НАТО опровергла причастность к атаке на российский корвет",
-      "link": "https://lenta.ru/news/2026/11/23/strana-nato-oprovergla-prichastnost-k-atake-na-rossiyskiy-korvet/",
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "Александр Романенко вновь возглавил алтайское отделение \"Единой России\"",
+      "link": "https://www.amic.ru/news/aleksandr-romanenko-vnov-vozglavil-altayskoe-otdelenie-edinoy-rossii-597193",
       "date": "Mon, 23 Nov 2026",
-      "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/23/14/20261123142904925/pic_5518d4be5a1c036f541952f690d5181d.jpg"
+      "description": "У руля партии он будет еще пять лет",
+      "image": "https://www.amic.ru/images/news/news/481406_size2.jpg"
     },
     {
-      "region": "Россия",
-      "source": "Лента.ру",
-      "title": "«Калашников» изготовил высокоточные СВ-98",
-      "link": "https://lenta.ru/news/2026/11/23/kalashnikov-izgotovil-vysokotochnye-sv-98/",
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "В АКЗС скорректировали основные параметры бюджета Алтайского края на 2027 год",
+      "link": "https://www.amic.ru/news/v-akzs-skorrektirovali-osnovnye-parametry-byudzheta-altayskogo-kraya-na-2027-god-597286",
       "date": "Mon, 23 Nov 2026",
-      "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/23/13/20261123131545789/pic_946a7a7268d7c71edbeb038e6ef4e023.jpg"
+      "description": "На изменения повлиял рост объема межбюджетных трансфертов из федерального центра",
+      "image": "https://www.amic.ru/images/news/news/451187_size2.jpg"
     },
     {
-      "region": "Россия",
-      "source": "Лента.ру",
-      "title": "В России шесть ведущих вузов получили предостережение",
-      "link": "https://lenta.ru/news/2026/11/23/v-rossii-shest-veduschih-vuzov-poluchili-predosterezhenie/",
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "На защиту логистики Калининграда выделят 50 млрд рублей",
+      "link": "https://www.amic.ru/news/na-zaschitu-logistiki-kaliningrada-vydelyat-50-mlrd-rubley-597278",
       "date": "Mon, 23 Nov 2026",
-      "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/23/14/20261123144238826/pic_f296aa9614b09ab2846ae6b7255b1d25.jpg"
+      "description": "Решение принято в рамках стратегии по обеспечению транспортной безопасности Калининградской области",
+      "image": "https://www.amic.ru/images/news/news/449714_size2.jpg"
     },
     {
-      "region": "Россия",
-      "source": "Лента.ру",
-      "title": "Казахстан рассказал о проблемах с транзитом угля через Россию",
-      "link": "https://lenta.ru/news/2026/11/23/problemka/",
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "В Госдуме поддержали идею проведения \"Лесного диктанта\"",
+      "link": "https://www.amic.ru/news/v-gosdume-podderzhali-ideyu-provedeniya-lesnogo-diktanta-597280",
       "date": "Mon, 23 Nov 2026",
-      "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/23/14/20261123142823252/pic_30941be8010325a40e24047655f21d23.jpg"
+      "description": "Диктант призван повысить уровень экологической грамотности населения и напомнить о важности сохранения российского лесного фонда, ",
+      "image": "https://www.amic.ru/images/news/news/529128_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "НПЗ приостановил работу в Ростовской области после удара беспилотников ВСУ",
+      "link": "https://www.amic.ru/news/npz-priostanovil-rabotu-v-rostovskoy-oblasti-posle-udara-bespilotnikov-vsu-597287",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Атака украинских войск длилась шесть часов",
+      "image": "https://www.amic.ru/images/news/news/585883_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "Дмитрий Медведев заявил о \"возможном ядерном ударе\" на СВО",
+      "link": "https://www.amic.ru/news/dmitriy-medvedev-zayavil-o-vozmozhnom-yadernom-udare-na-svo-597279",
+      "date": "Mon, 23 Nov 2026",
+      "description": "По его словам, в использовании ядерного оружия во время спецоперации нет необходимости",
+      "image": "https://www.amic.ru/images/news/news/450210_size2.jpg"
     }
   ]
 }
