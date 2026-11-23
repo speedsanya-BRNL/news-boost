@@ -10,10 +10,7 @@
     <header>
         <div class="header-top">
             <h1>ГЛАВНЫЕ НОВОСТИ</h1>
-            <div>
-                <button class="theme-toggle" id="refresh-btn">🔄 Обновить</button>
-                <button class="theme-toggle" id="theme-btn">🌓 Тема</button>
-            </div>
+            <button class="theme-toggle" id="theme-btn">🌓 Сменить тему</button>
         </div>
         <nav class="region-nav" id="region-buttons"></nav>
     </header>
@@ -24,23 +21,10 @@
         </div>
         <div class="news-grid" id="news-container"></div>
     </div>
-    <footer>Автоматическая лента новостей</footer>
+    <footer>Автоматическое обновление каждые 2 часа</footer>
 
     <script>
-        const WORKER_URL = "https://workers.dev";
-
-        const SOURCES = {
-            "Мир": [{ name: "ТАСС", url: "https://tass.ru" }, { name: "BBC World", url: "https://bbci.co.uk" }],
-            "Европа": [{ name: "Euronews", url: "https://euronews.com" }],
-            "США": [{ name: "NPR News", url: "https://npr.org" }],
-            "Азия": [{ name: "Channel NewsAsia", url: "https://channelnewsasia.com" }],
-            "Китай": [{ name: "South China Morning Post", url: "https://scmp.com" }],
-            "Таиланд": [{ name: "Bangkok Post", url: "https://bangkokpost.com" }, { name: "The Pattaya News", url: "https://thepattayanews.com" }],
-            "Россия": [{ name: "Лента.ру", url: "https://lenta.ru" }],
-            "Барнаул": [{ name: "Толк", url: "https://tolknews.ru" }, { name: "Амител", url: "https://amic.ru" }]
-        };
-
-        let allNews = [], currentRegion = "Все";
+        let allNews = [], allCategories = [], currentRegion = "Все";
         const container = document.getElementById("news-container"), heading = document.getElementById("current-title");
         const updatedSpan = document.getElementById("last-updated"), navContainer = document.getElementById("region-buttons");
 
@@ -52,7 +36,7 @@
 
         function buildMenu() {
             navContainer.innerHTML = "";
-            ["Все", ...Object.keys(SOURCES)].forEach(tab => {
+            ["Все", ...allCategories].forEach(tab => {
                 const btn = document.createElement("button");
                 btn.className = "region-btn" + (tab === currentRegion ? " active" : "");
                 btn.textContent = tab === "Все" ? "Главное" : tab;
@@ -67,30 +51,17 @@
             });
         }
 
-        function cleanText(html) {
-            const div = document.createElement("div");
-            div.innerHTML = html || "";
-            const txt = (div.textContent || "").trim();
-            return txt.length > 160 ? txt.slice(0, 160) + "..." : txt;
-        }
-
-        async function translateRu(text) {
-            if (!text || /[а-яА-ЯёЁ]/.test(text)) return text;
-            try {
-                const r = await fetch(WORKER_URL + encodeURIComponent("https://googleapis.com" + encodeURIComponent(text)));
-                const d = await r.json();
-                return d.map(x => x).join("");
-            } catch { return text; }
-        }
-
         function renderNews() {
             container.innerHTML = "";
             let list = currentRegion === "Все"
-                ? Object.keys(SOURCES).flatMap(cat => allNews.filter(n => n.region === cat).slice(0, 1))
+                ? allCategories.flatMap(cat => allNews.filter(n => n.region === cat).slice(0, 1))
                 : allNews.filter(n => n.region === currentRegion).slice(0, 9);
             heading.textContent = currentRegion === "Все" ? "Картина дня по всем рубрикам" : currentRegion;
 
-            if (!list.length) { container.innerHTML = "<p>Загружаем новости...</p>"; return; }
+            if (!list.length) {
+                container.innerHTML = "<p>В этой рубрике пока нет свежих новостей.</p>";
+                return;
+            }
 
             list.forEach(item => {
                 const card = document.createElement("article");
@@ -101,42 +72,15 @@
             });
         }
 
-        async function fetchFeed(region, feed) {
-            try {
-                const res = await fetch(WORKER_URL + encodeURIComponent(feed.url));
-                const xmlText = await res.text();
-                const doc = new DOMParser().parseFromString(xmlText, "text/xml");
-                const items = Array.from(doc.querySelectorAll("item")).slice(0, 5);
-
-                for (const el of items) {
-                    const rawTitle = el.querySelector("title")?.textContent?.trim() || "";
-                    if (!rawTitle) continue;
-                    const descHtml = el.querySelector("description")?.textContent || "";
-                    const imgMatch = descHtml.match(/<img[^>]+src=["']([^"']+)["']/i);
-                    const img = el.querySelector("enclosure")?.getAttribute("url") || (imgMatch ? imgMatch : "");
-
-                    allNews.push({
-                        region, source: feed.name, title: await translateRu(rawTitle),
-                        link: el.querySelector("link")?.textContent?.trim() || "#",
-                        date: (el.querySelector("pubDate")?.textContent || "").slice(0, 16),
-                        description: await translateRu(cleanText(descHtml)), image: img
-                    });
-                }
-            } catch {}
-            updatedSpan.textContent = `Загружено новостей: ${allNews.length}`;
-            renderNews();
-        }
-
-        async function loadAll() {
-            updatedSpan.textContent = "Подключаемся...";
-            allNews = []; buildMenu(); renderNews();
-            await Promise.allSettled(Object.entries(SOURCES).flatMap(([r, feeds]) => feeds.map(f => fetchFeed(r, f))));
-            const time = new Date().toLocaleTimeString("ru-RU", { hour: "2-digit", minute: "2-digit" });
-            updatedSpan.textContent = `Обновлено в ${time} (${allNews.length})`;
-        }
-
-        document.getElementById("refresh-btn").onclick = loadAll;
-        loadAll();
+        fetch("news.json?t=" + Date.now())
+            .then(r => r.json())
+            .then(data => {
+                if (data.updated) updatedSpan.textContent = "Обновлено: " + data.updated;
+                allNews = data.articles || [];
+                allCategories = data.categories || ["Мир", "Европа", "США", "Азия", "Китай", "Таиланд", "Россия", "Барнаул"];
+                buildMenu();
+                renderNews();
+            });
     </script>
 </body>
 </html>
