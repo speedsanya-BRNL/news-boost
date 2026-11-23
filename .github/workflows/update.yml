@@ -21,7 +21,7 @@ jobs:
           python-version: '3.11'
 
       - name: Установка библиотек
-        run: pip install deep-translator feedparser requests
+        run: pip install deep-translator feedparser
 
       - name: Сбор и перевод новостей
         run: python parser.py
@@ -32,4 +32,3 @@ jobs:
           git config --local user.name "GitHub Action"
           git add news.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Обновление новостей" && git push)
-
