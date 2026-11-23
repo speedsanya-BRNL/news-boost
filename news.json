@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23 14:08",
+  "updated": "2026-11-23 14:18",
   "categories": [
     "Мир",
     "Европа",
@@ -14,8 +14,17 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "В Перми ввели режим \"Ковер\" радиусом 50 км",
-      "link": "https://tass.ru/ekonomika/28344907",
+      "title": "В Курганской области рыбак провалился под лед и утонул",
+      "link": "https://tass.ru/proisshestviya/28344873",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Водолазы вытащили его тело из озера",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "В аэропортах Екатеринбурга и Кирова сняли ограничения",
+      "link": "https://tass.ru/ekonomika/28344963",
       "date": "Mon, 23 Nov 2026",
       "description": "",
       "image": ""
@@ -23,64 +32,199 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "FIL не стала объяснять отказ в нейтральном статусе тренеру Чудинову",
-      "link": "https://tass.ru/sport/28344915",
+      "title": "В Томской области рассказали о состоянии пострадавшего от нападения медведя",
+      "link": "https://tass.ru/obschestvo/28344885",
       "date": "Mon, 23 Nov 2026",
-      "description": "По словам главного тренера сборной России, он не придает этому большого значения",
-      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261123/9589209.jpg"
-    },
-    {
-      "region": "Мир",
-      "source": "ТАСС",
-      "title": "В Новосибирской области в ДТП пострадали четыре человека",
-      "link": "https://tass.ru/proisshestviya/28344841",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Столкнулись легковой автомобиль и автобус",
+      "description": "Его выписали из больницы",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Код дешевеет, надежность — нет: как ИИ меняет экономику разработки",
-      "link": "https://tass.ru/opinions/28326245",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Александр Сиволобов — о том, как искусственный интеллект превращает языковые модели в новую рабочую силу",
-      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261120/9584875.jpg"
-    },
-    {
-      "region": "Мир",
-      "source": "ТАСС",
-      "title": "Поражены электроподстанция и портовая инфраструктура. Удары ВС РФ",
-      "link": "https://tass.ru/armiya-i-opk/28344893",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Российские войска также ударили в районе железнодорожной станции Днепродзержинск Днепропетровской области по двум железнодорожным локомотивам",
-      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261123/9589183.jpg"
-    },
-    {
-      "region": "Мир",
-      "source": "ТАСС",
-      "title": "В курском приграничье два человека пострадали из-за атак ВСУ за сутки",
-      "link": "https://tass.ru/proisshestviya/28344853",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Жителям оказали первую помощь",
-      "image": ""
-    },
-    {
-      "region": "Мир",
-      "source": "ТАСС",
-      "title": "В нескольких вузах Перми отменили утренние занятия из-за атаки БПЛА",
-      "link": "https://tass.ru/obschestvo/28344839",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Информация о дальнейших парах будет публиковаться отдельно заблаговременно",
-      "image": ""
-    },
-    {
-      "region": "Мир",
-      "source": "ТАСС",
-      "title": "В Брянской области при атаке украинского БПЛА погиб человек",
-      "link": "https://tass.ru/proisshestviya/28344905",
+      "title": "\"Аэрофлот\": сохранение уровня пассажиропотока в 2027 году является серьезной задачей",
+      "link": "https://tass.ru/ekonomika/28344955",
       "date": "Mon, 23 Nov 2026",
       "description": "",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "Торгово-промышленная палата предлагает расширить налоговые льготы для бизнеса",
+      "link": "https://tass.ru/ekonomika/28344939",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Это позволит стимулировать инвестиции в подготовку квалифицированных кадров для строительных компаний, отметил глава ТПП РФ Сергей Катырин в официальном письме ",
+      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261123/9589229.jpg"
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "Antara: в Индонезии приветствовали высокую оценку развития экономики Путиным",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/28344903",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Секретарь индонезийского кабмина Индра Виджая рассказал, что президент Прабово Субианто более часа общался с российским коллегой на полях саммита АТЭС",
+      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251016/8529903.jpg"
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "Азаров рассказал о состоянии пострадавшего при взрыве журналиста Заворотного",
+      "link": "https://tass.ru/obschestvo/28344949",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "В Красноярском крае начнут рассматривать дело маньяка Орунбаева 26 ноября",
+      "link": "https://tass.ru/proisshestviya/28344909",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Преступник отбывает пожизненный срок в колонии \"Черный дельфин\"",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "Над Брянской областью за сутки сбили девять БПЛА",
+      "link": "https://tass.ru/proisshestviya/28344941",
+      "date": "Mon, 23 Nov 2026",
+      "description": "В уничтожении участвовали подразделения ПВО Минобороны, мобильно-огневые группы бригады \"БАРС-Брянск\", МОГ Брянского ЛО МВД России на транспорте, а также спецпо",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "В \"Газпром-медиа холдинге\" рассказали о конкурентоспособности российского кино",
+      "link": "https://tass.ru/kultura/28344913",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Гендиректор компании Александр Жаров считает, что кинопродукция РФ \"абсолютно конкурентоспособна\"",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "В Пермском крае отменили режим беспилотной опасности",
+      "link": "https://tass.ru/proisshestviya/28344919",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Она действовала с 04:30 мск",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "В Металлургическом районе Челябинска восстановили электроснабжение после аварии",
+      "link": "https://tass.ru/obschestvo/28344715",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Причиной аварии стали повреждения теплоэнергетического оборудования на ТЭЦ \"Мечел-Энерго\"",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 23 Nov 2026",
+      "description": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 23 Nov 2026",
+      "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 23 Nov 2026",
+      "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 23 Nov 2026",
+      "description": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 22 Nov 2026",
+      "description": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 22 Nov 2026",
+      "description": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 22 Nov 2026",
+      "description": "The couple have been together for four years and were engaged in 2025.",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 22 Nov 2026",
+      "description": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+      "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 22 Nov 2026",
+      "description": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
       "image": ""
     },
     {
@@ -156,6 +300,24 @@
       "image": ""
     },
     {
+      "region": "Европа",
+      "source": "DW Европа",
+      "title": "Литва заявила о непричастности к атаке на Калининградскую область",
+      "link": "https://www.dw.com/ru/литва-заявила-о-непричастности-к-атаке-на-калининградскую-область/a-80013371?maca=rus-rss-ru-eu-4384-rdf",
+      "date": "2026-11-22T11:21",
+      "description": "Глава МИД Литвы Кястутис Будрис заявил, что страна не разрешала использовать свое воздушное пространство для атак на цели в РФ. Накануне в Калининградской облас",
+      "image": ""
+    },
+    {
+      "region": "Европа",
+      "source": "DW Европа",
+      "title": "Участники COP31 не согласовали итоговое заявление",
+      "link": "https://www.dw.com/ru/участники-cop31-не-согласовали-итоговое-заявление/a-80013222?maca=rus-rss-ru-eu-4384-rdf",
+      "date": "2026-11-22T11:01",
+      "description": "Германия и ЕС отвергли проект итогового документа COP31 в Анталье из-за отсутствия прямого обязательства отказаться от угля, нефти и газа. Это первый случай, ко",
+      "image": ""
+    },
+    {
       "region": "США",
       "source": "NPR News",
       "title": "Do not feed the animals. Vets explain why hats, coins and shoes can be deadly.",
@@ -225,6 +387,33 @@
       "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
       "date": "Sun, 22 Nov 2026",
       "description": "America&apos;s fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its p",
+      "image": ""
+    },
+    {
+      "region": "США",
+      "source": "NPR News",
+      "title": "NPR&apos;s Senior Podcast Challenge: Early entries we love",
+      "link": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
+      "date": "Sun, 22 Nov 2026",
+      "description": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition . There&apo",
+      "image": ""
+    },
+    {
+      "region": "США",
+      "source": "NPR News",
+      "title": "Trump orders federal contractors to check with White House before responding to Congress",
+      "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+      "date": "Sat, 21 Nov 2026",
+      "description": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administra",
+      "image": ""
+    },
+    {
+      "region": "Азия",
+      "source": "Straits Times",
+      "title": "India finds sample of popular Bisleri water unsafe, to widen checks to all brands",
+      "link": "https://www.straitstimes.com/asia/south-asia/india-finds-sample-of-popular-bisleri-water-unsafe-to-widen-checks-to-all-brands",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Poor water quality in India has turned bottled water into a necessity for homes and restaurants.",
       "image": ""
     },
     {
@@ -300,6 +489,33 @@
       "image": ""
     },
     {
+      "region": "Азия",
+      "source": "Straits Times",
+      "title": "Kuala Lumpur otters raise river revival hopes",
+      "link": "https://www.straitstimes.com/asia/se-asia/kuala-lumpur-otters-raise-river-revival-hopes",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Theories vary on whether the smooth-coated otters have returned to the city or were hiding in plain sight all along.",
+      "image": ""
+    },
+    {
+      "region": "Азия",
+      "source": "Straits Times",
+      "title": "South Asian nations emerge as labour sources for Japan’s ageing farms",
+      "link": "https://www.straitstimes.com/asia/east-asia/south-asian-nations-emerge-as-labour-sources-for-japans-ageing-farms",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Japan faces growing challenges in attracting agricultural workers from South-east Asian nations as wages climb in those areas.",
+      "image": ""
+    },
+    {
+      "region": "Азия",
+      "source": "Straits Times",
+      "title": "Japan’s rising prices leave Santa in grey at Christmas display",
+      "link": "https://www.straitstimes.com/asia/east-asia/japans-rising-prices-leave-santa-in-grey-at-christmas-display",
+      "date": "Mon, 23 Nov 2026",
+      "description": "The Santa figure in Kobe is dressed in grey as the country’s core consumer prices in September rose 2.1% from a year earlier.",
+      "image": ""
+    },
+    {
       "region": "Китай",
       "source": "CGTN Китай",
       "title": "Oldest known rocks in Asia discovered in north China",
@@ -370,6 +586,42 @@
       "date": "Fri, 20 Nov 2026",
       "description": "Following the APEC Economic Leaders' Meeting in Shenzhen, international guests share their views on China's economy, regional cooperation, and future opportunit",
       "image": "https://news.cgtn.com/news/2026-11-20/What-does-the-world-say-about-China-at-APEC--1Se5jBYqsgw/img/cc4ffbc65ea347198d0125c377dd2e58/cc4ffbc65ea347198d0125c377dd2e58-1280.png"
+    },
+    {
+      "region": "Китай",
+      "source": "CGTN Китай",
+      "title": "New documentary explores Suzhou's Pingjiang Road",
+      "link": "https://news.cgtn.com/news/2026-11-20/New-documentary-explores-Suzhou-s-Pingjiang-Road-1SdUcoH6vCg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "date": "Fri, 20 Nov 2026",
+      "description": "A new three-episode documentary, \"Pingjiang Road Is a River,\" offering an in-depth look at Suzhou's best-preserved canal street, aired on Thursday in China, sho",
+      "image": "https://news.cgtn.com/news/2026-11-20/New-documentary-explores-Suzhou-s-Pingjiang-Road-1SdUcoH6vCg/img/09888feb544042f093025f3c932c4218/09888feb544042f093025f3c932c4218-750.png"
+    },
+    {
+      "region": "Китай",
+      "source": "CGTN Китай",
+      "title": "Establishing a World Association for Bay Areas Economic Cooperation",
+      "link": "https://news.cgtn.com/news/2026-11-20/Establishing-a-World-Association-for-Bay-Areas-Economic-Cooperation-1Se5rSNCV7a/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "date": "Fri, 20 Nov 2026",
+      "description": "",
+      "image": "https://news.cgtn.com/news/2026-11-20/Establishing-a-World-Association-for-Bay-Areas-Economic-Cooperation-1Se5rSNCV7a/img/07f7812e9edb40ca81e7e01a0ff47432/07f7812e9edb40ca81e7e01a0ff47432-750.png"
+    },
+    {
+      "region": "Китай",
+      "source": "CGTN Китай",
+      "title": "DPP's overseas outreach faces setbacks",
+      "link": "https://newsus.cgtn.com/news/2026-11-21/DPP-s-overseas-outreach-faces-setbacks-1Sf9HrqNG6I/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "date": "Sat, 21 Nov 2026",
+      "description": "",
+      "image": "https://newsus.cgtn.com/news/2026-11-21/DPP-s-overseas-outreach-faces-setbacks-1Sf9HrqNG6I/img/c87d4382cae0465299310da4bc8404ff/c87d4382cae0465299310da4bc8404ff-750.png"
+    },
+    {
+      "region": "Китай",
+      "source": "CGTN Китай",
+      "title": "Experts' take: How APEC Shenzhen meeting shapes regional cooperation",
+      "link": "https://news.cgtn.com/news/2026-11-20/Experts-take-How-APEC-Shenzhen-meeting-shapes-regional-cooperation-1SdXVnAQysM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "date": "Fri, 20 Nov 2026",
+      "description": "At the 33rd APEC Economic Leaders' Meeting in south China's Shenzhen on Thursday, Chinese President Xi Jinping outlined a vision for building an Asia-Pacific co",
+      "image": "https://news.cgtn.com/news/2026-11-20/Experts-take-How-APEC-Shenzhen-meeting-shapes-regional-cooperation-1SdXVnAQysM/img/6eeb1dd05fbf4d3f9a6d33cc9c596c11/6eeb1dd05fbf4d3f9a6d33cc9c596c11-750.png"
     },
     {
       "region": "Таиланд",
@@ -445,6 +697,24 @@
     },
     {
       "region": "Таиланд",
+      "source": "Bangkok Post",
+      "title": "Police arrest weed shop staff over licence breach",
+      "link": "https://www.bangkokpost.com/thailand/general/3359445/police-arrest-weed-shop-staff-over-licence-breach",
+      "date": "Mon, 23 Nov 2026",
+      "description": "PHUKET: Authorities have arrested three employees of a cannabis shop in Thalang district for continuing to sell cannabis while its licence was suspended. Cannab",
+      "image": ""
+    },
+    {
+      "region": "Таиланд",
+      "source": "Bangkok Post",
+      "title": "People's Party MP Rukchanok's lese majeste appeal decision on Monday",
+      "link": "https://www.bangkokpost.com/thailand/politics/3359310/peoples-party-mp-rukchanoks-lese-majeste-appeal-decision-on-monday",
+      "date": "Sun, 22 Nov 2026",
+      "description": "The Court of Appeal will rule on People's Party MP Rukchanok Srinork's lese majeste and computer crime convictions on Monday, a decision that could determine he",
+      "image": ""
+    },
+    {
+      "region": "Таиланд",
       "source": "The Pattaya News",
       "title": "American Tourist Dies After Chokehold by Italian MMA Fighter During Bangkok Hotel Altercation",
       "link": "https://thepattayanews.com/2026/11/23/american-tourist-dies-after-chokehold-by-italian-mma-fighter-during-bangkok-hotel-altercation/",
@@ -514,6 +784,51 @@
       "date": "Sun, 22 Nov 2026",
       "description": "The Pattaya News -=-=-=-=-=-=-=-=- &#8211; Khao Kheow Open Zoo held a special football-themed activity featuring its famous pygmy hippo, Moo Deng, ahead of the",
       "image": ""
+    },
+    {
+      "region": "Таиланд",
+      "source": "The Pattaya News",
+      "title": "Legal Corner: Where to Get Certified Notary Documents in Pattaya",
+      "link": "https://thepattayanews.com/2026/11/22/legal-corner-where-to-get-certified-notary-documents-in-pattaya/",
+      "date": "Sun, 22 Nov 2026",
+      "description": "The Pattaya News -=-=-=-=-=-=-=-=- Your Signature, Our Seal of Trust! Navigating legal documentation in a foreign country can be daunting, but it doesn&#8217;t",
+      "image": ""
+    },
+    {
+      "region": "Таиланд",
+      "source": "The Pattaya News",
+      "title": "Pattaya Reviews Draft 2027 Operational Plan Featuring 341 New Projects and 172 Ongoing Initiatives",
+      "link": "https://thepattayanews.com/2026/11/21/pattaya-reviews-draft-2027-operational-plan-featuring-341-new-projects-and-172-ongoing-initiatives/",
+      "date": "Sat, 21 Nov 2026",
+      "description": "The Pattaya News -=-=-=-=-=-=-=-=- &#8211; Pattaya City is reviewing its operational plan for fiscal year 2027, outlining development projects and activities sc",
+      "image": ""
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "Суд определил судьбу расправившегося с 14-летним российского подростка",
+      "link": "https://lenta.ru/news/2026/11/23/sud-opredelil-sudbu-raspravivshegosya-s-14-letnim-rossiyskogo-podrostka/",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/23/09/20261123095317175/pic_78c2ac94e05764b9d34c7f7de65b7237.jpg"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "Женщина купила лампу за две тысячи рублей и разбогатела",
+      "link": "https://lenta.ru/news/2026/11/23/zhenschina-kupila-lampu-za-dve-tysyachi-rubley-i-razbogatela/",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/20/18/20261120181505868/pic_190b46ff0e1aebb1cb25b51fddedb6cf.jpg"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "Дуров пошутил о Telegram и GTA VI",
+      "link": "https://lenta.ru/news/2026/11/23/durov-poshutil-o-telegram-i-gta-vi/",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/23/09/20261123091540108/pic_41359b52760f8f868c532aaf6ada015d.jpg"
     },
     {
       "region": "Россия",
@@ -588,6 +903,33 @@
       "image": "https://icdn.lenta.ru/images/2026/11/23/09/20261123094151049/pic_56edbbaf0dd65862c6775f873bb11d66.jpg"
     },
     {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "Онколог рассказал о защищающем от рака прямой кишки продукте на завтрак",
+      "link": "https://lenta.ru/news/2026/11/23/onkolog-rasskazal-o-zaschischayuschem-ot-raka-pryamoy-kishki-produkte-na-zavtrak/",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/20/11/20261120114622938/pic_1a080ddc602aef191ce1cd6874c7b5b7.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "История оживает. В барнаульском военном музее открыли новые экспозиции",
+      "link": "https://www.amic.ru/news/istoriya-ozhivaet-v-barnaulskom-voennom-muzee-otkryli-novye-ekspozicii-597227",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Помимо традиционных музейных предметов, организаторы подготовили интерактивные материалы",
+      "image": "https://www.amic.ru/images/news/news/597227_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "В Турции нашли древесину возрастом 4300 лет, которую связывают с Всемирным потопом",
+      "link": "https://www.amic.ru/news/v-turcii-nashli-drevesinu-vozrastom-4300-let-kotoruyu-svyazyvayut-s-vsemirnym-potopom-597241",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Полученная датировка представляет особый интерес из-за ее совпадения с предполагаемым временем Всемирного потопа",
+      "image": "https://www.amic.ru/images/news/news/592802_size2.jpg"
+    },
+    {
       "region": "Барнаул",
       "source": "Амител",
       "title": "Новая жизнь старой дороги. В Барнауле хотят отремонтировать улицу Димитрова",
@@ -658,6 +1000,24 @@
       "date": "Mon, 23 Nov 2026",
       "description": "Стандартизация поможет установить четкие требования к ингредиентам и технологии приготовления таких блюд, как борщ, пельмени или блины, и защитит рестораны от о",
       "image": "https://www.amic.ru/images/news/news/597250_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "\"Новые люди\" продолжают проводить дискотеки для старшего поколения в Алтайском крае",
+      "link": "https://www.amic.ru/news/novye-lyudi-prodolzhayut-provodit-diskoteki-dlya-starshego-pokoleniya-v-altayskom-krae-597251",
+      "date": "Mon, 23 Nov 2026",
+      "description": "На танцевальный вечер пришли более 150 человек",
+      "image": "https://www.amic.ru/images/news/news/597251_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "Владельцам подземных парковок в России разрешат оформлять землю в собственность",
+      "link": "https://www.amic.ru/news/vladelcam-podzemnyh-parkovok-v-rossii-razreshat-oformlyat-zemlyu-v-sobstvennost-597236",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Границы предоставляемой земли будут ограничены наземными частями сооружений",
+      "image": "https://www.amic.ru/images/news/news/578701_size2.jpg"
     }
   ]
 }
