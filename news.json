@@ -14,33 +14,6 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "В \"Газпром-медиа холдинге\" рассказали о конкурентоспособности российского кино",
-      "link": "https://tass.ru/kultura/28344913",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Гендиректор компании Александр Жаров считает, что кинопродукция РФ \"абсолютно конкурентоспособна\"",
-      "image": ""
-    },
-    {
-      "region": "Мир",
-      "source": "ТАСС",
-      "title": "В Пермском крае отменили режим беспилотной опасности",
-      "link": "https://tass.ru/proisshestviya/28344919",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Она действовала с 04:30 мск",
-      "image": ""
-    },
-    {
-      "region": "Мир",
-      "source": "ТАСС",
-      "title": "В Металлургическом районе Челябинска восстановили электроснабжение после аварии",
-      "link": "https://tass.ru/obschestvo/28344715",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Причиной аварии стали повреждения теплоэнергетического оборудования на ТЭЦ \"Мечел-Энерго\"",
-      "image": ""
-    },
-    {
-      "region": "Мир",
-      "source": "ТАСС",
       "title": "В Перми ввели режим \"Ковер\" радиусом 50 км",
       "link": "https://tass.ru/ekonomika/28344907",
       "date": "Mon, 23 Nov 2026",
@@ -82,6 +55,33 @@
       "date": "Mon, 23 Nov 2026",
       "description": "Российские войска также ударили в районе железнодорожной станции Днепродзержинск Днепропетровской области по двум железнодорожным локомотивам",
       "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261123/9589183.jpg"
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "В курском приграничье два человека пострадали из-за атак ВСУ за сутки",
+      "link": "https://tass.ru/proisshestviya/28344853",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Жителям оказали первую помощь",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "В нескольких вузах Перми отменили утренние занятия из-за атаки БПЛА",
+      "link": "https://tass.ru/obschestvo/28344839",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Информация о дальнейших парах будет публиковаться отдельно заблаговременно",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "В Брянской области при атаке украинского БПЛА погиб человек",
+      "link": "https://tass.ru/proisshestviya/28344905",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": ""
     },
     {
       "region": "Мир",
@@ -608,20 +608,20 @@
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Трансгендерная модель попыталась сесть в машину в мини-платье и была поднята на смех",
-      "link": "https://lenta.ru/news/2026/11/23/transgendernaya-model-popytalas-sest-v-mashinu-v-mini-platie-i-byla-podnyata-na-smeh/",
-      "date": "Mon, 23 Nov 2026",
-      "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/20/18/20261120185847246/pic_46aed018510815a42f5c1b216e996c77.jpg"
-    },
-    {
-      "region": "Россия",
-      "source": "Лента.ру",
       "title": "Сотрудника российского министерства захотели убить",
       "link": "https://lenta.ru/news/2026/11/23/sotrudnika-rossiyskogo-ministerstva-zahoteli-ubit/",
       "date": "Mon, 23 Nov 2026",
       "description": "",
       "image": "https://icdn.lenta.ru/images/2026/11/23/09/20261123095614694/pic_ec9433561cd665ef38ed22a5ba28ff9b.jpg"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "Трансгендерная модель попыталась сесть в машину в мини-платье и была поднята на смех",
+      "link": "https://lenta.ru/news/2026/11/23/transgendernaya-model-popytalas-sest-v-mashinu-v-mini-platie-i-byla-podnyata-na-smeh/",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/20/18/20261120185847246/pic_46aed018510815a42f5c1b216e996c77.jpg"
     },
     {
       "region": "Россия",
