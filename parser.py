@@ -1,16 +1,27 @@
 from datetime import datetime, timedelta, timezone
 import json
 import re
+import urllib.parse
 from deep_translator import GoogleTranslator
 import feedparser
 import requests
 
+# Надежные источники (прямые СМИ + открытые новостные потоки для регионов с жесткой защитой)
 SOURCES = {
     "Мир": [
         ("BBC World", "https://bbci.co.uk"),
-        ("ТАСС", "https://tass.ru"),
+        (
+            "ТАСС",
+            "https://google.com",
+        ),
     ],
-    "Европа": [("Euronews", "https://euronews.com")],
+    "Европа": [
+        ("Euronews", "https://euronews.com"),
+        (
+            "Европа (Главное)",
+            "https://google.com",
+        ),
+    ],
     "США": [("NPR News", "https://npr.org")],
     "Азия": [
         (
@@ -25,22 +36,33 @@ SOURCES = {
         ("Bangkok Post", "https://bangkokpost.com"),
         ("The Pattaya News", "https://thepattayanews.com"),
     ],
-    "Россия": [("Интерфакс", "https://interfax.ru")],
+    "Россия": [
+        (
+            "Интерфакс",
+            "https://google.com",
+        ),
+        (
+            "РБК",
+            "https://google.com",
+        ),
+    ],
     "Барнаул": [
-        ("Толк", "https://tolknews.ru"),
-        ("Амител", "https://amic.ru"),
+        (
+            "Толк (Барнаул)",
+            "https://google.com",
+        ),
+        (
+            "Амител (Барнаул)",
+            "https://google.com",
+        ),
     ],
 }
 
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-        " (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    ),
-    "Accept": (
-        "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
-    ),
-    "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+        " (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+    )
 }
 
 translator = GoogleTranslator(source="auto", target="ru")
@@ -93,17 +115,29 @@ for region, feeds in SOURCES.items():
     for source_name, url in feeds:
         try:
             resp = requests.get(url, headers=HEADERS, timeout=15)
+            print(
+                f"[{region}] {source_name}: статус {resp.status_code}, размер"
+                f" {len(resp.content)} байт"
+            )
             feed = feedparser.parse(resp.content)
+            print(f"   Найдено записей: {len(feed.entries)}")
 
             for entry in feed.entries[:5]:
                 raw_title = entry.get("title", "").strip()
                 if not raw_title:
                     continue
 
+                # Убираем дублирующее название сайта в конце заголовка (если есть)
+                raw_title = re.sub(r"\s+-\s+[^-]+$", "", raw_title)
+
                 link = entry.get("link", "#").strip()
                 raw_desc = clean_html(
                     entry.get("summary", "") or entry.get("description", "")
                 )
+                # Если описание полностью повторяет заголовок — очищаем его
+                if raw_desc.startswith(raw_title[:30]):
+                    raw_desc = ""
+
                 pub_date = entry.get("published", "")[:16]
                 image_url = extract_image(entry)
 
@@ -121,6 +155,8 @@ for region, feeds in SOURCES.items():
                 })
         except Exception as e:
             print(f"Ошибка {source_name}: {e}")
+
+print(f"ИТОГО СОБРАНО НОВОСТЕЙ: {len(articles)}")
 
 barnaul_tz = timezone(timedelta(hours=7))
 now_str = datetime.now(barnaul_tz).strftime("%d.%m.%Y в %H:%M")
