@@ -1,0 +1,34 @@
+name: Обновление новостей
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Загрузка репозитория
+        uses: actions/checkout@v4
+
+      - name: Настройка Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Установка переводчика
+        run: pip install deep-translator
+
+      - name: Сбор и перевод новостей
+        run: python parser.py
+
+      - name: Сохранение в базу
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add news.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Обновление новостей" && git push)
