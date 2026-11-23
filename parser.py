@@ -7,28 +7,31 @@ import feedparser
 
 SOURCES = {
     "Мир": [
-        ("ТАСС", "https://tass.ru"),
-        ("BBC World", "https://bbci.co.uk"),
+        ("ТАСС", "https://tass.ru/rss.xml"),
+        ("BBC World", "https://feeds.bbci.co.uk/news/rss.xml"),
     ],
-    "Европа": [("Euronews", "https://euronews.com")],
-    "США": [("NPR News", "https://npr.org")],
+    "Европа": [
+        ("Euronews", "https://www.euronews.com/rss")
+    ],
+    "США": [
+        ("NPR News", "https://www.npr.org/rss/rss.php")
+    ],
     "Азия": [
-        (
-            "Channel NewsAsia",
-            "https://channelnewsasia.com",
-        )
+        ("Channel NewsAsia", "https://www.channelnewsasia.com/api:rss/1.0/articles?output=xml")
     ],
     "Китай": [
-        ("South China Morning Post", "https://scmp.com")
+        ("South China Morning Post", "https://www.scmp.com/rss/3003313/feed")
     ],
     "Таиланд": [
-        ("Bangkok Post", "https://bangkokpost.com"),
-        ("The Pattaya News", "https://thepattayanews.com"),
+        ("Bangkok Post", "https://www.bangkokpost.com/services/rss/"),
+        ("The Pattaya News", "https://thepattayanews.com/feed/"),
     ],
-    "Россия": [("Лента.ру", "https://lenta.ru")],
+    "Россия": [
+        ("Лента.ру", "https://lenta.ru/rss/")
+    ],
     "Барнаул": [
-        ("Толк", "https://tolknews.ru"),
-        ("Амител", "https://amic.ru"),
+        ("Толк", "https://tolknews.ru/rss/"),
+        ("Амител", "https://amic.ru/rss/"),
     ],
 }
 
@@ -86,7 +89,7 @@ for region, feeds in SOURCES.items():
                 "curl",
                 "-sL",
                 "-A",
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
                 "--max-time",
                 "15",
                 url,
