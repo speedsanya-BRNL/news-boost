@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23 21:01",
+  "updated": "2026-11-23 23:01",
   "categories": [
     "Мир",
     "Европа",
@@ -15,56 +15,56 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Цена Brent на бирже ICE демонстирует снижение более чем на 2%",
-      "link": "https://tass.ru/ekonomika/28346603",
+      "title": "Иран заявил о стабильной добыче нефти в стране",
+      "link": "https://tass.ru/ekonomika/28346981",
       "date": "Mon, 23 Nov 2026",
-      "description": "По данным на 16:30 мск, стоимость снижалась до $90,44 за баррель",
+      "description": "Продажи осуществляются способами, о которых не говорят в СМИ, заявил врио иранского министра нефти Хамид Бовард",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "МЭИ представил в Казани разработки в области энергетики и искусственного интеллекта",
-      "link": "https://tass.ru/nauka/28346601",
+      "title": "Непогода не позволит жителям Московского региона не увидеть \"Бобровую луну\"",
+      "link": "https://tass.ru/obschestvo/28346979",
       "date": "Mon, 23 Nov 2026",
-      "description": "В числе других экспонатов - разработки студентов и молодых ученых программы \"Технологии будущего\": гидротурбины с лопастями по обр",
+      "description": "Явление будет сопровождаться уникальным эффектом суперлуния, когда Луна кажется визуально больше и ярче обычного",
+      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261123/9590987.jpg"
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "Совет ЕС внес в список террористов экс-сотрудника ФБР Наззаро",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/28346973",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Совет утверждает, что Ринальдо Наззаро является основателем и лидером The Base, которая обвиняется в причастности к терактам",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Временному поверенному Эстонии заявили протест в МИД РФ",
-      "link": "https://tass.ru/politika/28346599",
+      "title": "Адвокат Согоян: текст новой конституции Армении лишен идеологического компонента",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/28346957",
+      "date": "Mon, 23 Nov 2026",
+      "description": "По ее словам, документ написан в русле требований внешних сил",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "Трамп уверен, что Хуанг вернет себе прежние позиции в Nvidia",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/28346971",
+      "date": "Mon, 23 Nov 2026",
+      "description": "По словам президента США, \"к людям приходит осознание\" о проделанной президентом компании работе",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "Цена нефти опустилась ниже $89 за баррель впервые с 28 августа",
+      "link": "https://tass.ru/ekonomika/28346977",
       "date": "Mon, 23 Nov 2026",
       "description": "",
       "image": ""
-    },
-    {
-      "region": "Мир",
-      "source": "ТАСС",
-      "title": "Группа \"Свои\" и исполнитель Вацлав представят ЛНР в финале конкурса \"Родники\"",
-      "link": "https://tass.ru/kultura/28346527",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Финал пройдет 9 декабря в Светлогорске Калининградской области",
-      "image": ""
-    },
-    {
-      "region": "Мир",
-      "source": "ТАСС",
-      "title": "Новый формат студенческих экспедиций между Россией и Китаем предложили на форуме в Казани",
-      "link": "https://tass.ru/obschestvo/28346565",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Там выступили с инициативой возродить \"Поезда дружбы\"",
-      "image": ""
-    },
-    {
-      "region": "Мир",
-      "source": "ТАСС",
-      "title": "Ле Пен назвала смехотворными обвинения некоторых лидеров ЕС в адрес Путина",
-      "link": "https://tass.ru/mezhdunarodnaya-panorama/28346577",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Они противоречат стремлению к миру, считает кандидат в президенты Франции на выборах 2027 года от партии \"Национальное объединение",
-      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250128/8033177.jpg"
     },
     {
       "region": "Мир",
@@ -73,7 +73,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 23 Nov 2026",
       "description": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/927f/live/24790470-e740-11f1-99b6-a35a62fa4264.png"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f684/live/02351f90-e74d-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "region": "Мир",
@@ -105,7 +105,7 @@
     {
       "region": "Мир",
       "source": "BBC World",
-      "title": "Flights and train services cancelled in Belgium due to strike",
+      "title": "Flights cancelled in Belgium due to cost-of-living strike",
       "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 23 Nov 2026",
       "description": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
@@ -125,8 +125,26 @@
       "source": "DW Европа",
       "title": "DW",
       "link": "https://www.dw.com/russian/?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-23T13:14",
+      "date": "2026-11-23T15:03",
       "description": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "image": ""
+    },
+    {
+      "region": "Европа",
+      "source": "DW Европа",
+      "title": "Bloomberg: В Европе подскочили цены на газ из-за прогноза холодов",
+      "link": "https://www.dw.com/ru/bloomberg-в-европе-подскочили-цены-на-газ-из-за-прогноза-холодов/a-80021010?maca=rus-rss-ru-eu-4384-rdf",
+      "date": "2026-11-23T14:30",
+      "description": "Базовые фьючерсы на природный газ в Европе подскочили на 8,6% на фоне прогнозов относительно резкого похолодания и сбоев из-за вой",
+      "image": ""
+    },
+    {
+      "region": "Европа",
+      "source": "DW Европа",
+      "title": "Евросоюз вызвал дипломата России из-за повреждения посольств в Киеве",
+      "link": "https://www.dw.com/ru/евросоюз-вызвал-дипломата-россии-из-за-повреждения-посольств-в-киеве/a-80021131?maca=rus-rss-ru-eu-4384-rdf",
+      "date": "2026-11-23T13:14",
+      "description": "Российского представителя вызвали в дипломатическую службу ЕС после повреждения посольств в Киеве. В Брюсселе подчеркнули, что дип",
       "image": ""
     },
     {
@@ -157,22 +175,13 @@
       "image": ""
     },
     {
-      "region": "Европа",
-      "source": "DW Европа",
-      "title": "WDR и NDR: РФ хочет разместить ядерное оружие в космосе до конца года",
-      "link": "https://www.dw.com/ru/wdr-и-ndr-рф-хочет-разместить-ядерное-оружие-в-космосе-до-конца-года/a-80016116?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-23T08:43",
-      "description": "Западные спецслужбы считают, что Россия может в ближайшие недели вывести на орбиту спутник с ядерной боеголовкой. По данным немецк",
-      "image": ""
-    },
-    {
-      "region": "Европа",
-      "source": "DW Европа",
-      "title": "Все упавшие в Польше 20 ноября объекты оказались российскими ракетами",
-      "link": "https://www.dw.com/ru/все-упавшие-в-польше-20-ноября-объекты-оказались-российскими-ракетами/a-80015508?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-23T01:19",
-      "description": "Упавшие в Польше объекты оказались тремя российскими ракетами, заявили в прокуратуре в Люблине. Ранее предполагалось, что в страну",
-      "image": ""
+      "region": "США",
+      "source": "NPR News",
+      "title": "Nvidia&apos;s board of directors brings Jensen Huang back as CEO",
+      "link": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
+      "date": "Mon, 23 Nov 2026",
+      "description": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7175x4786+0+0/resize/7175x4786!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fff%2Fc0%2Fc0c6dafa48c38152975a14812445%2Fgettyimages-2301014104.jpg"
     },
     {
       "region": "США",
@@ -220,13 +229,13 @@
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+0/resize/4800x2700!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2F0f%2Fb7589e96433a89a0f02bd9f8db13%2Fnpr-mushrooms-1120-1.jpg"
     },
     {
-      "region": "США",
-      "source": "NPR News",
-      "title": "K is for kindness, but families worry the world has less of it",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6035702/kindness-kids-sesame-street-parents-survey",
+      "region": "Азия",
+      "source": "Straits Times",
+      "title": "Indonesia files treason charges linked to spying on President Prabowo Subianto",
+      "link": "https://www.straitstimes.com/asia/se-asia/indonesia-files-treason-charges-linked-to-spying-on-president-prabowo-subianto",
       "date": "Mon, 23 Nov 2026",
-      "description": "A decade after first asking families about kindness, Sesame Workshop asked parents similar questions. They responded that their ki",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/970x776+0+0/resize/970x776!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F3b%2F1b7e973f4fbc840214141269612c%2Fabby-and-friend-1.JPG"
+      "description": "The full extent of the plot, or the accused's alleged objectives, were not immediately clear.",
+      "image": ""
     },
     {
       "region": "Азия",
@@ -258,7 +267,7 @@
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Indonesian President Prabowo names two V-P nominees; Parliament to vote on Dec 11",
+      "title": "Prabowo names two V-P nominees; Indonesian Parliament to vote on Dec 11",
       "link": "https://www.straitstimes.com/asia/se-asia/indonesian-president-prabowo-names-two-vp-nominees-parliament-to-vote-on-dec-11",
       "date": "Mon, 23 Nov 2026",
       "description": "Parliament will choose between ministers Andi Amran Sulaiman and Sugiono to serve for the remainder of the term.",
@@ -271,15 +280,6 @@
       "link": "https://www.straitstimes.com/asia/chinese-official-sentenced-to-death-for-leaking-secrets-to-foreign-country",
       "date": "Mon, 23 Nov 2026",
       "description": "BEIJING, Nov 23 - China has sentenced an official in its central apparatus to death for leaking state secrets to a foreign country",
-      "image": ""
-    },
-    {
-      "region": "Азия",
-      "source": "Straits Times",
-      "title": "Hospital colleagues filmed in toilets by S’porean doctor in Melbourne describe trauma in court",
-      "link": "https://www.straitstimes.com/asia/australianz/hospital-colleagues-filmed-in-toilets-by-sporean-doctor-in-melbourne-describe-trauma-in-court",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Ryan Cho faces some of his victims on the first of a three-day hearing that will lead to his sentencing.",
       "image": ""
     },
     {
@@ -438,56 +438,92 @@
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Алиев обратился к Трампу",
-      "link": "https://lenta.ru/news/2026/11/23/aliev-obratilsya-k-trampu/",
+      "title": "Россиянам раскрыли способ сэкономить на отоплении",
+      "link": "https://lenta.ru/news/2026/11/23/rossiyanam-raskryli-sposob-sekonomit-na-otoplenii/",
       "date": "Mon, 23 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/23/16/20261123165316877/pic_72e72ff33fed96ca401ca4fd6b23102e.jpg"
+      "image": "https://icdn.lenta.ru/assets/webpack/images/lenta_og.8735b949.png"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Известный российский режиссер описал съемки на Чукотке словами «удивительно и страшно»",
-      "link": "https://lenta.ru/news/2026/11/23/izvestnyy-rossiyskiy-rezhisser-opisal-s-emki-na-chukotke-slovami-udivitelno-i-strashno/",
+      "title": "Стали известны подробности новых санкций Брюсселя против России",
+      "link": "https://lenta.ru/news/2026/11/23/stali-izvestny-podrobnosti-novyh-sanktsiy-bryusselya-protiv-rossii/",
       "date": "Mon, 23 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/23/15/20261123155658946/pic_6c2151f99268b5ad83f2191e7dd3e3fe.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/23/18/20261123185849000/pic_ee9091e80825a8da31afe1393db2fcfb.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "В России ответили на призыв Германии к завершению украинского конфликта",
-      "link": "https://lenta.ru/news/2026/11/23/v-rossii-otvetili-na-prizyv-germanii-k-zaversheniyu-ukrainskogo-konflikta/",
+      "title": "Трамп раскрыл удивившую его деталь разговора с Си Цзиньпином",
+      "link": "https://lenta.ru/news/2026/11/23/tramp-raskryl-udivivshuyu-ego-detal-razgovora-s-si-tszinpinom/",
       "date": "Mon, 23 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/23/16/20261123164909602/pic_40620bfa2a466c07874495252549e41c.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/23/18/20261123185400673/pic_028095609dbd5772b80ada7623a9f314.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Оставленный россиянином комментарий про Гитлера привел его в суд",
-      "link": "https://lenta.ru/news/2026/11/23/ostavlennyy-rossiyaninom-kommentariy-pro-gitlera-privel-ego-v-sud/",
+      "title": "Перечислены вышедшие из моды тренды 2016 года",
+      "link": "https://lenta.ru/news/2026/11/23/perechisleny-vyshedshie-iz-mody-trendy-2016-goda/",
       "date": "Mon, 23 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/23/16/20261123165523709/pic_85c047078a5c978de48f596277a15c52.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/19/19/20261119192252370/pic_b1891b5d01383fa3902e876fab3d6757.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Россиян предупредили о подорожании одного морского деликатеса",
-      "link": "https://lenta.ru/news/2026/11/23/rossiyan-predupredili-o-podorozhanii-odnogo-morskogo-delikatesa/",
+      "title": "Кошка выбралась из переноски и задержала вылет самолета в США",
+      "link": "https://lenta.ru/news/2026/11/23/koshka-vybralas-iz-perenoski-i-zaderzhala-vylet-samoleta-v-ssha/",
       "date": "Mon, 23 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/23/16/20261123165142550/pic_dd963c46fd4e6001e1074d3e611daa6e.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/23/11/20261123112159576/pic_1d2ca556208dd2b420b609ba211b92af.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Стали известны подробности игры в падел Джигурды перед инфарктом",
-      "link": "https://lenta.ru/news/2026/11/23/stali-izvestny-podrobnosti-igry-v-padel-dzhigurdy-pered-infarktom/",
+      "title": "Стала известна область с самыми большими потерями ВСУ",
+      "link": "https://lenta.ru/news/2026/11/23/stal-izvesten-gorod-s-samymi-bolshimi-poteryami-vsu/",
       "date": "Mon, 23 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/23/15/20261123153209175/pic_7c0c26193e3830985f3c25b97cc85bd8.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/23/18/20261123185030147/pic_cdd5e666510d70fca3a62d6de74f04c5.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "Заставили копать себе могилу. В Алтайском крае проверяют информацию о нападении на женщину",
+      "link": "https://www.amic.ru/news/zastavili-kopat-sebe-mogilu-v-altayskom-krae-proveryayut-informaciyu-o-napadenii-na-zhenschinu-597302",
+      "date": "Mon, 23 Nov 2026",
+      "description": "По данным из соцсетей, жертву избили на глазах у ее детей",
+      "image": "https://www.amic.ru/images/news/news/553999_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "В Алтайском крае ликвидировали подпольную нарколабораторию",
+      "link": "https://www.amic.ru/news/v-altayskom-krae-likvidirovali-podpolnuyu-narkolaboratoriyu-597301",
+      "date": "Mon, 23 Nov 2026",
+      "description": "По версии следствия, преступники изготовили 167 килограммов синтетических наркотиков",
+      "image": "https://www.amic.ru/images/news/news/597301_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "Врач предупредила об опасности постоянно появляющихся синяков",
+      "link": "https://www.amic.ru/news/vrach-predupredila-ob-opasnosti-postoyanno-poyavlyayuschihsya-sinyakov-597299",
+      "date": "Mon, 23 Nov 2026",
+      "description": "В некоторых случаях они указывают, что пора обратиться к специалисту",
+      "image": "https://www.amic.ru/images/news/news/539925_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "Лишь четверых из 10 россиян устраивает продолжительность 11-дневных новогодних выходных",
+      "link": "https://www.amic.ru/news/lish-chetveryh-iz-10-rossiyan-ustraivayut-prodolzhitelnost-11-dnevnyh-novogodnih-vyhodnye-597295",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Примерно 13% опрошенных жителей страны хотели бы отдыхать дольше",
+      "image": "https://www.amic.ru/images/news/news/495413_size2.jpg"
     },
     {
       "region": "Барнаул",
@@ -506,42 +542,6 @@
       "date": "Mon, 23 Nov 2026",
       "description": "По словам пользователей интернета, \"холод передается прямо через фотографии\"",
       "image": "https://www.amic.ru/images/news/news/597292_size2.jpg"
-    },
-    {
-      "region": "Барнаул",
-      "source": "Амител",
-      "title": "VK и Max оспаривают санкции Евросоюза",
-      "link": "https://www.amic.ru/news/vk-i-max-osparivayut-sankcii-evrosoyuza-597289",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Представители мессенджеров требуют отмены постановления о введении против них рестрикций",
-      "image": "https://www.amic.ru/images/news/news/597289_size2.jpg"
-    },
-    {
-      "region": "Барнаул",
-      "source": "Амител",
-      "title": "Спасенного дикого медведя выпустили на волю в Новосибирской области",
-      "link": "https://www.amic.ru/news/spasennogo-dikogo-medvedya-vypustili-na-volyu-v-novosibirskoy-oblasti-597282",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Власти сообщили, где сейчас находится хищник",
-      "image": "https://www.amic.ru/images/news/news/593411_size2.jpg"
-    },
-    {
-      "region": "Барнаул",
-      "source": "Амител",
-      "title": "Александр Романенко вновь возглавил алтайское отделение \"Единой России\"",
-      "link": "https://www.amic.ru/news/aleksandr-romanenko-vnov-vozglavil-altayskoe-otdelenie-edinoy-rossii-597193",
-      "date": "Mon, 23 Nov 2026",
-      "description": "У руля партии он будет еще пять лет",
-      "image": "https://www.amic.ru/images/news/news/481406_size2.jpg"
-    },
-    {
-      "region": "Барнаул",
-      "source": "Амител",
-      "title": "В АКЗС скорректировали основные параметры бюджета Алтайского края на 2027 год",
-      "link": "https://www.amic.ru/news/v-akzs-skorrektirovali-osnovnye-parametry-byudzheta-altayskogo-kraya-na-2027-god-597286",
-      "date": "Mon, 23 Nov 2026",
-      "description": "На изменения повлиял рост объема межбюджетных трансфертов из федерального центра",
-      "image": "https://www.amic.ru/images/news/news/451187_size2.jpg"
     }
   ]
 }
