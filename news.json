@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23 19:01",
+  "updated": "2026-11-23 21:01",
   "categories": [
     "Мир",
     "Европа",
@@ -15,56 +15,65 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "На Украине предъявили новое обвинение в растрате бывшему вице-премьеру Чернышову",
-      "link": "https://tass.ru/mezhdunarodnaya-panorama/28346139",
+      "title": "Цена Brent на бирже ICE демонстирует снижение более чем на 2%",
+      "link": "https://tass.ru/ekonomika/28346603",
       "date": "Mon, 23 Nov 2026",
-      "description": "По версии следствия, Алексей Чернышов организовал схему выплаты зарплаты из бюджета министерства пяти сотрудникам, которые на само",
+      "description": "По данным на 16:30 мск, стоимость снижалась до $90,44 за баррель",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "В Оренбурге выявили превышение ПДК по сероводороду в семь раз",
-      "link": "https://tass.ru/obschestvo/28346129",
+      "title": "МЭИ представил в Казани разработки в области энергетики и искусственного интеллекта",
+      "link": "https://tass.ru/nauka/28346601",
       "date": "Mon, 23 Nov 2026",
-      "description": "Неоднократные превышения предельно допустимой концентрации стали поводом для заведения уголовного дела",
+      "description": "В числе других экспонатов - разработки студентов и молодых ученых программы \"Технологии будущего\": гидротурбины с лопастями по обр",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Подмосковный бизнес привлек 1,7 млрд рублей льготных кредитов на инвестиции",
-      "link": "https://tass.ru/ekonomika/28346137",
+      "title": "Временному поверенному Эстонии заявили протест в МИД РФ",
+      "link": "https://tass.ru/politika/28346599",
       "date": "Mon, 23 Nov 2026",
-      "description": "Льготная программа кредитования реализуется Банком России, Минэкономразвития России и Корпорацией МСП",
+      "description": "",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "В Москве представили книгу о работе дрессировщика Николая Павленко",
-      "link": "https://tass.ru/kultura/28346065",
+      "title": "Группа \"Свои\" и исполнитель Вацлав представят ЛНР в финале конкурса \"Родники\"",
+      "link": "https://tass.ru/kultura/28346527",
       "date": "Mon, 23 Nov 2026",
-      "description": "Первый тираж планируют выпустить в декабре",
+      "description": "Финал пройдет 9 декабря в Светлогорске Калининградской области",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Миронов: Евросоюзу придется восстанавливать Украину и платить репарации России",
-      "link": "https://tass.ru/politika/28346113",
+      "title": "Новый формат студенческих экспедиций между Россией и Китаем предложили на форуме в Казани",
+      "link": "https://tass.ru/obschestvo/28346565",
       "date": "Mon, 23 Nov 2026",
-      "description": "ЕС для помощи Украине выпускает долговые бумаги под гарантии своего долгосрочного бюджета, а Киев собирается возвращать долг Брюсс",
+      "description": "Там выступили с инициативой возродить \"Поезда дружбы\"",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Эксперт Кокорин прокомментировал неудачу конференции по климату в Турции",
-      "link": "https://tass.ru/obschestvo/28346101",
+      "title": "Ле Пен назвала смехотворными обвинения некоторых лидеров ЕС в адрес Путина",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/28346577",
       "date": "Mon, 23 Nov 2026",
-      "description": "По его словам, отсутствие итогового документа на мероприятии не означает провала Парижского соглашения",
-      "image": ""
+      "description": "Они противоречат стремлению к миру, считает кандидат в президенты Франции на выборах 2027 года от партии \"Национальное объединение",
+      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250128/8033177.jpg"
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 23 Nov 2026",
+      "description": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/927f/live/24790470-e740-11f1-99b6-a35a62fa4264.png"
     },
     {
       "region": "Мир",
@@ -78,11 +87,11 @@
     {
       "region": "Мир",
       "source": "BBC World",
-      "title": "Five takeaways from the failed climate talks COP31",
-      "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+      "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 23 Nov 2026",
-      "description": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f7/live/e38ff1a0-e71f-11f1-99b6-a35a62fa4264.jpg"
+      "description": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810a/live/c0542f80-e73d-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "region": "Мир",
@@ -96,37 +105,46 @@
     {
       "region": "Мир",
       "source": "BBC World",
-      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 23 Nov 2026",
-      "description": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7507/live/ee06aa60-e720-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "region": "Мир",
-      "source": "BBC World",
-      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 23 Nov 2026",
-      "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d6/live/b3d40440-e712-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "region": "Мир",
-      "source": "BBC World",
-      "title": "Flights grounded in Belgium due to strike against austerity measures",
+      "title": "Flights and train services cancelled in Belgium due to strike",
       "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 23 Nov 2026",
       "description": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4074/live/80a31490-e72a-11f1-a094-5fdc692f3e33.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg"
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+      "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/64308a00-e73d-11f1-802a-678be58471bb.jpg"
     },
     {
       "region": "Европа",
       "source": "DW Европа",
       "title": "DW",
       "link": "https://www.dw.com/russian/?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-23T11:41",
+      "date": "2026-11-23T13:14",
       "description": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "image": ""
+    },
+    {
+      "region": "Европа",
+      "source": "DW Европа",
+      "title": "Пинхас Гольдшмидт переизбран главой Европейской конференции раввинов",
+      "link": "https://www.dw.com/ru/пинхас-гольдшмидт-переизбран-главой-европейской-конференции-раввинов/a-80019898?maca=rus-rss-ru-eu-4384-rdf",
+      "date": "2026-11-23T12:35",
+      "description": "63-летний Пинхас Гольдшмидт переизбран главой Европейской конференции раввинов (CER) еще на пять лет. Он заявил, что намерен укреп",
+      "image": ""
+    },
+    {
+      "region": "Европа",
+      "source": "DW Европа",
+      "title": "Экс-глава полиции Италии застрелился на фоне расследования о мафии",
+      "link": "https://www.dw.com/ru/экс-глава-полиции-италии-застрелился-на-фоне-расследования-о-мафии/a-80018196?maca=rus-rss-ru-eu-4384-rdf",
+      "date": "2026-11-23T11:41",
+      "description": "Бывший глава полиции Италии Джанни Де Дженнаро покончил с собой. Его подозревали в попытках воспрепятствовать расследованию убийст",
       "image": ""
     },
     {
@@ -157,22 +175,13 @@
       "image": ""
     },
     {
-      "region": "Европа",
-      "source": "DW Европа",
-      "title": "Politico: Кипр выслал двух дипломатов РФ по подозрению в шпионаже",
-      "link": "https://www.dw.com/ru/politico-кипр-выслал-двух-дипломатов-рф-по-подозрению-в-шпионаже/a-80015340?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-22T21:13",
-      "description": "Кипрские спецслужбы раскрыли сеть, собиравшую для РФ секретные сведения о безопасности Кипра и Евросоюза, пишут Politico и ANT1 Li",
-      "image": ""
-    },
-    {
-      "region": "Европа",
-      "source": "DW Европа",
-      "title": "ЕС сожалеет, что Таджикистан не исполнил ордер МУС на арест Путина",
-      "link": "https://www.dw.com/ru/ес-сожалеет-что-таджикистан-не-исполнил-ордер-мус-на-арест-путина/a-80015218?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-22T20:26",
-      "description": "Таджикистан не выполнил обязательства в рамках Римского статута Международного уголовного суда и вновь принял президента РФ Владим",
-      "image": ""
+      "region": "США",
+      "source": "NPR News",
+      "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+      "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer th",
+      "image": "undefined"
     },
     {
       "region": "США",
@@ -195,11 +204,11 @@
     {
       "region": "США",
       "source": "NPR News",
-      "title": "K is for kindness, but families worry the world has less of it",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6035702/kindness-kids-sesame-street-parents-survey",
+      "title": "Let&apos;s talk turkey: Here&apos;s how Thanksgiving meal costs have changed this year",
+      "link": "https://www.npr.org/2026/11/23/nx-s1-6044207/thanksgiving-meal-costs",
       "date": "Mon, 23 Nov 2026",
-      "description": "A decade after first asking families about kindness, Sesame Workshop asked parents similar questions. They responded that their ki",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/970x776+0+0/resize/970x776!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F3b%2F1b7e973f4fbc840214141269612c%2Fabby-and-friend-1.JPG"
+      "description": "Grocery costs have been on the rise, but food-price analysts say it&apos;s unclear if you&apos;ll spend more on the Thanksgiving m",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7687x4589+0+0/resize/7687x4589!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5b%2F2f%2F74d978a84f9cb96570fd10b559e7%2Fgettyimages-2304341756.jpg"
     },
     {
       "region": "США",
@@ -213,73 +222,64 @@
     {
       "region": "США",
       "source": "NPR News",
-      "title": "Let&apos;s talk turkey: Here&apos;s how Thanksgiving meal costs have changed this year",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6044207/thanksgiving-meal-costs",
+      "title": "K is for kindness, but families worry the world has less of it",
+      "link": "https://www.npr.org/2026/11/23/nx-s1-6035702/kindness-kids-sesame-street-parents-survey",
       "date": "Mon, 23 Nov 2026",
-      "description": "Grocery costs have been on the rise, but food-price analysts say it&apos;s unclear if you&apos;ll spend more on the Thanksgiving m",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7687x4589+0+0/resize/7687x4589!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5b%2F2f%2F74d978a84f9cb96570fd10b559e7%2Fgettyimages-2304341756.jpg"
-    },
-    {
-      "region": "США",
-      "source": "NPR News",
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6045619/morning-news-brief",
-      "date": "Mon, 23 Nov 2026",
-      "description": "A look at how artificial intelligence is affecting the economy, NATO to meet after Russian missiles hit Poland, negotiators fail t",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6045619"
+      "description": "A decade after first asking families about kindness, Sesame Workshop asked parents similar questions. They responded that their ki",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/970x776+0+0/resize/970x776!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F3b%2F1b7e973f4fbc840214141269612c%2Fabby-and-friend-1.JPG"
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "How to beat the right: Global progressives compare notes in India",
-      "link": "https://www.straitstimes.com/asia/south-asia/how-to-beat-the-right-global-progressives-compare-notes-in-india",
+      "title": "Sri Lanka fines Chinese wildlife smugglers record $297,000",
+      "link": "https://www.straitstimes.com/asia/south-asia/sri-lanka-fines-chinese-wildlife-smugglers-record-297000",
       "date": "Mon, 23 Nov 2026",
-      "description": "Progressive leaders from 70 countries met in India to brainstorm about how to take on right-wing forces",
+      "description": "The group was arrested with more than 150 live animals and an equal number of dead specimens.",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Bangladesh garment makers eye 15% wage hike, far short of workers’ demand",
-      "link": "https://www.straitstimes.com/asia/south-asia/bangladesh-garment-makers-eye-15-wage-hike-far-short-of-workers-demand",
+      "title": "KLIA takes action after minister slipped on wet floor",
+      "link": "https://www.straitstimes.com/asia/se-asia/klia-takes-action-after-minister-slipped-on-wet-floor",
       "date": "Mon, 23 Nov 2026",
-      "description": "Since early November, unrest over wages has led to shutdowns and violence in the country.",
+      "description": "",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Australia to treat AI as key foreign policy challenge",
-      "link": "https://www.straitstimes.com/asia/australianz/australia-to-treat-ai-as-key-foreign-policy-challenge",
+      "title": "Tajikistan becomes fourth country to withdraw from ICC since US diplomatic push",
+      "link": "https://www.straitstimes.com/asia/tajikistan-becomes-fourth-country-to-withdraw-from-icc-since-us-diplomatic-push",
       "date": "Mon, 23 Nov 2026",
-      "description": "Australia earlier announced it would toughen its AI regulation.",
+      "description": "The ICC said the move “risks undermining the collective pursuit of justice”.",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Can South Korea’s high-stakes Suneung college entrance exam survive the AI era?",
-      "link": "https://www.straitstimes.com/asia/east-asia/can-south-koreas-high-stakes-suneung-college-entrance-exam-survive-the-ai-era",
+      "title": "Indonesian President Prabowo names two V-P nominees; Parliament to vote on Dec 11",
+      "link": "https://www.straitstimes.com/asia/se-asia/indonesian-president-prabowo-names-two-vp-nominees-parliament-to-vote-on-dec-11",
       "date": "Mon, 23 Nov 2026",
-      "description": "Amid calls for reform, concerns over grading fairness complicate move beyond multiple-choice tests.",
+      "description": "Parliament will choose between ministers Andi Amran Sulaiman and Sugiono to serve for the remainder of the term.",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Iran says it will use all its tools to confront US naval blockade",
-      "link": "https://www.straitstimes.com/asia/iran-says-it-will-use-all-its-tools-to-confront-us-naval-blockade",
+      "title": "Chinese official sentenced to death for leaking secrets to foreign country",
+      "link": "https://www.straitstimes.com/asia/chinese-official-sentenced-to-death-for-leaking-secrets-to-foreign-country",
       "date": "Mon, 23 Nov 2026",
-      "description": "The country called it “military aggression” and said it has the right to defend itself.",
+      "description": "BEIJING, Nov 23 - China has sentenced an official in its central apparatus to death for leaking state secrets to a foreign country",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "A century-old KL heritage hall lands a bargain lease, setting off a political firestorm",
-      "link": "https://www.straitstimes.com/asia/se-asia/a-century-old-kl-heritage-hall-lands-a-bargain-lease-setting-off-a-political-firestorm",
+      "title": "Hospital colleagues filmed in toilets by S’porean doctor in Melbourne describe trauma in court",
+      "link": "https://www.straitstimes.com/asia/australianz/hospital-colleagues-filmed-in-toilets-by-sporean-doctor-in-melbourne-describe-trauma-in-court",
       "date": "Mon, 23 Nov 2026",
-      "description": "The land on which the Singapore architect-designed building sits was originally valued at $1.46 million.",
+      "description": "Ryan Cho faces some of his victims on the first of a three-day hearing that will lead to his sentencing.",
       "image": ""
     },
     {
@@ -438,56 +438,92 @@
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Россиянам раскрыли причины отказа в выгодном способе купить жилье",
-      "link": "https://lenta.ru/news/2026/11/23/rossiyanam-raskryli-prichiny-otkaza-v-vygodnom-sposobe-kupit-zhilie/",
+      "title": "Алиев обратился к Трампу",
+      "link": "https://lenta.ru/news/2026/11/23/aliev-obratilsya-k-trampu/",
       "date": "Mon, 23 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/23/14/20261123144031466/pic_aa8634f8504679596d02d8a3da975353.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/23/16/20261123165316877/pic_72e72ff33fed96ca401ca4fd6b23102e.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "В России объяснили нападение СБУ на российский корвет «Меркурий»",
-      "link": "https://lenta.ru/news/2026/11/23/v-rossii-ob-yasnili-napadenie-sbu-na-rossiyskiy-korvet-merkuriy/",
+      "title": "Известный российский режиссер описал съемки на Чукотке словами «удивительно и страшно»",
+      "link": "https://lenta.ru/news/2026/11/23/izvestnyy-rossiyskiy-rezhisser-opisal-s-emki-na-chukotke-slovami-udivitelno-i-strashno/",
       "date": "Mon, 23 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/assets/webpack/images/lenta_og.8735b949.png"
+      "image": "https://icdn.lenta.ru/images/2026/11/23/15/20261123155658946/pic_6c2151f99268b5ad83f2191e7dd3e3fe.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Главный тренер «Галатасарая» оценил игру Батракова за клуб",
-      "link": "https://lenta.ru/news/2026/11/23/glavnyy-trener-galatasaraya-otsenil-igru-batrakova-za-klub/",
+      "title": "В России ответили на призыв Германии к завершению украинского конфликта",
+      "link": "https://lenta.ru/news/2026/11/23/v-rossii-otvetili-na-prizyv-germanii-k-zaversheniyu-ukrainskogo-konflikta/",
       "date": "Mon, 23 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/23/14/20261123145029123/pic_b35e5944128eddf705c5f69f9212ccbb.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/23/16/20261123164909602/pic_40620bfa2a466c07874495252549e41c.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Сотни школ в Германии получили письма с угрозами взрыва",
-      "link": "https://lenta.ru/news/2026/11/23/sotni-shkol-v-germanii-poluchili-pisma-s-ugrozami-vzryva/",
+      "title": "Оставленный россиянином комментарий про Гитлера привел его в суд",
+      "link": "https://lenta.ru/news/2026/11/23/ostavlennyy-rossiyaninom-kommentariy-pro-gitlera-privel-ego-v-sud/",
       "date": "Mon, 23 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/23/14/20261123144547496/pic_23b7d32ad945ac4a51ab89aab47696df.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/23/16/20261123165523709/pic_85c047078a5c978de48f596277a15c52.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "В Госдуме отреагировали на призыв Германии к России",
-      "link": "https://lenta.ru/news/2026/11/23/v-gosdume-otreagirovali-na-prizyv-germanii-k-rossii/",
+      "title": "Россиян предупредили о подорожании одного морского деликатеса",
+      "link": "https://lenta.ru/news/2026/11/23/rossiyan-predupredili-o-podorozhanii-odnogo-morskogo-delikatesa/",
       "date": "Mon, 23 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/23/14/20261123144824338/pic_c671495107a49920799a7e30c1ab771e.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/23/16/20261123165142550/pic_dd963c46fd4e6001e1074d3e611daa6e.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "В Москве и Подмосковье введут «желтый» уровень погодной опасности",
-      "link": "https://lenta.ru/news/2026/11/23/v-moskve-i-podmoskovie-vvedut-zheltyy-uroven-pogodnoy-opasnosti/",
+      "title": "Стали известны подробности игры в падел Джигурды перед инфарктом",
+      "link": "https://lenta.ru/news/2026/11/23/stali-izvestny-podrobnosti-igry-v-padel-dzhigurdy-pered-infarktom/",
       "date": "Mon, 23 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/23/14/20261123140646468/pic_d50188c8889bb72db14837c596d3bc5e.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/23/15/20261123153209175/pic_7c0c26193e3830985f3c25b97cc85bd8.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "Россиян ждет аномально теплая зима, заявил синоптик",
+      "link": "https://www.amic.ru/news/rossiyan-zhdet-anomalno-teplaya-zima-zayavil-sinoptik-597297",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Причиной необычной погоды станет Эль-Ниньо",
+      "image": "https://www.amic.ru/images/news/news/453172_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "Ледяные берега реки показали в цветах \"Сумерек\" на Алтае",
+      "link": "https://www.amic.ru/news/ledyanye-berega-reki-pokazali-v-cvetah-sumerek-na-altae-597292",
+      "date": "Mon, 23 Nov 2026",
+      "description": "По словам пользователей интернета, \"холод передается прямо через фотографии\"",
+      "image": "https://www.amic.ru/images/news/news/597292_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "VK и Max оспаривают санкции Евросоюза",
+      "link": "https://www.amic.ru/news/vk-i-max-osparivayut-sankcii-evrosoyuza-597289",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Представители мессенджеров требуют отмены постановления о введении против них рестрикций",
+      "image": "https://www.amic.ru/images/news/news/597289_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "Спасенного дикого медведя выпустили на волю в Новосибирской области",
+      "link": "https://www.amic.ru/news/spasennogo-dikogo-medvedya-vypustili-na-volyu-v-novosibirskoy-oblasti-597282",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Власти сообщили, где сейчас находится хищник",
+      "image": "https://www.amic.ru/images/news/news/593411_size2.jpg"
     },
     {
       "region": "Барнаул",
@@ -506,42 +542,6 @@
       "date": "Mon, 23 Nov 2026",
       "description": "На изменения повлиял рост объема межбюджетных трансфертов из федерального центра",
       "image": "https://www.amic.ru/images/news/news/451187_size2.jpg"
-    },
-    {
-      "region": "Барнаул",
-      "source": "Амител",
-      "title": "На защиту логистики Калининграда выделят 50 млрд рублей",
-      "link": "https://www.amic.ru/news/na-zaschitu-logistiki-kaliningrada-vydelyat-50-mlrd-rubley-597278",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Решение принято в рамках стратегии по обеспечению транспортной безопасности Калининградской области",
-      "image": "https://www.amic.ru/images/news/news/449714_size2.jpg"
-    },
-    {
-      "region": "Барнаул",
-      "source": "Амител",
-      "title": "В Госдуме поддержали идею проведения \"Лесного диктанта\"",
-      "link": "https://www.amic.ru/news/v-gosdume-podderzhali-ideyu-provedeniya-lesnogo-diktanta-597280",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Диктант призван повысить уровень экологической грамотности населения и напомнить о важности сохранения российского лесного фонда, ",
-      "image": "https://www.amic.ru/images/news/news/529128_size2.jpg"
-    },
-    {
-      "region": "Барнаул",
-      "source": "Амител",
-      "title": "НПЗ приостановил работу в Ростовской области после удара беспилотников ВСУ",
-      "link": "https://www.amic.ru/news/npz-priostanovil-rabotu-v-rostovskoy-oblasti-posle-udara-bespilotnikov-vsu-597287",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Атака украинских войск длилась шесть часов",
-      "image": "https://www.amic.ru/images/news/news/585883_size2.jpg"
-    },
-    {
-      "region": "Барнаул",
-      "source": "Амител",
-      "title": "Дмитрий Медведев заявил о \"возможном ядерном ударе\" на СВО",
-      "link": "https://www.amic.ru/news/dmitriy-medvedev-zayavil-o-vozmozhnom-yadernom-udare-na-svo-597279",
-      "date": "Mon, 23 Nov 2026",
-      "description": "По его словам, в использовании ядерного оружия во время спецоперации нет необходимости",
-      "image": "https://www.amic.ru/images/news/news/450210_size2.jpg"
     }
   ]
 }
