@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Лента Новостей — Мир и Регионы</title>
+    <title>Главные Новости — Мир и Регионы</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -11,34 +11,75 @@
     <header>
         <div class="header-top">
             <h1>ГЛАВНЫЕ НОВОСТИ</h1>
-            <button class="theme-toggle" id="theme-btn">🌓 Сменить тему</button>
+            <div>
+                <button class="theme-toggle" id="refresh-btn" style="margin-right: 6px;">🔄 Обновить</button>
+                <button class="theme-toggle" id="theme-btn">🌓 Тема</button>
+            </div>
         </div>
         <nav class="region-nav" id="region-buttons"></nav>
     </header>
 
     <div class="container">
         <div class="meta-bar">
-            <h2 class="section-heading" id="current-title">Главные заголовки</h2>
-            <span class="update-time" id="last-updated"></span>
+            <h2 class="section-heading" id="current-title">Картина дня по всем рубрикам</h2>
+            <span class="update-time" id="last-updated">Загрузка...</span>
         </div>
         <div class="news-grid" id="news-container">
-            <p>Загрузка свежих новостей...</p>
+            <p>Собираем свежие новости и переводим заголовки...</p>
         </div>
     </div>
 
     <footer>
-        Автоматический сбор и перевод новостей каждые 2 часа
+        Новости обновляются автоматически при открытии страницы
     </footer>
 
     <script>
+        // =========================================================================
+        // НАСТРОЙКА РУБРИК И ИСТОЧНИКОВ
+        // Чтобы добавить новую рубрику — просто скопируйте любой блок по образцу!
+        // =========================================================================
+        const SOURCES = {
+            "Мир": [
+                { name: "ТАСС", url: "https://tass.ru" },
+                { name: "BBC World", url: "https://bbci.co.uk" }
+            ],
+            "Европа": [
+                { name: "Euronews", url: "https://euronews.com" }
+            ],
+            "США": [
+                { name: "NPR News", url: "https://npr.org" },
+                { name: "Голос Америки", url: "https://golosameriki.com" }
+            ],
+            "Азия": [
+                { name: "Channel NewsAsia", url: "https://channelnewsasia.com" }
+            ],
+            "Китай": [
+                { name: "South China Morning Post", url: "https://scmp.com" }
+            ],
+            "Таиланд": [
+                { name: "Bangkok Post", url: "https://bangkokpost.com" },
+                { name: "The Pattaya News", url: "https://thepattayanews.com" }
+            ],
+            "Россия": [
+                { name: "Интерфакс", url: "https://interfax.ru" },
+                { name: "Лента.ру", url: "https://lenta.ru" }
+            ],
+            "Барнаул": [
+                { name: "Толк", url: "https://tolknews.ru" },
+                { name: "Амител", url: "https://amic.ru" }
+            ]
+        };
+
         let allNews = [];
-        let allCategories = [];
+        let currentRegion = 'Все';
         const container = document.getElementById('news-container');
         const heading = document.getElementById('current-title');
         const updatedSpan = document.getElementById('last-updated');
         const navContainer = document.getElementById('region-buttons');
         const themeBtn = document.getElementById('theme-btn');
+        const refreshBtn = document.getElementById('refresh-btn');
 
+        // Тема День / Ночь
         if (localStorage.getItem('theme') === 'dark') {
             document.body.classList.add('dark-theme');
         }
@@ -47,60 +88,72 @@
             localStorage.setItem('theme', document.body.classList.contains('dark-theme') ? 'dark' : 'light');
         });
 
-        function buildMenu(categories) {
+        // Автоперевод иностранных заголовков на русский через бесплатный API
+        async function translateToRu(text) {
+            if (!text || /[а-яА-ЯёЁ]/.test(text)) return text;
+            try {
+                const res = await fetch(`https://googleapis.com{encodeURIComponent(text)}`);
+                const data = await res.json();
+                return data[0].map(item => item[0]).join('');
+            } catch (e) {
+                return text;
+            }
+        }
+
+        // Очистка HTML-тегов из описания
+        function stripHtml(html) {
+            const tmp = document.createElement('div');
+            tmp.innerHTML = html || '';
+            const text = tmp.textContent || tmp.innerText || '';
+            return text.length > 170 ? text.slice(0, 170) + '...' : text;
+        }
+
+        // Создание кнопок вкладок
+        function buildMenu() {
             navContainer.innerHTML = '';
-            
-            const allBtn = document.createElement('button');
-            allBtn.className = 'region-btn active';
-            allBtn.textContent = 'Главное';
-            allBtn.dataset.region = 'Все';
-            navContainer.appendChild(allBtn);
+            const categories = ['Все', ...Object.keys(SOURCES)];
 
             categories.forEach(cat => {
                 const btn = document.createElement('button');
-                btn.className = 'region-btn';
-                btn.textContent = cat;
-                btn.dataset.region = cat;
-                navContainer.appendChild(btn);
-            });
-
-            const buttons = navContainer.querySelectorAll('.region-btn');
-            buttons.forEach(btn => {
+                btn.className = 'region-btn' + (cat === currentRegion ? ' active' : '');
+                btn.textContent = cat === 'Все' ? 'Главное' : cat;
                 btn.addEventListener('click', () => {
-                    buttons.forEach(b => b.classList.remove('active'));
+                    document.querySelectorAll('.region-btn').forEach(b => b.classList.remove('active'));
                     btn.classList.add('active');
-                    renderNews(btn.dataset.region);
+                    currentRegion = cat;
+                    renderNews();
                     window.scrollTo({ top: 0, behavior: 'smooth' });
                 });
+                navContainer.appendChild(btn);
             });
         }
 
-        function renderNews(region) {
+        // Отрисовка карточек
+        function renderNews() {
             container.innerHTML = '';
             let filtered = [];
 
-            if (region === 'Все') {
+            if (currentRegion === 'Все') {
                 heading.textContent = 'Картина дня по всем рубрикам';
-                allCategories.forEach(cat => {
+                Object.keys(SOURCES).forEach(cat => {
                     const items = allNews.filter(n => n.region === cat).slice(0, 1);
                     filtered.push(...items);
                 });
             } else {
-                heading.textContent = region;
-                filtered = allNews.filter(n => n.region === region).slice(0, 9);
+                heading.textContent = currentRegion;
+                filtered = allNews.filter(n => n.region === currentRegion).slice(0, 9);
             }
 
             if (filtered.length === 0) {
-                container.innerHTML = '<p>Свежих новостей в этом разделе пока нет.</p>';
+                container.innerHTML = '<p>Загружаем новости для этого раздела или источник временно недоступен...</p>';
                 return;
             }
 
             filtered.forEach(item => {
                 const card = document.createElement('article');
                 card.className = 'news-card';
-                
-                const imgHtml = item.image 
-                    ? `<a href="${item.link}" target="_blank" rel="noopener"><img src="${item.image}" alt="" class="card-img" loading="lazy" onerror="this.parentElement.style.display='none'"></a>` 
+                const imgHtml = item.image
+                    ? `<a href="${item.link}" target="_blank" rel="noopener"><img src="${item.image}" alt="" class="card-img" loading="lazy" onerror="this.parentElement.style.display='none'"></a>`
                     : '';
 
                 card.innerHTML = `
@@ -109,7 +162,7 @@
                         <div>
                             <div class="card-top">
                                 <span class="badge">${item.region}</span>
-                                <span class="source-name">${item.source || ''}</span>
+                                <span class="source-name">${item.source}</span>
                             </div>
                             <h2><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></h2>
                             <p>${item.description}</p>
@@ -124,22 +177,49 @@
             });
         }
 
-        fetch('news.json?t=' + new Date().getTime())
-            .then(res => res.json())
-            .then(data => {
-                if (data.updated) {
-                    updatedSpan.textContent = 'Обновлено: ' + data.updated;
-                }
-                allNews = data.articles || [];
-                allCategories = data.categories || [...new Set(allNews.map(item => item.region))];
-                
-                buildMenu(allCategories);
-                renderNews('Все');
-            })
-            .catch(() => {
-                container.innerHTML = '<p>Запустите обновление в разделе Actions на GitHub, чтобы загрузить первые новости.</p>';
-            });
-    </script>
+        // Загрузка новостей через открытый конвертер RSS -> JSON
+        async function loadAllNews() {
+            updatedSpan.textContent = 'Обновляем ленту...';
+            allNews = [];
+            const tasks = [];
 
-</body>
-</html>
+            for (const [region, feeds] of Object.entries(SOURCES)) {
+                for (const feed of feeds) {
+                    const apiUrl = `https://rss2json.com{encodeURIComponent(feed.url)}`;
+                    const task = fetch(apiUrl)
+                        .then(r => r.json())
+                        .then(async data => {
+                            if (data.status === 'ok' && data.items) {
+                                const topItems = data.items.slice(0, 5);
+                                for (const item of topItems) {
+                                    const titleRu = await translateToRu(item.title);
+                                    const descRu = await translateToRu(stripHtml(item.description));
+                                    const img = item.thumbnail || (item.enclosure && item.enclosure.link) || '';
+                                    const dateStr = item.pubDate ? item.pubDate.slice(0, 16) : '';
+
+                                    allNews.push({
+                                        region: region,
+                                        source: feed.name,
+                                        title: titleRu,
+                                        link: item.link,
+                                        date: dateStr,
+                                        description: descRu,
+                                        image: img
+                                    });
+                                }
+                                renderNews(); // Отрисовываем по мере поступления
+                            }
+                        })
+                        .catch(err => console.log('Ошибка источника:', feed.name));
+                    tasks.push(task);
+                }
+            }
+
+            await Promise.allSettled(tasks);
+            const now = new Date();
+            updatedSpan.textContent = 'Обновлено: ' + now.toLocaleTimeString('ru-RU', { hour: '2-digit', minute: '2-digit' });
+        }
+
+        refreshBtn.addEventListener('click', loadAllNews);
+
+        buildMenu();
