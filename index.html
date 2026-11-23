@@ -103,13 +103,13 @@
             try {
                 const res = await fetch("https://rss2json.com" + encodeURIComponent(feed.url));
                 const data = await res.json();
-                if (data.status === "ok" && data.items?.length) {
+                if (data.status === "ok" && data.items && data.items.length) {
                     for (const item of data.items.slice(0, 5)) {
                         allNews.push({
                             region, source: feed.name, title: await translateRu(item.title || ""),
                             link: item.link || "#", date: (item.pubDate || "").slice(0, 16),
                             description: await translateRu(cleanText(item.description || "")),
-                            image: item.thumbnail || item.enclosure?.link || ""
+                            image: item.thumbnail || (item.enclosure && item.enclosure.link) || ""
                         });
                     }
                 } else {
@@ -119,7 +119,8 @@
                         const rawTitle = el.querySelector("title")?.textContent?.trim() || "";
                         if (!rawTitle) continue;
                         const descHtml = el.querySelector("description")?.textContent || "";
-                        const img = el.querySelector("enclosure")?.getAttribute("url") || (descHtml.match(/<img[^>]+src=["']([^"']+)["']/i)?.[1] || "");
+                        const imgMatch = descHtml.match(/<img[^>]+src=["']([^"']+)["']/i);
+                        const img = el.querySelector("enclosure")?.getAttribute("url") || (imgMatch ? imgMatch[1] : "");
                         allNews.push({
                             region, source: feed.name, title: await translateRu(rawTitle),
                             link: el.querySelector("link")?.textContent?.trim() || "#",
