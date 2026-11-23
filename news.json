@@ -10,5 +10,276 @@
     "Россия",
     "Барнаул"
   ],
-  "articles": []
+  "articles": [
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "Режим &quot;Ковер&quot; объявлен в Зюкайке Пермского края",
+      "link": "https://tass.ru/ekonomika/28344471",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "В Улан-Удэ при пожаре в многоквартирном доме пострадали четыре человека",
+      "link": "https://tass.ru/proisshestviya/28344455",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Среди них двое детей",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "В Воронежской области сбили 13 беспилотников",
+      "link": "https://tass.ru/proisshestviya/28344469",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Никто не пострадал",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "Писатель Усачев предложил стимулы, чтобы приучить детей читать",
+      "link": "https://tass.ru/obschestvo/28344459",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Можно платить ребенку за прочитанные книги или разрешить не ложиться спать, пока он читает, отметил детский автор",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "ТАСС: ВСУ перебросили под Харьков военных тактической авиации для штурмов",
+      "link": "https://tass.ru/armiya-i-opk/28344467",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Они уже понесли первые потери, отметили в российских силовых структурах",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 22 Nov 2026",
+      "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 23 Nov 2026",
+      "description": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 23 Nov 2026",
+      "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 22 Nov 2026",
+      "description": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "image": ""
+    },
+    {
+      "region": "США",
+      "source": "NPR News",
+      "title": "Do not feed the animals. Vets explain why hats, coins and shoes can be deadly.",
+      "link": "https://www.npr.org/2026/11/22/nx-s1-6049723/do-not-feed-the-animals-vets-explain-why-hats-coins-and-shoes-can-be-deadly",
+      "date": "Sun, 22 Nov 2026",
+      "description": "It&apos;s not easy to retrieve foreign objects from animals once ingested. Some things can be grabbed using an endoscope. But if an item gets far into the intestinal trac",
+      "image": ""
+    },
+    {
+      "region": "США",
+      "source": "NPR News",
+      "title": "What it&apos;s like at a climate conference as talks collapse",
+      "link": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+      "date": "Sun, 22 Nov 2026",
+      "description": "After two weeks of negotiations, international climate talks fail to reach an agreement. NPR&apos;s Rachel Waldholz was in Turkey for the conference.",
+      "image": ""
+    },
+    {
+      "region": "США",
+      "source": "NPR News",
+      "title": "Philly festival-goers say pickles are a real big dill",
+      "link": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill",
+      "date": "Sun, 22 Nov 2026",
+      "description": "Influencer and pickle enthusiast Dan Pancoast gives a first hand account of the festivities at the &quot;The Big Dill&quot; festival in Philadelphia.",
+      "image": ""
+    },
+    {
+      "region": "США",
+      "source": "NPR News",
+      "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+      "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+      "date": "Sun, 22 Nov 2026",
+      "description": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
+      "image": ""
+    },
+    {
+      "region": "США",
+      "source": "NPR News",
+      "title": "Meet the young authors! A literacy program inspires kids in South Africa",
+      "link": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
+      "date": "Sun, 22 Nov 2026",
+      "description": "South Africa is working to overcome a children&apos;s literacy crisis. In one Johannesburg township, a reading club is instilling a love of books in kids — and inspiring ",
+      "image": ""
+    },
+    {
+      "region": "Таиланд",
+      "source": "The Pattaya News",
+      "title": "Jomtien Beach Hosts Open Water Series 3 as Pattaya Promotes Sports Tourism",
+      "link": "https://thepattayanews.com/2026/11/23/jomtien-beach-hosts-open-water-series-3-as-pattaya-promotes-sports-tourism/",
+      "date": "Sun, 22 Nov 2026",
+      "description": "The Pattaya News -=-=-=-=-=-=-=-=- &#8211; Pattaya Deputy Mayor Kritsana Boonsawat led the opening ceremony of the Open Water Series 3 swimming competition on November 21",
+      "image": "https://thepattayanews.com/wp-content/uploads/2026/11/FB_IMG_1795373295244-300x200.jpg?v=1795373409"
+    },
+    {
+      "region": "Таиланд",
+      "source": "The Pattaya News",
+      "title": "More Than 1,000 People Take Part in Second Ray Run Pattaya Charity Event",
+      "link": "https://thepattayanews.com/2026/11/23/more-than-1000-people-take-part-in-second-ray-run-pattaya-charity-event/",
+      "date": "Sun, 22 Nov 2026",
+      "description": "The Pattaya News -=-=-=-=-=-=-=-=- &#8211; Ray Run Pattaya 2026 brought together more than 1,000 runners, including people with disabilities, at Central Pattaya Beach on ",
+      "image": "https://thepattayanews.com/wp-content/uploads/2026/11/FB_IMG_1795371815483-300x200.jpg?v=1795371901"
+    },
+    {
+      "region": "Таиланд",
+      "source": "The Pattaya News",
+      "title": "Thai PM Anutin Orders Eight Urgent Measures to Tackle Water Contamination, Protect Public Health and Secure Clean Supplies",
+      "link": "https://thepattayanews.com/2026/11/22/thai-pmanutin-orders-eight-urgent-measures-to-tackle-water-contamination-protect-public-health-and-secure-clean-supplies/",
+      "date": "Sun, 22 Nov 2026",
+      "description": "The Pattaya News -=-=-=-=-=-=-=-=- – Prime Minister Anutin Charnvirakul chaired a meeting of the National Disaster Prevention and Mitigation Command on the 21st of Novemb",
+      "image": "https://thepattayanews.com/wp-content/uploads/2026/11/FB_IMG_1795365879887-300x203.jpg?v=1795366006"
+    },
+    {
+      "region": "Таиланд",
+      "source": "The Pattaya News",
+      "title": "Immigration Commissioner Details Expansion of Two Chonburi Chinese Nominee Cases Linked to Property and False Paternity; 30 Warrants Issued",
+      "link": "https://thepattayanews.com/2026/11/22/immigration-commissioner-details-expansion-of-two-chonburi-chinese-nominee-cases-linked-to-property-and-false-paternity-30-warrants-issued/",
+      "date": "Sun, 22 Nov 2026",
+      "description": "The Pattaya News -=-=-=-=-=-=-=-=- &#8211; Pol. Lt. Gen. Noppasil Phulsawat and senior officials briefed the media at Chonburi Immigration on November 22nd on expanded pr",
+      "image": "https://thepattayanews.com/wp-content/uploads/2026/11/1795336270402-300x169.jpg?v=1795336358"
+    },
+    {
+      "region": "Таиланд",
+      "source": "The Pattaya News",
+      "title": "Pattaya Police Raid Hidden Slot Machine Room Behind Grilled Fish and Shrimp Pond Restaurant in Soi Arunothai",
+      "link": "https://thepattayanews.com/2026/11/22/pattaya-police-raid-hidden-slot-machine-room-behind-grilled-fish-and-shrimp-pond-restaurant-in-soi-arunothai/",
+      "date": "Sun, 22 Nov 2026",
+      "description": "The Pattaya News -=-=-=-=-=-=-=-=- &#8211; Officers led by Pattaya Police Chief Anek Srathongyu entered a concealed 4×4-meter room behind a restaurant in Soi Arunothai at",
+      "image": "https://thepattayanews.com/wp-content/uploads/2026/11/IMG_20261122_150215-300x169.jpg?v=1795334614"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "Названы лидирующие по доходам населения регионы России",
+      "link": "https://lenta.ru/news/2026/11/23/nazvany-lidiruyuschie-po-dohodam-naseleniya-regiony-rossii/",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/23/06/20261123063913841/pic_6c2a27ab8d88c2b831f0c6a4bdd59d48.jpg"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "Культовый режиссер захотел снять фильм о Путине",
+      "link": "https://lenta.ru/news/2026/11/23/kultovyy-rezhisser-zahotel-snyat-film-o-putine/",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/23/06/20261123063603996/pic_e5e304731fb65efabdbeb29400400f58.jpg"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "Дефицит популярного витамина связали с нарушениями развития нервной системы",
+      "link": "https://lenta.ru/news/2026/11/23/defitsit-populyarnogo-vitamina-svyazali-s-narusheniyami-razvitiya-nervnoy-sistemy/",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/20/15/20261120153410046/pic_c68f0442249a351e40f3c07655876847.jpg"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "Трамп оценил потери фондового рынка после победы демократов",
+      "link": "https://lenta.ru/news/2026/11/23/tramp-otsenil-poteri-fondovogo-rynka-posle-pobedy-demokratov/",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/23/06/20261123062535683/pic_cf99cfc925ed219652a1d94f6a72d000.jpg"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "Раскрыты последствия войны в Иране для США",
+      "link": "https://lenta.ru/news/2026/11/23/raskryty-posledstviya-voyny-v-irane-dlya-ssha/",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/23/06/20261123060626231/pic_69da611ee366694f631284da8a0c5794.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "Стало известно, когда работодатель не может отказать в выплате 13-й зарплаты",
+      "link": "https://www.amic.ru/news/stalo-izvestno-kogda-rabotodatel-ne-mozhet-otkazat-v-vyplate-13-y-zarplaty-597230",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": "https://www.amic.ru/images/news/news/579609_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "Мосты приведут в порядок. В Барнауле отремонтируют более 30 пешеходных переправ",
+      "link": "https://www.amic.ru/news/mosty-privedut-v-poryadok-v-barnaule-otremontiruyut-bolee-30-peshehodnyh-pereprav-597229",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": "https://www.amic.ru/images/news/news/545583_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "В России в 2027 году пенсионные выплаты будут получать 43 миллиона человек",
+      "link": "https://www.amic.ru/news/v-rossii-v-2027-godu-pensionnye-vyplaty-budut-poluchat-43-milliona-chelovek-597228",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": "https://www.amic.ru/images/news/news/579633_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "Ночной пожар охватил складское помещение на улице Ветеринарной в Барнауле",
+      "link": "https://www.amic.ru/news/nochnoy-pozhar-ohvatil-skladskoe-pomeschenie-na-ulice-veterinarnoy-v-barnaule-597238",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": "https://www.amic.ru/images/news/news/597238_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "Россиянам объяснили, как действовать, если работодатель не выплачивает отпускные",
+      "link": "https://www.amic.ru/news/rossiyanam-obyasnili-kak-deystvovat-esli-rabotodatel-ne-vyplachivaet-otpusknye-597226",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": "https://www.amic.ru/images/news/news/538369_size2.jpg"
+    }
+  ]
 }
