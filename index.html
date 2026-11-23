@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Лента Новостей — Мир и Регионы</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="header-top">
+            <h1>ГЛАВНЫЕ НОВОСТИ</h1>
+            <button class="theme-toggle" id="theme-btn">🌓 Сменить тему</button>
+        </div>
+        <nav class="region-nav" id="region-buttons"></nav>
+    </header>
+
+    <div class="container">
+        <div class="meta-bar">
+            <h2 class="section-heading" id="current-title">Главные заголовки</h2>
+            <span class="update-time" id="last-updated"></span>
+        </div>
+        <div class="news-grid" id="news-container">
+            <p>Загрузка свежих новостей...</p>
+        </div>
+    </div>
+
+    <footer>
+        Автоматический сбор и перевод новостей каждые 2 часа
+    </footer>
+
+    <script>
+        let allNews = [];
+        let allCategories = [];
+        const container = document.getElementById('news-container');
+        const heading = document.getElementById('current-title');
+        const updatedSpan = document.getElementById('last-updated');
+        const navContainer = document.getElementById('region-buttons');
+        const themeBtn = document.getElementById('theme-btn');
+
+        if (localStorage.getItem('theme') === 'dark') {
+            document.body.classList.add('dark-theme');
+        }
+        themeBtn.addEventListener('click', () => {
+            document.body.classList.toggle('dark-theme');
+            localStorage.setItem('theme', document.body.classList.contains('dark-theme') ? 'dark' : 'light');
+        });
+
+        function buildMenu(categories) {
+            navContainer.innerHTML = '';
+            
+            const allBtn = document.createElement('button');
+            allBtn.className = 'region-btn active';
+            allBtn.textContent = 'Главное';
+            allBtn.dataset.region = 'Все';
+            navContainer.appendChild(allBtn);
+
+            categories.forEach(cat => {
+                const btn = document.createElement('button');
+                btn.className = 'region-btn';
+                btn.textContent = cat;
+                btn.dataset.region = cat;
+                navContainer.appendChild(btn);
+            });
+
+            const buttons = navContainer.querySelectorAll('.region-btn');
+            buttons.forEach(btn => {
+                btn.addEventListener('click', () => {
+                    buttons.forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    renderNews(btn.dataset.region);
+                    window.scrollTo({ top: 0, behavior: 'smooth' });
+                });
+            });
+        }
+
+        function renderNews(region) {
+            container.innerHTML = '';
+            let filtered = [];
+
+            if (region === 'Все') {
+                heading.textContent = 'Картина дня по всем рубрикам';
+                allCategories.forEach(cat => {
+                    const items = allNews.filter(n => n.region === cat).slice(0, 1);
+                    filtered.push(...items);
+                });
+            } else {
+                heading.textContent = region;
+                filtered = allNews.filter(n => n.region === region).slice(0, 9);
+            }
+
+            if (filtered.length === 0) {
+                container.innerHTML = '<p>Свежих новостей в этом разделе пока нет.</p>';
+                return;
+            }
+
+            filtered.forEach(item => {
+                const card = document.createElement('article');
+                card.className = 'news-card';
+                
+                const imgHtml = item.image 
+                    ? `<a href="${item.link}" target="_blank" rel="noopener"><img src="${item.image}" alt="" class="card-img" loading="lazy" onerror="this.parentElement.style.display='none'"></a>` 
+                    : '';
+
+                card.innerHTML = `
+                    ${imgHtml}
+                    <div class="card-body">
+                        <div>
+                            <div class="card-top">
+                                <span class="badge">${item.region}</span>
+                                <span class="source-name">${item.source || ''}</span>
+                            </div>
+                            <h2><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></h2>
+                            <p>${item.description}</p>
+                        </div>
+                        <div class="card-footer">
+                            <span>${item.date}</span>
+                            <a href="${item.link}" target="_blank" rel="noopener" class="read-link">Читать &rarr;</a>
+                        </div>
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        fetch('news.json?t=' + new Date().getTime())
+            .then(res => res.json())
+            .then(data => {
+                if (data.updated) {
+                    updatedSpan.textContent = 'Обновлено: ' + data.updated;
+                }
+                allNews = data.articles || [];
+                allCategories = data.categories || [...new Set(allNews.map(item => item.region))];
+                
+                buildMenu(allCategories);
+                renderNews('Все');
+            })
+            .catch(() => {
+                container.innerHTML = '<p>Запустите обновление в разделе Actions на GitHub, чтобы загрузить первые новости.</p>';
+            });
+    </script>
+
+</body>
+</html>
