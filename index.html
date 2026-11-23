@@ -1,27 +1,62 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Главные Новости — Мир и Регионы</title>
     <link rel="stylesheet" href="style.css">
+    <style>
+        /* Прячем верхнюю служебную панель Google Translate, чтобы не ломала дизайн */
+        .goog-te-banner-frame.skiptranslate, iframe.skiptranslate { display: none !important; }
+        body { top: 0px !important; }
+        .goog-te-gadget { font-size: 0 !important; }
+        .goog-te-gadget .goog-te-combo {
+            background: rgba(255,255,255,0.15);
+            color: #fff;
+            border: 1px solid rgba(255,255,255,0.3);
+            padding: 5px 8px;
+            border-radius: 6px;
+            font-size: 13px;
+            cursor: pointer;
+            margin-right: 6px;
+        }
+        .goog-te-gadget .goog-te-combo option { color: #000; }
+    </style>
 </head>
 <body>
     <header>
         <div class="header-top">
-            <h1>ГЛАВНЫЕ НОВОСТИ</h1>
-            <button class="theme-toggle" id="theme-btn">🌓 Сменить тему</button>
+            <h1 class="notranslate">ГЛАВНЫЕ НОВОСТИ</h1>
+            <div style="display:flex; align-items:center;">
+                <div id="google_translate_element"></div>
+                <button class="theme-toggle notranslate" id="theme-btn">🌓 Тема</button>
+            </div>
         </div>
-        <nav class="region-nav" id="region-buttons"></nav>
+        <nav class="region-nav notranslate" id="region-buttons"></nav>
     </header>
     <div class="container">
         <div class="meta-bar">
-            <h2 class="section-heading" id="current-title">Картина дня</h2>
-            <span class="update-time" id="last-updated"></span>
+            <h2 class="section-heading notranslate" id="current-title">Картина дня</h2>
+            <span class="update-time notranslate" id="last-updated"></span>
         </div>
         <div class="news-grid" id="news-container"></div>
     </div>
-    <footer>Автоматическое обновление каждые 2 часа</footer>
+    <footer class="notranslate">Автоматическое обновление каждые 2 часа</footer>
+
+    <script>
+        // Включаем автоперевод на русский по умолчанию через cookie Google Translate
+        document.cookie = "googtrans=/en/ru; path=/";
+        document.cookie = "googtrans=/en/ru; path=/; domain=" + location.hostname;
+
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+                pageLanguage: 'en',
+                includedLanguages: 'ru,en',
+                autoDisplay: false
+            }, 'google_translate_element');
+        }
+    </script>
+    <script src="https://google.com"></script>
 
     <script>
         let allNews = [], allCategories = [], currentRegion = "Все";
@@ -67,7 +102,7 @@
                 const card = document.createElement("article");
                 card.className = "news-card";
                 const imgTag = item.image ? `<a href="${item.link}" target="_blank" rel="noopener"><img src="${item.image}" class="card-img" loading="lazy" onerror="this.parentElement.style.display='none'"></a>` : "";
-                card.innerHTML = `${imgTag}<div class="card-body"><div><div class="card-top"><span class="badge">${item.region}</span><span class="source-name">${item.source}</span></div><h2><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></h2><p>${item.description}</p></div><div class="card-footer"><span>${item.date}</span><a href="${item.link}" target="_blank" rel="noopener" class="read-link">Читать &rarr;</a></div></div>`;
+                card.innerHTML = `${imgTag}<div class="card-body"><div><div class="card-top notranslate"><span class="badge">${item.region}</span><span class="source-name">${item.source}</span></div><h2><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></h2><p>${item.description}</p></div><div class="card-footer notranslate"><span>${item.date}</span><a href="${item.link}" target="_blank" rel="noopener" class="read-link">Читать &rarr;</a></div></div>`;
                 container.appendChild(card);
             });
         }
