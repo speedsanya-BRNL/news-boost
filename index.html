@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Главные Новости — Мир и Регионы</title>
+    <title>Главные Новости</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -12,7 +12,7 @@
         <div class="header-top">
             <h1>ГЛАВНЫЕ НОВОСТИ</h1>
             <div>
-                <button class="theme-toggle" id="refresh-btn" style="margin-right: 6px;">🔄 Обновить</button>
+                <button class="theme-toggle" id="refresh-btn">🔄 Обновить</button>
                 <button class="theme-toggle" id="theme-btn">🌓 Тема</button>
             </div>
         </div>
@@ -21,47 +21,39 @@
 
     <div class="container">
         <div class="meta-bar">
-            <h2 class="section-heading" id="current-title">Картина дня по всем рубрикам</h2>
-            <span class="update-time" id="last-updated">Загрузка...</span>
+            <h2 class="section-heading" id="current-title">Картина дня</h2>
+            <span class="update-time" id="last-updated"></span>
         </div>
-        <div class="news-grid" id="news-container">
-            <p>Собираем свежие новости и переводим заголовки...</p>
-        </div>
+        <div class="news-grid" id="news-container"></div>
     </div>
 
     <footer>
-        Новости обновляются автоматически при открытии страницы
+        Автоматическая лента новостей
     </footer>
 
     <script>
-        // =========================================================================
-        // НАСТРОЙКА РУБРИК И ИСТОЧНИКОВ
-        // Чтобы добавить новую рубрику — просто скопируйте любой блок по образцу!
-        // =========================================================================
         const SOURCES = {
             "Мир": [
                 { name: "ТАСС", url: "https://tass.ru" },
-                { name: "BBC World", url: "https://bbci.co.uk" }
+                { name: "BBC", url: "https://bbci.co.uk" }
             ],
             "Европа": [
                 { name: "Euronews", url: "https://euronews.com" }
             ],
             "США": [
-                { name: "NPR News", url: "https://npr.org" },
-                { name: "Голос Америки", url: "https://golosameriki.com" }
+                { name: "NPR", url: "https://npr.org" }
             ],
             "Азия": [
-                { name: "Channel NewsAsia", url: "https://channelnewsasia.com" }
+                { name: "CNA", url: "https://channelnewsasia.com" }
             ],
             "Китай": [
-                { name: "South China Morning Post", url: "https://scmp.com" }
+                { name: "SCMP", url: "https://scmp.com" }
             ],
             "Таиланд": [
                 { name: "Bangkok Post", url: "https://bangkokpost.com" },
-                { name: "The Pattaya News", url: "https://thepattayanews.com" }
+                { name: "Pattaya News", url: "https://thepattayanews.com" }
             ],
             "Россия": [
-                { name: "Интерфакс", url: "https://interfax.ru" },
                 { name: "Лента.ру", url: "https://lenta.ru" }
             ],
             "Барнаул": [
@@ -71,93 +63,84 @@
         };
 
         let allNews = [];
-        let currentRegion = 'Все';
-        const container = document.getElementById('news-container');
-        const heading = document.getElementById('current-title');
-        const updatedSpan = document.getElementById('last-updated');
-        const navContainer = document.getElementById('region-buttons');
-        const themeBtn = document.getElementById('theme-btn');
-        const refreshBtn = document.getElementById('refresh-btn');
+        let currentRegion = "Все";
 
-        // Тема День / Ночь
-        if (localStorage.getItem('theme') === 'dark') {
-            document.body.classList.add('dark-theme');
+        const container = document.getElementById("news-container");
+        const heading = document.getElementById("current-title");
+        const updatedSpan = document.getElementById("last-updated");
+        const navContainer = document.getElementById("region-buttons");
+
+        if (localStorage.getItem("theme") === "dark") {
+            document.body.classList.add("dark-theme");
         }
-        themeBtn.addEventListener('click', () => {
-            document.body.classList.toggle('dark-theme');
-            localStorage.setItem('theme', document.body.classList.contains('dark-theme') ? 'dark' : 'light');
-        });
+        document.getElementById("theme-btn").onclick = () => {
+            document.body.classList.toggle("dark-theme");
+            localStorage.setItem("theme", document.body.classList.contains("dark-theme") ? "dark" : "light");
+        };
 
-        // Автоперевод иностранных заголовков на русский через бесплатный API
-        async function translateToRu(text) {
-            if (!text || /[а-яА-ЯёЁ]/.test(text)) return text;
-            try {
-                const res = await fetch(`https://googleapis.com{encodeURIComponent(text)}`);
-                const data = await res.json();
-                return data[0].map(item => item[0]).join('');
-            } catch (e) {
-                return text;
-            }
-        }
-
-        // Очистка HTML-тегов из описания
-        function stripHtml(html) {
-            const tmp = document.createElement('div');
-            tmp.innerHTML = html || '';
-            const text = tmp.textContent || tmp.innerText || '';
-            return text.length > 170 ? text.slice(0, 170) + '...' : text;
-        }
-
-        // Создание кнопок вкладок
         function buildMenu() {
-            navContainer.innerHTML = '';
-            const categories = ['Все', ...Object.keys(SOURCES)];
-
-            categories.forEach(cat => {
-                const btn = document.createElement('button');
-                btn.className = 'region-btn' + (cat === currentRegion ? ' active' : '');
-                btn.textContent = cat === 'Все' ? 'Главное' : cat;
-                btn.addEventListener('click', () => {
-                    document.querySelectorAll('.region-btn').forEach(b => b.classList.remove('active'));
-                    btn.classList.add('active');
-                    currentRegion = cat;
+            navContainer.innerHTML = "";
+            const tabs = ["Все", ...Object.keys(SOURCES)];
+            tabs.forEach(tab => {
+                const btn = document.createElement("button");
+                btn.className = "region-btn" + (tab === currentRegion ? " active" : "");
+                btn.textContent = tab === "Все" ? "Главное" : tab;
+                btn.onclick = () => {
+                    document.querySelectorAll(".region-btn").forEach(b => b.classList.remove("active"));
+                    btn.classList.add("active");
+                    currentRegion = tab;
                     renderNews();
-                    window.scrollTo({ top: 0, behavior: 'smooth' });
-                });
+                    window.scrollTo({ top: 0, behavior: "smooth" });
+                };
                 navContainer.appendChild(btn);
             });
         }
 
-        // Отрисовка карточек
-        function renderNews() {
-            container.innerHTML = '';
-            let filtered = [];
+        function cleanText(html) {
+            const div = document.createElement("div");
+            div.innerHTML = html || "";
+            const txt = (div.textContent || "").trim();
+            return txt.length > 160 ? txt.slice(0, 160) + "..." : txt;
+        }
 
-            if (currentRegion === 'Все') {
-                heading.textContent = 'Картина дня по всем рубрикам';
+        async function translateRu(text) {
+            if (!text || /[а-яА-ЯёЁ]/.test(text)) return text;
+            try {
+                const r = await fetch("https://googleapis.com" + encodeURIComponent(text));
+                const d = await r.json();
+                return d.map(x => x).join("");
+            } catch {
+                return text;
+            }
+        }
+
+        function renderNews() {
+            container.innerHTML = "";
+            let list = [];
+            if (currentRegion === "Все") {
+                heading.textContent = "Картина дня по всем рубрикам";
                 Object.keys(SOURCES).forEach(cat => {
-                    const items = allNews.filter(n => n.region === cat).slice(0, 1);
-                    filtered.push(...items);
+                    list.push(...allNews.filter(n => n.region === cat).slice(0, 1));
                 });
             } else {
                 heading.textContent = currentRegion;
-                filtered = allNews.filter(n => n.region === currentRegion).slice(0, 9);
+                list = allNews.filter(n => n.region === currentRegion).slice(0, 9);
             }
 
-            if (filtered.length === 0) {
-                container.innerHTML = '<p>Загружаем новости для этого раздела или источник временно недоступен...</p>';
+            if (list.length === 0) {
+                container.innerHTML = "<p>Загружаем новости для этой рубрики...</p>";
                 return;
             }
 
-            filtered.forEach(item => {
-                const card = document.createElement('article');
-                card.className = 'news-card';
-                const imgHtml = item.image
-                    ? `<a href="${item.link}" target="_blank" rel="noopener"><img src="${item.image}" alt="" class="card-img" loading="lazy" onerror="this.parentElement.style.display='none'"></a>`
-                    : '';
+            list.forEach(item => {
+                const card = document.createElement("article");
+                card.className = "news-card";
+                const imgTag = item.image
+                    ? `<a href="${item.link}" target="_blank" rel="noopener"><img src="${item.image}" class="card-img" loading="lazy" onerror="this.parentElement.style.display='none'"></a>`
+                    : "";
 
                 card.innerHTML = `
-                    ${imgHtml}
+                    ${imgTag}
                     <div class="card-body">
                         <div>
                             <div class="card-top">
@@ -177,49 +160,71 @@
             });
         }
 
-        // Загрузка новостей через открытый конвертер RSS -> JSON
-        async function loadAllNews() {
-            updatedSpan.textContent = 'Обновляем ленту...';
-            allNews = [];
-            const tasks = [];
+        async function fetchFeed(region, feed) {
+            try {
+                const res = await fetch("https://allorigins.win" + encodeURIComponent(feed.url));
+                const json = await res.json();
+                if (!json.contents) return;
 
-            for (const [region, feeds] of Object.entries(SOURCES)) {
-                for (const feed of feeds) {
-                    const apiUrl = `https://rss2json.com{encodeURIComponent(feed.url)}`;
-                    const task = fetch(apiUrl)
-                        .then(r => r.json())
-                        .then(async data => {
-                            if (data.status === 'ok' && data.items) {
-                                const topItems = data.items.slice(0, 5);
-                                for (const item of topItems) {
-                                    const titleRu = await translateToRu(item.title);
-                                    const descRu = await translateToRu(stripHtml(item.description));
-                                    const img = item.thumbnail || (item.enclosure && item.enclosure.link) || '';
-                                    const dateStr = item.pubDate ? item.pubDate.slice(0, 16) : '';
+                const doc = new DOMParser().parseFromString(json.contents, "text/xml");
+                const items = Array.from(doc.querySelectorAll("item")).slice(0, 5);
 
-                                    allNews.push({
-                                        region: region,
-                                        source: feed.name,
-                                        title: titleRu,
-                                        link: item.link,
-                                        date: dateStr,
-                                        description: descRu,
-                                        image: img
-                                    });
-                                }
-                                renderNews(); // Отрисовываем по мере поступления
-                            }
-                        })
-                        .catch(err => console.log('Ошибка источника:', feed.name));
-                    tasks.push(task);
+                for (const el of items) {
+                    const rawTitle = el.querySelector("title")?.textContent?.trim() || "";
+                    if (!rawTitle) continue;
+                    const link = el.querySelector("link")?.textContent?.trim() || "#";
+                    const rawDesc = cleanText(el.querySelector("description")?.textContent || "");
+                    const pubDate = (el.querySelector("pubDate")?.textContent || "").slice(0, 16);
+
+                    let img = "";
+                    const enc = el.querySelector("enclosure");
+                    if (enc && enc.getAttribute("url")) img = enc.getAttribute("url");
+                    if (!img) {
+                        const media = el.getElementsByTagName("media:content") || el.getElementsByTagName("media:thumbnail");
+                        if (media && media.getAttribute("url")) img = media.getAttribute("url");
+                    }
+                    if (!img) {
+                        const m = (el.querySelector("description")?.textContent || "").match(/<img[^>]+src=["']([^"']+)["']/i);
+                        if (m) img = m;
+                    }
+
+                    const titleRu = await translateRu(rawTitle);
+                    const descRu = await translateRu(rawDesc);
+
+                    allNews.push({
+                        region,
+                        source: feed.name,
+                        title: titleRu,
+                        link,
+                        date: pubDate,
+                        description: descRu,
+                        image: img
+                    });
                 }
+                renderNews();
+            } catch (e) {
+                console.log("Ошибка:", feed.name);
             }
-
-            await Promise.allSettled(tasks);
-            const now = new Date();
-            updatedSpan.textContent = 'Обновлено: ' + now.toLocaleTimeString('ru-RU', { hour: '2-digit', minute: '2-digit' });
         }
 
-        refreshBtn.addEventListener('click', loadAllNews);
+        async function loadAll() {
+            updatedSpan.textContent = "Загрузка...";
+            allNews = [];
+            buildMenu();
+            renderNews();
 
-        buildMenu();
+            const jobs = [];
+            for (const [region, feeds] of Object.entries(SOURCES)) {
+                for (const feed of feeds) {
+                    jobs.push(fetchFeed(region, feed));
+                }
+            }
+            await Promise.allSettled(jobs);
+            updatedSpan.textContent = "Обновлено: " + new Date().toLocaleTimeString("ru-RU", { hour: "2-digit", minute: "2-digit" });
+        }
+
+        document.getElementById("refresh-btn").onclick = loadAll;
+        loadAll();
+    </script>
+</body>
+</html>
