@@ -1,27 +1,16 @@
 from datetime import datetime, timedelta, timezone
 import json
 import re
-import urllib.parse
+import subprocess
 from deep_translator import GoogleTranslator
 import feedparser
-import requests
 
-# Надежные источники (прямые СМИ + открытые новостные потоки для регионов с жесткой защитой)
 SOURCES = {
     "Мир": [
+        ("ТАСС", "https://tass.ru"),
         ("BBC World", "https://bbci.co.uk"),
-        (
-            "ТАСС",
-            "https://google.com",
-        ),
     ],
-    "Европа": [
-        ("Euronews", "https://euronews.com"),
-        (
-            "Европа (Главное)",
-            "https://google.com",
-        ),
-    ],
+    "Европа": [("Euronews", "https://euronews.com")],
     "США": [("NPR News", "https://npr.org")],
     "Азия": [
         (
@@ -36,33 +25,11 @@ SOURCES = {
         ("Bangkok Post", "https://bangkokpost.com"),
         ("The Pattaya News", "https://thepattayanews.com"),
     ],
-    "Россия": [
-        (
-            "Интерфакс",
-            "https://google.com",
-        ),
-        (
-            "РБК",
-            "https://google.com",
-        ),
-    ],
+    "Россия": [("Лента.ру", "https://lenta.ru")],
     "Барнаул": [
-        (
-            "Толк (Барнаул)",
-            "https://google.com",
-        ),
-        (
-            "Амител (Барнаул)",
-            "https://google.com",
-        ),
+        ("Толк", "https://tolknews.ru"),
+        ("Амител", "https://amic.ru"),
     ],
-}
-
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-        " (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-    )
 }
 
 translator = GoogleTranslator(source="auto", target="ru")
@@ -114,49 +81,43 @@ articles = []
 for region, feeds in SOURCES.items():
     for source_name, url in feeds:
         try:
-            resp = requests.get(url, headers=HEADERS, timeout=15)
-            print(
-                f"[{region}] {source_name}: статус {resp.status_code}, размер"
-                f" {len(resp.content)} байт"
-            )
-            feed = feedparser.parse(resp.content)
-            print(f"   Найдено записей: {len(feed.entries)}")
+            # Используем системный curl с имитацией обычного браузера
+            cmd = [
+                "curl",
+                "-sL",
+                "-A",
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "--max-time",
+                "15",
+                url,
+            ]
+            xml_bytes = subprocess.check_output(cmd)
+            feed = feedparser.parse(xml_bytes)
+            print(f"[{region}] {source_name}: найдено {len(feed.entries)}")
 
             for entry in feed.entries[:5]:
                 raw_title = entry.get("title", "").strip()
                 if not raw_title:
                     continue
 
-                # Убираем дублирующее название сайта в конце заголовка (если есть)
-                raw_title = re.sub(r"\s+-\s+[^-]+$", "", raw_title)
-
                 link = entry.get("link", "#").strip()
                 raw_desc = clean_html(
                     entry.get("summary", "") or entry.get("description", "")
                 )
-                # Если описание полностью повторяет заголовок — очищаем его
-                if raw_desc.startswith(raw_title[:30]):
-                    raw_desc = ""
-
                 pub_date = entry.get("published", "")[:16]
                 image_url = extract_image(entry)
-
-                title_ru = translate_text(raw_title)
-                desc_ru = translate_text(raw_desc)
 
                 articles.append({
                     "region": region,
                     "source": source_name,
-                    "title": title_ru,
+                    "title": translate_text(raw_title),
                     "link": link,
                     "date": pub_date,
-                    "description": desc_ru,
+                    "description": translate_text(raw_desc),
                     "image": image_url,
                 })
         except Exception as e:
             print(f"Ошибка {source_name}: {e}")
-
-print(f"ИТОГО СОБРАНО НОВОСТЕЙ: {len(articles)}")
 
 barnaul_tz = timezone(timedelta(hours=7))
 now_str = datetime.now(barnaul_tz).strftime("%d.%m.%Y в %H:%M")
@@ -169,4 +130,3 @@ output = {
 
 with open("news.json", "w", encoding="utf-8") as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
-
