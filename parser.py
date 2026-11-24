@@ -1,33 +1,62 @@
 from datetime import datetime, timedelta, timezone
 import json
 import re
+import ssl
+import time
 import subprocess
 from deep_translator import GoogleTranslator
 import feedparser
+from io import BytesIO
+
+def fetch_feed(url, timeout=8):
+    """Скачивает RSS через curl с жёстким таймаутом."""
+    try:
+        result = subprocess.run(
+            ["curl", "-s", "--max-time", str(timeout), "--connect-timeout", "5",
+             "-A", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+             "-k", url],
+            capture_output=True, timeout=timeout + 2
+        )
+        if result.returncode == 0 and result.stdout:
+            return result.stdout
+        return b""
+    except Exception:
+        return b""
+
+
+def parse_feed_xml(xml_bytes):
+    return feedparser.parse(BytesIO(xml_bytes))
+
 
 SOURCES = {
     "Мир": [
-        ("ТАСС", "https://tass.ru/rss.xml"),
-        ("BBC World", "https://feeds.bbci.co.uk/news/rss.xml"),
+        ("RT English", "https://rt-english.com/rss/"),
+        ("Life.ru Мир", "https://life.ru/rss"),
     ],
     "Европа": [
-        ("Euronews", "https://www.euronews.com/rss")
+        ("RT English", "https://rt-english.com/rss/"),
     ],
     "США": [
-        ("NPR News", "https://www.npr.org/rss/rss.php")
+        ("Life.ru Мир", "https://life.ru/rss"),
     ],
     "Азия": [
-        ("Channel NewsAsia", "https://www.channelnewsasia.com/api:rss/1.0/articles?output=xml")
+        ("RT English", "https://rt-english.com/rss/"),
     ],
     "Китай": [
-        ("South China Morning Post", "https://www.scmp.com/rss/3003313/feed")
+        ("RT English", "https://rt-english.com/rss/"),
     ],
     "Таиланд": [
-        ("Bangkok Post", "https://www.bangkokpost.com/services/rss/"),
-        ("The Pattaya News", "https://thepattayanews.com/feed/"),
+        ("Life.ru Мир", "https://life.ru/rss"),
+    ],
+    "Паттайя": [
+        ("Зе Паттайя Ньюс", "https://thepattayanewsru.com/feed/"),
+        ("Google Новости — Паттайя", "https://news.google.com/rss/search?q=%D0%9F%D0%B0%D1%82%D1%82%D0%B0%D1%8F%D1%8F&hl=ru&gl=RU&ceid=RU:ru"),
     ],
     "Россия": [
-        ("Лента.ру", "https://lenta.ru/rss/")
+        ("Лента.ру", "https://lenta.ru/rss/"),
+        ("Известия", "https://iz.ru/xml/rss/all.xml"),
+        ("Life.ru", "https://life.ru/rss"),
+        ("RT English", "https://rt-english.com/rss/"),
     ],
     "Барнаул": [
         ("Толк", "https://tolknews.ru/rss/"),
@@ -45,10 +74,17 @@ def is_russian(text):
 def translate_text(text):
     if not text or is_russian(text):
         return text
-    try:
-        return translator.translate(text)
-    except Exception:
-        return text
+    for attempt in range(3):
+        try:
+            result = translator.translate(text)
+            if result and not is_russian(result):
+                return result
+            return text
+        except Exception:
+            if attempt < 2:
+                time.sleep(1)
+            else:
+                return text
 
 
 def clean_html(raw_html):
@@ -84,18 +120,11 @@ articles = []
 for region, feeds in SOURCES.items():
     for source_name, url in feeds:
         try:
-            # Используем системный curl с имитацией обычного браузера
-            cmd = [
-                "curl",
-                "-sL",
-                "-A",
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                "--max-time",
-                "15",
-                url,
-            ]
-            xml_bytes = subprocess.check_output(cmd)
-            feed = feedparser.parse(xml_bytes)
+            xml_data = fetch_feed(url)
+            if not xml_data:
+                print(f"[{region}] {source_name}: 0 (нет данных)")
+                continue
+            feed = parse_feed_xml(xml_data)
             print(f"[{region}] {source_name}: найдено {len(feed.entries)}")
 
             for entry in feed.entries[:5]:
@@ -122,6 +151,8 @@ for region, feeds in SOURCES.items():
         except Exception as e:
             print(f"Ошибка {source_name}: {e}")
 
+        time.sleep(0.3)
+
 barnaul_tz = timezone(timedelta(hours=7))
 now_str = datetime.now(barnaul_tz).strftime("%d.%m.%Y в %H:%M")
 
@@ -133,3 +164,5 @@ output = {
 
 with open("news.json", "w", encoding="utf-8") as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
+
+print(f"\nГотово: {len(articles)} новостей сохранено в news.json")
