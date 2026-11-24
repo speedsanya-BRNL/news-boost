@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24 17:01",
+  "updated": "2026-11-24 19:01",
   "categories": [
     "Мир",
     "Европа",
@@ -15,55 +15,55 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "В КНР экс-замгубернатора приговорили к пожизненному сроку",
-      "link": "https://tass.ru/mezhdunarodnaya-panorama/28349101",
+      "title": "В Карелии дорожные службы перешли на круглосуточный режим из-за снегопадов",
+      "link": "https://tass.ru/obschestvo/28349719",
       "date": "Tue, 24 Nov 2026",
-      "description": "Гуйчжоу У Шэнхуа осудили за взятки на $17 млн",
+      "description": "В расчистке дорог задействовали более 100 единиц спецтехники",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Politico: Мерц продолжает угрожать блокировать бюджет ЕС из-за Украины",
-      "link": "https://tass.ru/mezhdunarodnaya-panorama/28349153",
+      "title": "Это база. Как в Италии добиваются от Украины ликвидации сайта \"Миротворец\"",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/28349369",
       "date": "Tue, 24 Nov 2026",
-      "description": "По данным издания, канцлер ФРГ толкает Венгрию, Словакию, Чехию и Болгарию разделить с остальными странами блока стоимость еврозай",
+      "description": "Как и когда появился экстремистский ресурс, почему в списках угроз национальной безопасности Украины значатся дети и мертвые, и ка",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "AP: США раскритиковали Канаду за оборонный бюджет и пересмотр планов по F-35",
-      "link": "https://tass.ru/mezhdunarodnaya-panorama/28349151",
+      "title": "В Хабаровском крае в 2026 году собрали 2,7 тыс. тонн тепличных овощей",
+      "link": "https://tass.ru/ekonomika/28348609",
       "date": "Tue, 24 Nov 2026",
-      "description": "Пентагон поставил надежность Оттавы как партнера по обороне Северной Америки по сомнение, пишет агентство",
+      "description": "Тепличные комплексы получили 47,8 млн рублей субсидий на покупку нового оборудования",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Роспотребнадзор поручил регионам ускорить вакцинацию против гриппа",
-      "link": "https://tass.ru/obschestvo/28349143",
+      "title": "В Минобрнауки рассказали о цели проекта \"Студтуризм\"",
+      "link": "https://tass.ru/obschestvo/28349685",
       "date": "Tue, 24 Nov 2026",
-      "description": "Также приступить к ее завершению",
+      "description": "Он позволяет молодежи знакомиться с вузами по всей России, заявила заместитель министра науки и высшего образования России Ольга П",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Умер митрополит Бачский Сербской православной церкви Ириней",
-      "link": "https://tass.ru/obschestvo/28349149",
+      "title": "В Прикамье подросток умер во время проведения учебных сборов",
+      "link": "https://tass.ru/proisshestviya/28349759",
       "date": "Tue, 24 Nov 2026",
-      "description": "Ему было 79 лет",
+      "description": "Устанавливаются все обстоятельства произошедшего",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "В Крыму ограничат подачу электричества с 08:00 до 21:00 мск",
-      "link": "https://tass.ru/obschestvo/28349129",
+      "title": "bnMAP.pro: Москва потеряла место лидера по средней этажности новостроек",
+      "link": "https://tass.ru/nedvizhimost/28349755",
       "date": "Tue, 24 Nov 2026",
-      "description": "Ограничения начнутся 25 ноября и продлятся порядка 10 дней",
+      "description": "Столица уступила Екатеринбургу",
       "image": ""
     },
     {
@@ -125,8 +125,17 @@
       "source": "DW Европа",
       "title": "DW",
       "link": "https://www.dw.com/russian/?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-24T04:38",
+      "date": "2026-11-24T10:52",
       "description": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "image": ""
+    },
+    {
+      "region": "Европа",
+      "source": "DW Европа",
+      "title": "Yle: Россия укрепляет военный городок Каменка у границы с Финляндией",
+      "link": "https://www.dw.com/ru/yle-россия-укрепляет-военный-городок-каменка-у-границы-с-финляндией/a-80027503?maca=rus-rss-ru-eu-4384-rdf",
+      "date": "2026-11-24T04:38",
+      "description": "Число военнослужащих дивизии, расположенной в военном городке Каменка в Карелии, планируется довести до 11 000. В городке снесли р",
       "image": ""
     },
     {
@@ -166,67 +175,85 @@
       "image": ""
     },
     {
-      "region": "Европа",
-      "source": "DW Европа",
-      "title": "Писториус: ФРГ за помощь Киеву, несмотря на усталость общества от войны",
-      "link": "https://www.dw.com/ru/писториус-фрг-за-помощь-киеву-несмотря-на-усталость-общества-от-войны/a-80026782?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-23T20:13",
-      "description": "\"Мы не хотим расширения этой войны\", - подчеркнул министр обороны ФРГ, отвечая на вопрос DW. Однако \"речь идет об убеждениях и о б",
+      "region": "США",
+      "source": "NPR News",
+      "title": "What should it cost to insure a home in wildfire country?",
+      "link": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country",
+      "date": "Tue, 24 Nov 2026",
+      "description": "Some California homeowners have spent thousands making their homes safer from wildfires. Yet all that work has barely made a dent",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1332+0+0/resize/2000x1332!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F17%2F88%2Fb622011245bda7751114fb3a3e34%2Fimage.png"
+    },
+    {
+      "region": "США",
+      "source": "NPR News",
+      "title": "Doctors struggle to save babies after parents refuse vitamin K",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
+      "date": "Tue, 24 Nov 2026",
+      "description": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital. It h",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3840x2880+0+0/resize/3840x2880!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7b%2F03%2Feee970f64e34a9a38cece517b242%2Fvitamink-02.jpg"
+    },
+    {
+      "region": "США",
+      "source": "NPR News",
+      "title": "Democrats probe whether Trump Jr.-aligned businesses benefit from government access",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6051028/jamie-raskin-donald-trump-jr-1789-capital-democrats-investigation",
+      "date": "Tue, 24 Nov 2026",
+      "description": "Investigators say companies with ties to Donald Trump Jr&apos;s investment firm, 1789 Capital, have profited since his father&apos",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2688+0+0/resize/4032x2688!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7e%2F27%2Ffa34b3e8414fb6ab4f04c32a76b2%2Fgettyimages-2294598329.jpg"
+    },
+    {
+      "region": "США",
+      "source": "NPR News",
+      "title": "They attended Trump&apos;s meme coin dinner. It didn&apos;t go well",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner",
+      "date": "Tue, 24 Nov 2026",
+      "description": "Trump&apos;s meme coin dinners have sparked intense controversy. These two guests attended his latest on Sunday — and agreed to pr",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x1200+0+0/resize/1600x1200!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9d%2F7d%2F9d4396f94cba811d52d367d83999%2Fwhatsapp-image-2026-11-22-at-17-16-55.jpeg"
+    },
+    {
+      "region": "США",
+      "source": "NPR News",
+      "title": "Black travelers on Route 66 weren&apos;t welcome at most gas stations — except this one",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-5928337/threatt-filling-station-oklahoma-route-66",
+      "date": "Tue, 24 Nov 2026",
+      "description": "Threatt Filling Station in Luther, Okla., was the first Black-owned gas station on Route 66. At a time when Black families needed",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F78%2F4df9b7cd4db681a4bb755b82a466%2Fthreattfillingstation-1.jpg"
+    },
+    {
+      "region": "США",
+      "source": "NPR News",
+      "title": "For workplace culture champions, Jensen Huang&apos;s return is &apos;unfathomable&apos;",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women",
+      "date": "Tue, 24 Nov 2026",
+      "description": "Some who have worked to promote diversity and inclusion in Silicon Valley say Jensen Huang&apos;s reinstatement as Nvidia&apos;s C",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4258x2839+0+0/resize/4258x2839!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F45%2F2eafdbfd4aefb6a733414c644e5d%2Fgettyimages-2280478542.jpg"
+    },
+    {
+      "region": "Азия",
+      "source": "Straits Times",
+      "title": "Bangladesh garment workers clash with police as pay protests shut factories",
+      "link": "https://www.straitstimes.com/asia/bangladesh-garment-workers-clash-with-police-as-pay-protests-shut-factories",
+      "date": "Tue, 24 Nov 2026",
+      "description": "DHAKA, Nov 24 - Bangladesh garment workers blocked roads in a key industrial belt on Tuesday, prompting police to fire tear gas an",
       "image": ""
     },
     {
-      "region": "США",
-      "source": "NPR News",
-      "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
-      "link": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
-      "date": "Mon, 23 Nov 2026",
-      "description": "California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez&apos;s actions violated Ho",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3568x2379+0+0/resize/3568x2379!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F50%2Fe5%2Fe4bbb0194e2e83802bfc1e84447d%2Fgettyimages-2267401862.jpg"
+      "region": "Азия",
+      "source": "Straits Times",
+      "title": "Ex-Philippine president Rodrigo Duterte’s team objects to scope of closed-door ICC trial",
+      "link": "https://www.straitstimes.com/asia/se-asia/ex-philippine-president-rodrigo-dutertes-team-objects-to-scope-of-closed-door-icc-trial",
+      "date": "Tue, 24 Nov 2026",
+      "description": "The prosecution has asked for 22 of its 69 witnesses to give evidence entirely in closed session.",
+      "image": ""
     },
     {
-      "region": "США",
-      "source": "NPR News",
-      "title": "They attended Trump&apos;s controversial meme coin dinner. It didn&apos;t go well",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Trump held another meme coin dinner for top holders of his cryptocurrency — an event that has raised intense controversy. Here&apo",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6045883"
-    },
-    {
-      "region": "США",
-      "source": "NPR News",
-      "title": "Some women in tech have concerns about Huang&apos;s return",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6045799/how-some-women-in-tech-are-responding-to-jensen-huangs-return-to-nvidia",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Women who have advocated for DEI in tech say Jensen Huang&apos;s return to NVIDIA as CEO sends a message that in Silicon Valley, a",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6045799"
-    },
-    {
-      "region": "США",
-      "source": "NPR News",
-      "title": "Mending relationships over the holidays? Considering a truce? NPR wants to know",
-      "link": "https://www.npr.org/2026/11/23/g-s1-155085/holidays-relationships-politics-dispute",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Has a political or social issue broken down a relationship that was important to you? Can it be repaired? Tell us what&apos;s goin",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6048x4032+0+0/resize/6048x4032!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2Fb5%2F3ecfcd01404d82f1b31ba1a59fe9%2F2026-05-20t000655z-1509118210-rc2dclalw81k-rtrmadp-3-usa-wildfires.JPG"
-    },
-    {
-      "region": "США",
-      "source": "NPR News",
-      "title": "&apos;Medicare for all&apos; is back on the drawing board. Does it stand a better chance this time?",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
-      "date": "Mon, 23 Nov 2026",
-      "description": "Several newly elected Democratic U.S. senators campaigned on Medicare for All. Could this be the time it actually gets traction?",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4006x2441+0+0/resize/4006x2441!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa7%2F8c%2Fa11810a84c48b86fa914e92bf68f%2Fgettyimages-2302991445.jpg"
-    },
-    {
-      "region": "США",
-      "source": "NPR News",
-      "title": "Trump claims credit as Jensen Huang returns to Nvidia",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
-      "date": "Mon, 23 Nov 2026",
-      "description": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7175x4786+0+0/resize/7175x4786!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fff%2Fc0%2Fc0c6dafa48c38152975a14812445%2Fgettyimages-2301014104.jpg"
+      "region": "Азия",
+      "source": "Straits Times",
+      "title": "China extends pause on US minerals ban to maintain truce",
+      "link": "https://www.straitstimes.com/asia/east-asia/china-extends-pause-on-us-minerals-ban-to-maintain-truce",
+      "date": "Tue, 24 Nov 2026",
+      "description": "Beijing preserved a key element of a fragile trade truce despite growing tensions over technology.",
+      "image": ""
     },
     {
       "region": "Азия",
@@ -253,33 +280,6 @@
       "link": "https://www.straitstimes.com/asia/south-asia/india-seizes-nepal-flood-crisis-to-rebuild-influence-as-china-gains-ground",
       "date": "Tue, 24 Nov 2026",
       "description": "China’s economic rise has given Kathmandu greater room to manoeuvre between its neighbours.",
-      "image": ""
-    },
-    {
-      "region": "Азия",
-      "source": "Straits Times",
-      "title": "China warns Nvidia’s Jensen Huang comeback doesn’t end ‘malicious’ risks from US",
-      "link": "https://www.straitstimes.com/asia/east-asia/china-warns-nvidias-jensen-huang-comeback-doesnt-end-malicious-risks-from-us",
-      "date": "Tue, 24 Nov 2026",
-      "description": "Already, Beijing has signalled it sees little reason to expect Washington’s restrictions to ease.",
-      "image": ""
-    },
-    {
-      "region": "Азия",
-      "source": "Straits Times",
-      "title": "Japan says it will advance ICC funding after US sanctions",
-      "link": "https://www.straitstimes.com/asia/east-asia/japan-accelerates-icc-funding-as-us-sanctions-threaten-court",
-      "date": "Tue, 24 Nov 2026",
-      "description": "Tokyo said it had decided to pay its full 2027 contribution by the end of the year.",
-      "image": ""
-    },
-    {
-      "region": "Азия",
-      "source": "Straits Times",
-      "title": "Most victims of Indonesia factory fire died trying to reach emergency exit, rescuers say",
-      "link": "https://www.straitstimes.com/asia/se-asia/most-victims-of-indonesia-factory-fire-died-trying-to-reach-emergency-exit-rescuers-say",
-      "date": "Tue, 24 Nov 2026",
-      "description": "More than 600 rescuers searched the burnt three-storey building for eight missing workers.",
       "image": ""
     },
     {
@@ -339,6 +339,33 @@
     {
       "region": "Таиланд",
       "source": "The Thaiger",
+      "title": "Lawyer Sittha attacked with fermented fish outside Bangkok police station",
+      "link": "https://thethaiger.com/news/bangkok/thai-celebrity-lawyer-hit-with-fermented-fish-sauce-at-police-station",
+      "date": "Tue, 24 Nov 2026",
+      "description": "Police detained the man after he threw bags of fermented fish sauce at Lawyer Tum as he briefed reporters on the Gun Jompalang ext",
+      "image": "https://thethaiger.com/wp-content/uploads/2026/11/Thaiger-News-Cover-Picture-with-Template-2026-11-24T174903.706.jpg"
+    },
+    {
+      "region": "Таиланд",
+      "source": "The Thaiger",
+      "title": "Thailand moves closer to free trade with four European nations",
+      "link": "https://thethaiger.com/hot-news/economy/thailand-efta-free-trade-agreement-europe",
+      "date": "Tue, 24 Nov 2026",
+      "description": "Thailand&#8217;s Cabinet has approved draft import rules for European dairy products and instant coffee as the country prepares to",
+      "image": "https://thethaiger.com/wp-content/uploads/2026/11/สำเนาของ-23-34-2026-11-24T170641.409.jpg"
+    },
+    {
+      "region": "Таиланд",
+      "source": "The Thaiger",
+      "title": "Chinese woman detained after tossing coins at plane for good luck",
+      "link": "https://thethaiger.com/news/world/china-woman-detained-tossing-coins-at-plane-wuhan-airport",
+      "date": "Tue, 24 Nov 2026",
+      "description": "A 61-year-old woman has been detained for five days in China after she threw four coins towards an aircraft to pray for a safe jou",
+      "image": "https://thethaiger.com/wp-content/uploads/2026/11/wuhan-tianhe-airport-aircraft-jet-bridge.jpg"
+    },
+    {
+      "region": "Таиланд",
+      "source": "The Thaiger",
       "title": "Chanthaburi man confesses to acid attack on wife due to jealousy",
       "link": "https://thethaiger.com/news/eastern-thailand/husband-surrenders-after-acid-attack-on-wife-at-laundry-shop",
       "date": "Tue, 24 Nov 2026",
@@ -365,30 +392,12 @@
     },
     {
       "region": "Таиланд",
-      "source": "The Thaiger",
-      "title": "More than 100 songwriters challenge 1.59 billion baht rights sale of RS Group",
-      "link": "https://thethaiger.com/thai-life/entertainment/thai-songwriters-accuse-rs-of-withholding-music-royalties",
+      "source": "Khaosod English",
+      "title": "Thailand is Looking Back at Vietnam on Tourism. That&#8217;s Not a Good Sign",
+      "link": "https://www.khaosodenglish.com/opinion/2026/11/24/thailand-is-looking-back-at-vietnam-on-tourism-thats-not-a-good-sign/",
       "date": "Tue, 24 Nov 2026",
-      "description": "",
-      "image": "https://thethaiger.com/wp-content/uploads/2026/11/Thaiger-News-Cover-Picture-with-Template-2026-11-24T161759.585.jpg"
-    },
-    {
-      "region": "Таиланд",
-      "source": "The Thaiger",
-      "title": "How to choose a superyacht charter in Phuket? Seven compared",
-      "link": "https://thethaiger.com/travel/how-to-choose-a-superyacht-charter-in-phuket-seven-compared",
-      "date": "Tue, 24 Nov 2026",
-      "description": "Seven superyachts to charter in Phuket this winter cost US$115,000 to US$380,000 a week, and the cheapest weekly rate isn’t the ch",
-      "image": "https://thethaiger.com/wp-content/uploads/2026/11/On-the-deck-of-Song-of-Songs.jpg"
-    },
-    {
-      "region": "Таиланд",
-      "source": "The Thaiger",
-      "title": "Foreign couple attacks Chiang Mai hospital staff during CPR",
-      "link": "https://thethaiger.com/news/chiang-mai/foreign-couple-chiang-mai-hospital-attack-cpr",
-      "date": "Tue, 24 Nov 2026",
-      "description": "A foreign man and woman allegedly attacked medical staff at a hospital in Chiang Mai today, November 24, injuring four workers whi",
-      "image": "https://thethaiger.com/wp-content/uploads/2026/11/สำเนาของ-23-34-2026-11-24T153955.940.jpg"
+      "description": "The issue of Vietnam’s rapidly rising tourist arrivals and its growing challenge to Thailand in tourism raises an interesting poin",
+      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/0-feat-26.jpg"
     },
     {
       "region": "Таиланд",
@@ -427,121 +436,112 @@
       "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/Chinese-fugitive-wanted-over-33-million-baht-tax-fraud-arrested-in-Samut-Prakan.jpg"
     },
     {
-      "region": "Таиланд",
-      "source": "Khaosod English",
-      "title": "Laos leaves UN’s Least Developed Country list after 55 years",
-      "link": "https://www.khaosodenglish.com/news/asean/2026/11/24/laos-leaves-uns-least-developed-country-list-after-55-years/",
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "Стало известно о внезапной смерти школьника во время военно-полевых сборов",
+      "link": "https://lenta.ru/news/2026/11/24/stalo-izvestno-o-vnezapnoy-smerti-shkolnika-vo-vremya-voenno-polevyh-sborov/",
       "date": "Tue, 24 Nov 2026",
-      "description": "VIENTIANE — Laos on Monday formally graduated from the United Nations category of least developed countries, ending 55 years on a",
-      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/0-feat-25.jpg"
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/24/14/20261124145800583/pic_6c464286773e4e4048563a4a9b40b001.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "В России отреагировали на слова Рютте о поддержке Украины",
-      "link": "https://lenta.ru/news/2026/11/24/v-rossii-otreagirovali-na-slova-ryutte-o-podderzhke-ukrainy/",
+      "title": "Госдума одобрила увеличение МРОТ",
+      "link": "https://lenta.ru/news/2026/11/24/gosduma-odobrila-uvelichenie-mrot/",
       "date": "Tue, 24 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/24/12/20261124125557512/pic_b1eeda09068085760c57e68949ff6003.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/24/14/20261124145506582/pic_1331e1ec5ea77b7321143ae1ebcc37f4.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "MWM сообщило об увеличении числа польских наемников на стороне Украины",
-      "link": "https://lenta.ru/news/2026/11/24/mwm-soobschilo-ob-uvelichenii-chisla-polskih-naemnikov-na-storone-ukrainy/",
+      "title": "Вылов популярной рыбы в России резко вырос",
+      "link": "https://lenta.ru/news/2026/11/24/vylov-populyarnoy-ryby-v-rossii-rezko-vyros/",
       "date": "Tue, 24 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/assets/webpack/images/lenta_og.8735b949.png"
+      "image": "https://icdn.lenta.ru/images/2026/11/24/14/20261124144644856/pic_a23f2100ef378f8441fac457b6263794.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Появились подробности госпитализации звездного адвоката Жорина",
-      "link": "https://lenta.ru/news/2026/11/24/poyavilis-podrobnosti-gospitalizatsii-zvezdnogo-advokata-zhorina/",
+      "title": "Россиянка неделю прятала в углу квартиры убитого чайником с кипятком мужа",
+      "link": "https://lenta.ru/news/2026/11/24/rossiyanka-nedelyu-pryatala-v-uglu-kvartiry-ubitogo-chaynikom-s-kipyatkom-muzha/",
       "date": "Tue, 24 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/24/12/20261124125433112/pic_60da06b180fc08c257e45eb2f605077a.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/24/14/20261124144747458/pic_c0053b92948004c0a944fca7ceee8dbb.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Российских туристов с питомцами в Турции предупредили об опасности",
-      "link": "https://lenta.ru/news/2026/11/24/rossiyskih-turistov-s-pitomtsami-v-turtsii-predupredili-ob-opasnosti/",
+      "title": "Москвичам пообещали аномальные выходные",
+      "link": "https://lenta.ru/news/2026/11/24/moskvicham-poobeschali-anomalnye-vyhodnye/",
       "date": "Tue, 24 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/24/12/20261124124753356/pic_8ce54cc06e8177ad964f220f8f62d75c.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/24/14/20261124140320941/pic_0a85aa8b6f4be1011c1d82aa732c8a06.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Российский гиперзвуковой патрон сравнили с лазером",
-      "link": "https://lenta.ru/news/2026/11/24/rossiyskiy-giperzvukovoy-patron-sravnili-s-lazerom/",
+      "title": "166 гексакоптеров «Баба-яга» уничтожены бойцами «Востока»",
+      "link": "https://lenta.ru/news/2026/11/24/baba-yaga/",
       "date": "Tue, 24 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/24/11/20261124114007485/pic_a3e8af05233a9e1b218b96f7375123d2.jpg"
-    },
-    {
-      "region": "Россия",
-      "source": "Лента.ру",
-      "title": "Чиновница вернула в бюджет России полсотни миллионов",
-      "link": "https://lenta.ru/news/2026/11/24/chinovnitsa-vernula-v-byudzhet-rossii-polsotni-millionov/",
-      "date": "Tue, 24 Nov 2026",
-      "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/24/11/20261124114531864/pic_fd6ecd8d490bf1fc89e755ca300a3531.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/24/14/20261124144934986/pic_23f9f3cc9f4246dce21455c6ab37c2c2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Судебные приставы напомнили, что долг по алиментам останется даже после 18-летия ребенка",
-      "link": "https://www.amic.ru/news/sudebnye-pristavy-napomnili-chto-dolg-po-alimentam-ostanetsya-dazhe-posle-18-letiya-rebenka-597369",
+      "title": "В Госдуме предложили разрешить родственникам делиться отпусками",
+      "link": "https://www.amic.ru/news/v-gosdume-predlozhili-razreshit-rodstvennikam-delitsya-otpuskami-597375",
       "date": "Tue, 24 Nov 2026",
-      "description": "Сумма задолженности продолжает удерживаться с должника в полном объеме до фактической выплаты",
-      "image": "https://www.amic.ru/images/news/news/452134_size2.jpg"
+      "description": "Концепция предусматривает возможность объединения неиспользованных дней отдыха родственников, а также их передачу внутри семьи для",
+      "image": "https://www.amic.ru/images/news/news/517959_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Мошенники заставили новосибирского школьника украсть 10 млн рублей в Томске",
-      "link": "https://www.amic.ru/news/moshenniki-zastavili-novosibirskogo-shkolnika-ukrast-10-mln-rubley-v-tomske-597360",
+      "title": "В барнаульском планетарии пройдут бесплатные киносеансы",
+      "link": "https://www.amic.ru/news/v-barnaulskom-planetarii-proydut-besplatnye-kinoseansy-597389",
       "date": "Tue, 24 Nov 2026",
-      "description": "Все началось в сентябре 2026 года, когда матери школьника Екатерине Бурмистровой позвонил неизвестный, представившийся сотрудником",
-      "image": "https://www.amic.ru/images/news/news/575032_size2.jpg"
+      "description": "Барнаульцев ждут две премьеры",
+      "image": "https://www.amic.ru/images/news/news/556534_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Жителей пострадавшего от взрыва газа дома запускают в квартиры в Кулунде",
-      "link": "https://www.amic.ru/news/zhiteley-postradavshego-ot-vzryva-gaza-doma-zapuskayut-v-kvartiry-v-kulunde-597374",
+      "title": "В России рассказали, как изменится работа вузовских педагогов",
+      "link": "https://www.amic.ru/news/v-rossii-rasskazali-kak-izmenitsya-rabota-vuzovskih-pedagogov-597381",
       "date": "Tue, 24 Nov 2026",
-      "description": "Люди забирают документы из своих жилищ",
-      "image": "https://www.amic.ru/images/news/news/597374_size2.jpg"
+      "description": "В условиях стремительного развития цифровых технологий и доступности информации функция педагога смещается от простой трансляции з",
+      "image": "https://www.amic.ru/images/news/news/591894_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "МВД: замена внутреннего паспорта не обязывает менять заграничный",
-      "link": "https://www.amic.ru/news/mvd-zamena-vnutrennego-pasporta-ne-obyazyvaet-menyat-zagranichnyy-597368",
+      "title": "Жители Кулунды, пострадавшие во время взрыва газа в доме, получат материальную помощь",
+      "link": "https://www.amic.ru/news/zhiteli-kulundy-postradavshie-vo-vremya-vzryva-gaza-v-dome-poluchat-materialnuyu-pomosch-597387",
       "date": "Tue, 24 Nov 2026",
-      "description": "Загранпаспорт необходимо обновлять в случае изменения личных данных, если он поврежден или страницы испачканы, а также при обнаруж",
-      "image": "https://www.amic.ru/images/news/news/508058_size2.jpg"
+      "description": "Сельчанам также предоставят места для бесплатного проживания",
+      "image": "https://www.amic.ru/images/news/news/597387_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Из Алтайского края пытались незаконно вывезти лес на 8,4 млн рублей",
-      "link": "https://www.amic.ru/news/iz-altayskogo-kraya-pytalis-nezakonno-vyvezti-les-na-84-mln-rubley-597366",
+      "title": "В Алтайском крае сменились все три сопредседателя регионального штаба Народного фронта",
+      "link": "https://www.amic.ru/news/v-altayskom-krae-smenilis-vse-tri-sopredsedatelya-regionalnogo-shtaba-narodnogo-fronta-597367",
       "date": "Tue, 24 Nov 2026",
-      "description": "Злоумышленники намеревались переправить за пределы России около 552 кубометров лесоматериалов",
-      "image": "https://www.amic.ru/images/news/news/597366_size2.jpg"
+      "description": "Новый состав руководства общественного движения избрали 24 ноября на конференции в Барнауле",
+      "image": "https://www.amic.ru/images/news/news/576831_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Житель Симферополя захотел получить от соседки 26 млрд рублей за спор из-за сарая",
-      "link": "https://www.amic.ru/news/zhitel-simferopolya-zahotel-poluchit-ot-sosedki-26-mlrd-rubley-za-spor-iz-za-saraya-597357",
+      "title": "В правительстве предложили давать кредитные каникулы пострадавшему от атак бизнесу",
+      "link": "https://www.amic.ru/news/v-pravitelstve-predlozhili-davat-kreditnye-kanikuly-postradavshemu-ot-atak-biznesu-597380",
       "date": "Tue, 24 Nov 2026",
-      "description": "История началась с разногласий по поводу использования общего земельного участка",
-      "image": "https://www.amic.ru/images/news/news/592965_size2.jpg"
+      "description": "Недавно депутаты внесли поправки о возможности такой отсрочки в случае введения ЧС",
+      "image": "https://www.amic.ru/images/news/news/596967_size2.jpg"
     }
   ]
 }
