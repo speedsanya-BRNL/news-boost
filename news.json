@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25 11:01",
+  "updated": "2026-11-25 13:01",
   "categories": [
     "Мир",
     "Европа",
@@ -15,56 +15,56 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Юрист Мухина объяснила, может ли таксист везти ребенка по обычному тарифу",
-      "link": "https://tass.ru/ekonomika/28351793",
+      "title": "FT сообщила о серьезных финансовых трудностях у 50% промышленных компаний Европы",
+      "link": "https://tass.ru/ekonomika/28352087",
       "date": "Wed, 25 Nov 2026",
-      "description": "",
+      "description": "Причинами стали высокие затраты на энергию и оплату труда, а также конкуренция со стороны китайских производителей, пишет газета",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Москвичам порекомендовали пользоваться метро из-за ухудшения погоды",
-      "link": "https://tass.ru/obschestvo/28351799",
+      "title": "Экс-главе новосибирского управления охраны Росгвардии одобрили УДО",
+      "link": "https://tass.ru/proisshestviya/28352065",
       "date": "Wed, 25 Nov 2026",
-      "description": "",
+      "description": "Его обвиняли в коррупции",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Эксперт Петухова рассказала, как выбрать свежую новогоднюю ель",
-      "link": "https://tass.ru/obschestvo/28351791",
+      "title": "Теннисиста Риндеркнеша могут дисквалифицировать на четыре года",
+      "link": "https://tass.ru/sport/28352079",
       "date": "Wed, 25 Nov 2026",
-      "description": "",
+      "description": "Это связано с возможным отказом проходить допинг-тестирование",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "В Ростовской области сбили более 50 БПЛА",
-      "link": "https://tass.ru/proisshestviya/28351807",
+      "title": "В Забайкалье сократят требования к стажу для поступления на муниципальную службу",
+      "link": "https://tass.ru/obschestvo/28352047",
       "date": "Wed, 25 Nov 2026",
-      "description": "",
+      "description": "Новые требования будут действовать для всех кандидатов, отметил председатель заксобрания края Юрий Кон",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Хоккеист \"Эдмонтона\" Подколзин забросил 14-ю шайбу в сезоне",
-      "link": "https://tass.ru/sport/28351803",
+      "title": "Москва впервые за 22 года может принять чемпионат РФ по спортивной гимнастике",
+      "link": "https://tass.ru/sport/28352075",
       "date": "Wed, 25 Nov 2026",
-      "description": "Его команда уступила \"Вегасу\" со счетом 3:5",
+      "description": "В 2026 году местом проведения чемпионата страны была Калуга",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Над Воронежской областью ночью уничтожили 21 БПЛА",
-      "link": "https://tass.ru/proisshestviya/28351797",
+      "title": "Спасатели нашли тело погибшего на месте взрыва газа в доме на Алтае",
+      "link": "https://tass.ru/proisshestviya/28352077",
       "date": "Wed, 25 Nov 2026",
       "description": "",
-      "image": ""
+      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261125/9594937.jpg"
     },
     {
       "region": "Мир",
@@ -78,11 +78,20 @@
     {
       "region": "Мир",
       "source": "BBC World",
-      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-      "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 24 Nov 2026",
-      "description": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg"
+      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 25 Nov 2026",
+      "description": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg"
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+      "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 25 Nov 2026",
+      "description": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration a",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg"
     },
     {
       "region": "Мир",
@@ -110,15 +119,6 @@
       "date": "Tue, 24 Nov 2026",
       "description": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "region": "Мир",
-      "source": "BBC World",
-      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
-      "link": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 24 Nov 2026",
-      "description": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/342b/live/2203fe30-e82f-11f1-917e-35f1674fb52c.jpg"
     },
     {
       "region": "Европа",
@@ -231,55 +231,55 @@
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "North Korea expels Swiss representative over sanctions related to children's camp",
-      "link": "https://www.straitstimes.com/asia/north-korea-expels-swiss-representative-over-sanctions-related-to-childrens-camp",
+      "title": "Indonesian rescuers search for possibly ‘dozens’ trapped in mine",
+      "link": "https://www.straitstimes.com/asia/se-asia/indonesian-rescuers-search-for-possibly-dozens-trapped-in-mine",
       "date": "Wed, 25 Nov 2026",
-      "description": "SEOUL, Nov 25 - North Korea has expelled the head of Switzerland's diplomatic office in Pyongyang and ordered the envoy to leave w",
+      "description": "The miners have been stuck in a mine 100m deep since Nov 23.",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Bangladesh raises garment workers’ minimum wage 36% after protests",
-      "link": "https://www.straitstimes.com/asia/south-asia/bangladesh-raises-garment-workers-minimum-wage-36-after-protests",
+      "title": "Malaysia Airlines parent orders 10 Boeing 787s to replace older Airbus jets",
+      "link": "https://www.straitstimes.com/asia/se-asia/malaysia-airlines-parent-orders-10-boeing-787s-to-replace-older-airbus-jets",
       "date": "Wed, 25 Nov 2026",
-      "description": "The increase was the smallest in more than a decade.",
+      "description": "The aircraft were scheduled for delivery between 2032 and 2035.",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Johor open to building Mersing airport, subject to feasibility studies, says Menteri Besar",
-      "link": "https://www.straitstimes.com/asia/se-asia/johor-open-to-building-mersing-airport-subject-to-feasibility-studies-says-menteri-besar",
+      "title": "A year after Hong Kong’s deadly fire, survivors struggle with loss and lingering sense of injustice",
+      "link": "https://www.straitstimes.com/asia/east-asia/a-year-after-hong-kongs-deadly-fire-survivors-struggle-with-loss-and-lingering-sense-of-injustice",
       "date": "Wed, 25 Nov 2026",
-      "description": "The airport could significantly improve access to the district’s 47 islands and rocky outcrops.",
+      "description": "In a city where national security laws have silenced political opposition, the tragedy is a sensitive issue.",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "North Korean leader Kim Jong-un’s daughter’s ski gear draws US scrutiny over luxury goods ban",
-      "link": "https://www.straitstimes.com/asia/east-asia/north-korean-leader-kim-jong-uns-daughters-ski-gear-draws-us-scrutiny-over-luxury-goods-ban",
+      "title": "One year after Hong Kong fire, survivors mourn losses and question accountability",
+      "link": "https://www.straitstimes.com/asia/one-year-after-hong-kong-fire-survivors-mourn-losses-and-question-accountability",
       "date": "Wed, 25 Nov 2026",
-      "description": "Photos released by North Korean state media on Nov 17 showed Kim Ju-ae skiing during her father’s visit to a tourist district in S",
+      "description": "HONG KONG, Nov 25 - A year after the fire that took his wife's life, Yip Ka Kui still sends her voice messages and photos on Whats",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "South Korean beauty clinics seek return of tourist tax refunds",
-      "link": "https://www.straitstimes.com/asia/east-asia/south-korean-beauty-clinics-seek-return-of-tourist-tax-refunds",
+      "title": "Russia sends home Chinese suspected of illegally raising $2.3 billion in deposits",
+      "link": "https://www.straitstimes.com/asia/russia-sends-home-chinese-suspected-of-illegally-raising-2-3-billion-in-deposits",
       "date": "Wed, 25 Nov 2026",
-      "description": "Doctors warned that higher treatment costs could drive away price-sensitive foreign patients.",
+      "description": "HONG KONG, Nov 25 - Russia has extradited home a Chinese national wanted for illegally taking public deposits of more than 15 bill",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Thailand asks China to help halt Myanmar mines over toxic rivers",
-      "link": "https://www.straitstimes.com/asia/se-asia/thailand-asks-china-to-help-halt-myanmar-mines-over-toxic-rivers",
+      "title": "New Mount Kinabalu climbing route from Kiau to open in January 2027, says Malaysian minister",
+      "link": "https://www.straitstimes.com/asia/se-asia/new-mount-kinabalu-climbing-route-from-kiau-to-open-in-january-2027-says-malaysian-minister",
       "date": "Wed, 25 Nov 2026",
-      "description": "The request came during talks on Nov 24 involving Thailand, China and Myanmar, according to Thai officials.",
+      "description": "The new route resulted from the efforts of Sabah Parks, the mountain’s guardians.",
       "image": ""
     },
     {
@@ -339,7 +339,52 @@
     {
       "region": "Таиланд",
       "source": "The Thaiger",
-      "title": "Police free 2 Indian men held for ransom in Bangkok and arrest 5 Indian suspects",
+      "title": "Thailand taxes the foreign income you bring in, and the clock runs to 31 December",
+      "link": "https://thethaiger.com/hot-news/expats/thailand-taxes-the-foreign-income-you-bring-in-and-the-clock-runs-to-31-december",
+      "date": "Wed, 25 Nov 2026",
+      "description": "If you have spent 180 days or more in Thailand this year, the country now counts you as a tax resident, and the money you bring in",
+      "image": "https://thethaiger.com/wp-content/uploads/2026/11/Foreign-income-tax.jpg"
+    },
+    {
+      "region": "Таиланд",
+      "source": "The Thaiger",
+      "title": "Laos becomes first Southeast Asian nation to leave LDC list",
+      "link": "https://thethaiger.com/news/world/laos-graduates-from-un-least-developed-countries-list",
+      "date": "Wed, 25 Nov 2026",
+      "description": "Laos left the UN least developed countries list on November 24 after gains in income, health and education. High debt, inflation a",
+      "image": "https://thethaiger.com/wp-content/uploads/2026/11/View-more-by-HaHaHam8-from-Getty-Images.jpg"
+    },
+    {
+      "region": "Таиланд",
+      "source": "The Thaiger",
+      "title": "Thailand video news &#124; American dies picking a fight, 7-Eleven Closes in Cambodia, Couple attacks hospital staff",
+      "link": "https://thethaiger.com/video-podcasts/thailand-video-news-25-11-2026",
+      "date": "Wed, 25 Nov 2026",
+      "description": "In today&#8217;s Thailand video news, an American man perishes after picking a fight with an Italian MMA fighter, in Cambodia, CP",
+      "image": "https://thethaiger.com/wp-content/uploads/2026/11/GMT_25NOV_Web.jpg"
+    },
+    {
+      "region": "Таиланд",
+      "source": "The Thaiger",
+      "title": "Pattaya transwoman says Chinese date steal cash, camera worth nearly 70,000 baht",
+      "link": "https://thethaiger.com/news/pattaya/pattaya-transwoman-says-chinese-boyfriend-steals-70000-baht",
+      "date": "Wed, 25 Nov 2026",
+      "description": "A Pattaya transwoman has filed a police complaint saying a Chinese man she had dated for about a week, without learning his name,",
+      "image": "https://thethaiger.com/wp-content/uploads/2026/11/Thaiger-News-Cover-Picture-with-Template-2026-11-25T111922.723.jpg"
+    },
+    {
+      "region": "Таиланд",
+      "source": "The Thaiger",
+      "title": "Thai influencer criticised over krathong kicking video in Chon Buri",
+      "link": "https://thethaiger.com/news/pattaya/thai-influencer-krathong-kicking-video-chon-buri",
+      "date": "Wed, 25 Nov 2026",
+      "description": "A motorcycle taxi content creator known as Super Bank filmed himself kicking his float across a Bang Lamung reservoir, scattering",
+      "image": "https://thethaiger.com/wp-content/uploads/2026/11/สำเนาของ-23-34-2026-11-25T111114.921.jpg"
+    },
+    {
+      "region": "Таиланд",
+      "source": "The Thaiger",
+      "title": "Police free 2 Indian men held for ransom in Bangkok and arrest 5 suspects",
       "link": "https://thethaiger.com/news/bangkok/2-indian-men-held-for-ransom-at-bangkok-house",
       "date": "Wed, 25 Nov 2026",
       "description": "Immigration police arrested five Indian suspects at a Phatthanakan townhouse where the two captives were allegedly beaten and made",
@@ -347,48 +392,30 @@
     },
     {
       "region": "Таиланд",
-      "source": "The Thaiger",
-      "title": "CCTV shows American pulled Italian MMA coach from lift before fatal fight in Bangkok",
-      "link": "https://thethaiger.com/news/bangkok/cctv-shows-american-pulling-italian-out-of-lift-before-fatal-fight",
+      "source": "Khaosod English",
+      "title": "Thailand voted world&#8217;s most desirable destination for gastronomy",
+      "link": "https://www.khaosodenglish.com/life/food/2026/11/25/thailand-voted-worlds-most-desirable-destination-for-gastronomy/",
       "date": "Wed, 25 Nov 2026",
-      "description": "CCTV footage circulated on Thai social media appears to show the American tourist, who died following a fight at a Bangkok hotel o",
-      "image": "https://thethaiger.com/wp-content/uploads/2026/11/Thaiger-News-Cover-Picture-with-Template-2026-11-25T100034.623.jpg"
+      "description": "25 November 2026 — Thailand has been voted the world&#8217;s most desirable destination for gastronomy at the Wanderlust Reader Tr",
+      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/Thailand-voted-worlds-most-desirable-destination-for-gastronomy.jpg"
     },
     {
       "region": "Таиланд",
-      "source": "The Thaiger",
-      "title": "Bangkok collects over 400,000 krathongs after Loy Krathong",
-      "link": "https://thethaiger.com/news/bangkok/bangkok-400000-krathongs-loy-krathong-2026",
+      "source": "Khaosod English",
+      "title": "Loy krathong tragedy: Mother killed in truck accident in samut prakan",
+      "link": "https://www.khaosodenglish.com/featured/2026/11/25/loy-krathong-tragedy-mother-killed-in-truck-accident-in-samut-prakan/",
       "date": "Wed, 25 Nov 2026",
-      "description": "Bangkok's Loy Krathong total rose 3.43% on last year. Foam floats fell to about 4% of the total and bread floats rose to 12.59%, d",
-      "image": "https://thethaiger.com/wp-content/uploads/2026/11/สำเนาของ-23-34-2026-11-25T102435.202.jpg"
+      "description": "SAMUT PRAKAN — 25 November 2026, A 56-year-old woman died after being run over by an 18-wheel trailer truck in Bang Phli district,",
+      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/cover-b-2.jpg"
     },
     {
       "region": "Таиланд",
-      "source": "The Thaiger",
-      "title": "Blue celebrate 25 years with a Bangkok concert at UOB Live",
-      "link": "https://thethaiger.com/hot-news/events/blue-25th-anniversary-bangkok-concert",
+      "source": "Khaosod English",
+      "title": "Arsenic detected in four people near Salween River",
+      "link": "https://www.khaosodenglish.com/news/2026/11/25/salween-river-arsenic-levels-remain-more-than-four-times-above-accepted-levels/",
       "date": "Wed, 25 Nov 2026",
-      "description": "Blue play UOB Live, Emsphere on Tuesday, January 26, 2027, celebrating 25 years of chart-topping hits The story Blue celebrate 25",
-      "image": "https://thethaiger.com/wp-content/uploads/2026/11/BLUE-BKK-1920x1080_OS@3x-100.jpg"
-    },
-    {
-      "region": "Таиланд",
-      "source": "The Thaiger",
-      "title": "Thailand begins twice-yearly HIV prevention shots at nine Bangkok sites",
-      "link": "https://thethaiger.com/news/national/thailand-starts-twice-yearly-hiv-prevention-injections",
-      "date": "Wed, 25 Nov 2026",
-      "description": "Thailand started giving lenacapavir, a twice-yearly injection that prevents HIV infection, on Wednesday, November 25, at nine clin",
-      "image": "https://thethaiger.com/wp-content/uploads/2026/11/lenacapavir-hiv-prevention-shot-thailand.jpg"
-    },
-    {
-      "region": "Таиланд",
-      "source": "The Thaiger",
-      "title": "Former employee accused of killing Pathum Thani boss for revenge",
-      "link": "https://thethaiger.com/news/national/former-employee-pathum-thani-boss-murder-revenge",
-      "date": "Wed, 25 Nov 2026",
-      "description": "Police arrested a former employee accused of shooting dead a used air conditioner shop owner in Pathum Thani and stealing 600,000",
-      "image": "https://thethaiger.com/wp-content/uploads/2026/11/สำเนาของ-23-34-2026-11-25T093523.942.jpg"
+      "description": "MAE HONG SON — 25 November 2026, Four people in Mae Hong Son province have tested positive for arsenic, while residents have been",
+      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/0-feat-27.jpg"
     },
     {
       "region": "Таиланд",
@@ -409,46 +436,10 @@
       "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/AOT-posts-19.3-billion-baht-profit-as-higher-passenger-fees-boost-revenue.jpg"
     },
     {
-      "region": "Таиланд",
-      "source": "Khaosod English",
-      "title": "Authorities prepare to salvage grounded ammonia tanker off Surat Thani",
-      "link": "https://www.khaosodenglish.com/featured/2026/11/25/authorities-prepare-to-salvage-grounded-ammonia-tanker-off-surat-thani/",
-      "date": "Wed, 25 Nov 2026",
-      "description": "SURAT THANI — 24 November 2026, maritime authorities are coordinating efforts to salvage a large liquefied gas tanker that ran agr",
-      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/Authorities-prepare-to-salvage-grounded-ammonia-tanker-off-Surat-Thani.jpg"
-    },
-    {
-      "region": "Таиланд",
-      "source": "Khaosod English",
-      "title": "Rayong data centre project targets 80% water recycling, addresses community concerns",
-      "link": "https://www.khaosodenglish.com/advertorial/2026/11/24/rayong-data-centre-project-targets-80-water-recycling-addresses-community-concerns/",
-      "date": "Tue, 24 Nov 2026",
-      "description": "RAYONG — Galaxy Data Center and Silicon Tech Park (STP) opened their project site in Ban Chang district to local authorities, comm",
-      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/22222222.jpg"
-    },
-    {
-      "region": "Таиланд",
-      "source": "Khaosod English",
-      "title": "Thailand is Looking Back at Vietnam on Tourism. That&#8217;s Not a Good Sign",
-      "link": "https://www.khaosodenglish.com/opinion/2026/11/24/thailand-is-looking-back-at-vietnam-on-tourism-thats-not-a-good-sign/",
-      "date": "Tue, 24 Nov 2026",
-      "description": "The issue of Vietnam’s rapidly rising tourist arrivals and its growing challenge to Thailand in tourism raises an interesting poin",
-      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/0-feat-26.jpg"
-    },
-    {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Назван объем замороженных в Швейцарии активов России",
-      "link": "https://lenta.ru/news/2026/11/25/nazvan-ob-em-zamorozhennyh-v-shveytsarii-aktivov-rossii/",
-      "date": "Wed, 25 Nov 2026",
-      "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/25/06/20261125065534515/pic_33cfc72f8e2f5b6e3ac726b3a4c21f61.jpg"
-    },
-    {
-      "region": "Россия",
-      "source": "Лента.ру",
-      "title": "Зарабатывавший к 16 годам до 15 миллионов долларов в год подросток раскрыл свой секрет",
-      "link": "https://lenta.ru/news/2026/11/25/zarabatyvavshiy-k-16-godam-do-15-millionov-dollarov-v-god-podrostok-raskryl-svoy-sekret/",
+      "title": "Раскрыты стоящие за Маском фигуры в момент ограничения Starshield на Украине",
+      "link": "https://lenta.ru/news/2026/11/25/raskryty-stoyaschie-za-maskom-figury-v-moment-ogranicheniya-starshield-na-ukraine/",
       "date": "Wed, 25 Nov 2026",
       "description": "",
       "image": "https://icdn.lenta.ru/assets/webpack/images/lenta_og.8735b949.png"
@@ -456,92 +447,101 @@
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "В Польше заявили об угрозе войны из-за высылки посла России",
-      "link": "https://lenta.ru/news/2026/11/25/v-polshe-zayavili-ob-ugroze-voyny-iz-za-vysylki-posla-rossii/",
+      "title": "Болгарию оштрафуют",
+      "link": "https://lenta.ru/news/2026/11/25/bolgariyu-oshtrafuyut/",
       "date": "Wed, 25 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/25/06/20261125064752295/pic_cfe4ed49e5e31914a4eefe0a90ebc0e5.jpg"
+      "image": "https://icdn.lenta.ru/assets/webpack/images/lenta_og.8735b949.png"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Слившего геймплей GTA VI хакера осудили и отпустили",
-      "link": "https://lenta.ru/news/2026/11/25/slivshego-geympley-gta-vi-hakera-osudili-i-otpustili/",
+      "title": "Сожитель регулярно обчищал россиянку из-за своих кредитов",
+      "link": "https://lenta.ru/news/2026/11/25/sozhitel-regulyarno-obchischal-rossiyanku-iz-za-svoih-kreditov/",
       "date": "Wed, 25 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/25/06/20261125063212295/pic_f7ef4f65a77b7a0e4b6d7233e2c59f19.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/25/08/20261125085931440/pic_049b0760118871c0e5d40201feb756de.jpeg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Названы регионы с самыми высокими социальными пенсиями",
-      "link": "https://lenta.ru/news/2026/11/25/nazvany-regiony-s-samymi-vysokimi-sotsialnymi-pensiyami/",
+      "title": "Раскрыты мотивы стоящих за эскалацией вокруг Калининграда сил",
+      "link": "https://lenta.ru/news/2026/11/25/raskryty-motivy-stoyaschih-za-eskalatsiey-vokrug-kaliningrada-sil/",
       "date": "Wed, 25 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/25/06/20261125062923030/pic_844b61dcafa7cfbd1c547d10e8a9f58e.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/25/08/20261125085734721/pic_d7babf6854c7d9579620694a797397d2.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Россиянам напомнили о длительности предстоящих новогодних праздников",
-      "link": "https://lenta.ru/news/2026/11/25/rossiyanam-napomnili-o-dlitelnosti-predstoyaschih-novogodnih-prazdnikov/",
+      "title": "Мощное землетрясение произошло рядом с Антарктидой",
+      "link": "https://lenta.ru/news/2026/11/25/moschnoe-zemletryasenie-proizoshlo-ryadom-s-antarktidoy/",
       "date": "Wed, 25 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/24/16/20261124160655950/pic_20837d171ccbd7334f06489f4f6a4817.jpg"
+      "image": "https://icdn.lenta.ru/assets/webpack/images/lenta_og.8735b949.png"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "Valve выпустила крупное обновление торговой площадки Steam",
+      "link": "https://lenta.ru/news/2026/11/25/steam-update/",
+      "date": "Wed, 25 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/assets/webpack/images/lenta_og.8735b949.png"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Скользкий вопрос. Как в Барнауле ночью боролись с гололедом",
-      "link": "https://www.amic.ru/news/skolzkiy-vopros-kak-v-barnaule-nochyu-borolis-s-gololedom-597416",
+      "title": "Киев переориентировал военную пропаганду на женщин",
+      "link": "https://www.amic.ru/news/kiev-pereorientiroval-voennuyu-propagandu-na-zhenschin-597435",
       "date": "Wed, 25 Nov 2026",
-      "description": "В дневное время 25 ноября коммунальные службы продолжат приводить городские дороги и тротуары в порядок",
-      "image": "https://www.amic.ru/images/news/news/597416_size2.jpg"
+      "description": "В рамках новой информационной кампании используются ролики, публикации и соцсети, чтобы расширить аудиторию призыва",
+      "image": "https://www.amic.ru/images/news/news/586081_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Бийчанин лишился крупной суммы, заплатив \"возвратный таможенный сбор\" за смартфон",
-      "link": "https://www.amic.ru/news/biychanin-lishilsya-krupnoy-summy-zaplativ-vozvratnyy-tamozhennyy-sbor-za-smartfon-597419",
+      "title": "В Барнауле усилят маршрут № 110 из-за активной застройки частного сектора",
+      "link": "https://www.amic.ru/news/v-barnaule-usilyat-marshrut--110-iz-za-aktivnoy-zastroyki-chastnogo-sektora-597436",
       "date": "Wed, 25 Nov 2026",
-      "description": "Нашел в интернете заманчивое объявление о продаже гаджета",
-      "image": "https://www.amic.ru/images/news/news/558437_size2.jpg"
+      "description": "Добавят четыре автобуса среднего класса",
+      "image": "https://www.amic.ru/images/news/news/573240_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "В Кулунде продолжается разбор завалов пятиэтажки с участием почти 200 человек",
-      "link": "https://www.amic.ru/news/v-kulunde-prodolzhaetsya-razbor-zavalov-pyatietazhki-s-uchastiem-pochti-200-chelovek-597420",
+      "title": "Время платить. Россиянам напомнили о приближении срока уплаты налогов",
+      "link": "https://www.amic.ru/news/vremya-platit-rossiyanam-napomnili-o-priblizhenii-sroka-uplaty-nalogov-597415",
       "date": "Wed, 25 Nov 2026",
-      "description": "В распоряжении сотрудников МЧС находятся 18 единиц спецтехники",
-      "image": "https://www.amic.ru/images/news/news/597420_size2.jpg"
+      "description": "Размер обязательных платежей зависит от вида имущества и действующих в регионе налоговых ставок",
+      "image": "https://www.amic.ru/images/news/news/582783_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Не рассказывайте о себе лишнего. В МВД предупредили россиян об опасности соцсетей",
-      "link": "https://www.amic.ru/news/ne-rasskazyvayte-o-sebe-lishnego-v-mvd-predupredili-rossiyan-ob-opasnosti-socsetey-597408",
+      "title": "В Алтайском крае задержали мужчину, подозреваемого в похищении женщины в Лебяжьем",
+      "link": "https://www.amic.ru/news/v-altayskom-krae-zaderzhali-muzhchinu-podozrevaemogo-v-pohischenii-zhenschiny-v-lebyazhem-597409",
       "date": "Wed, 25 Nov 2026",
-      "description": "Злоумышленники могут использовать персональные сведения из открытых источников для подготовки мошеннических схем",
-      "image": "https://www.amic.ru/images/news/news/581887_size2.jpg"
+      "description": "Подозреваемый пришел домой к сельчанке и начал наносить ей удары, в том числе кочергой",
+      "image": "https://www.amic.ru/images/news/news/583950_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Без движения. Строительство крупного ретейл-парка на берегу Оби в Барнауле замерло",
-      "link": "https://www.amic.ru/news/bez-dvizheniya-stroitelstvo-krupnogo-reteyl-parka-na-beregu-obi-v-barnaule-zamerlo-597373",
+      "title": "В Госдуме предлагают сделать 13-ю зарплату обязательной",
+      "link": "https://www.amic.ru/news/v-gosdume-predlagayut-sdelat-13-yu-zarplatu-obyazatelnoy-597433",
       "date": "Wed, 25 Nov 2026",
-      "description": "Торговую деревню должны были сдать в 2026 году, но работы далеки от завершения",
-      "image": "https://www.amic.ru/images/news/news/597373_size2.jpg"
+      "description": "Инициатива направлена на повышение стабильности доходов россиян и закрепление дополнительной выплаты на законодательном уровне",
+      "image": "https://www.amic.ru/images/news/news/579202_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "\"Где тебя хотят, там ты и звезда\". Игорь Бутман о русском джазе и восторге Билла Клинтона",
-      "link": "https://www.amic.ru/news/gde-tebya-hotyat-tam-ty-i-zvezda-igor-butman-o-russkom-dzhaze-i-vostorge-billa-klintona-597382",
+      "title": "Зима на один день. Как сильно потеплеет на Алтае к концу ноября и сколько будет градусов",
+      "link": "https://www.amic.ru/news/zima-na-odin-den-do-skolki-gradusov-vnov-potepleet-na-altae-k-koncu-noyabrya-597426",
       "date": "Wed, 25 Nov 2026",
-      "description": "Игорь Бутман рассказал, что думает о музыке, которую пишет искусственный интеллект",
-      "image": "https://www.amic.ru/images/news/news/597382_size2.jpg"
+      "description": "В этом году осень проявила характер и не желает отступать перед самым холодным сезоном",
+      "image": "https://www.amic.ru/images/news/news/597426_size2.jpg"
     }
   ]
 }
