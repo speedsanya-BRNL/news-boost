@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25 21:01",
+  "updated": "2026-11-25 23:01",
   "categories": [
     "Мир",
     "Европа",
@@ -15,8 +15,35 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "В аэропорту Калуги сняли ограничения",
-      "link": "https://tass.ru/ekonomika/28354651",
+      "title": "ТАСС: в Херсонской области ликвидировали военного морского спецназа ССО Украины",
+      "link": "https://tass.ru/armiya-i-opk/28355029",
+      "date": "Wed, 25 Nov 2026",
+      "description": "В подконтрольной Киеву части Запорожской области также было ликвидировано три офицера полиции",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "После задержек 14 поездов прибыли с опозданием из-за непогоды",
+      "link": "https://tass.ru/obschestvo/28354939",
+      "date": "Wed, 25 Nov 2026",
+      "description": "В пути задерживаются 23 поезда",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "Хоккеист Канцеров рассказал, что в Чикаго его стали узнавать болельщики",
+      "link": "https://tass.ru/sport/28355071",
+      "date": "Wed, 25 Nov 2026",
+      "description": "Форвард проводит дебютный сезон в НХЛ",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "Стоимость золота опустилась ниже $3 450 впервые с 28 августа 2025 года",
+      "link": "https://tass.ru/ekonomika/28355059",
       "date": "Wed, 25 Nov 2026",
       "description": "",
       "image": ""
@@ -24,47 +51,20 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "В АдГ заявили, что власти ФРГ заработали себе звание лучшего кабмина Украины",
-      "link": "https://tass.ru/mezhdunarodnaya-panorama/28354641",
+      "title": "В США запасы нефти за неделю выросли на 1,1 млн баррелей",
+      "link": "https://tass.ru/ekonomika/28355079",
       "date": "Wed, 25 Nov 2026",
-      "description": "Немецкий депутат Маркус Фронмайер добавил, что жители Германии заслуживают правительство, которое будет заботиться в первую очеред",
+      "description": "Они составили 418,9 млн баррелей",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Лукашенко освободил Тихановского по просьбе его жены из-за детей",
-      "link": "https://tass.ru/mezhdunarodnaya-panorama/28354643",
+      "title": "Лукашенко продлил на 2027 год безвизовый въезд в Белоруссию для граждан 38 стран",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/28355077",
       "date": "Wed, 25 Nov 2026",
-      "description": "Президент Белоруссии отметил, что пошел им на встречу из-за детей",
-      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250124/8026785.jpg"
-    },
-    {
-      "region": "Мир",
-      "source": "ТАСС",
-      "title": "В Одессе произошли взрывы",
-      "link": "https://tass.ru/proisshestviya/28354647",
-      "date": "Wed, 25 Nov 2026",
-      "description": "В городе объявлена воздушная тревога",
-      "image": ""
-    },
-    {
-      "region": "Мир",
-      "source": "ТАСС",
-      "title": "МККК призывает к соблюдению гуманитарного права в конфликте вокруг Ирана",
-      "link": "https://tass.ru/mezhdunarodnaya-panorama/28354593",
-      "date": "Wed, 25 Nov 2026",
-      "description": "Замглавы представительства Международного комитета Красного Креста в исламской республике Роман Парамонов подчеркнул, что организа",
-      "image": ""
-    },
-    {
-      "region": "Мир",
-      "source": "ТАСС",
-      "title": "В Дагестане подали 1 тыс. исков о помощи пострадавшим от паводка",
-      "link": "https://tass.ru/obschestvo/28354629",
-      "date": "Wed, 25 Nov 2026",
-      "description": "Глава республики Федор Щукин отметил, что оперативное обеспечение поддержки жителям находится в приоритете",
-      "image": ""
+      "description": "Правом безвизового въезда можно пользоваться неограниченное количество раз, при этом общее количество дней пребывания по безвизу н",
+      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20241217/7969305.jpg"
     },
     {
       "region": "Мир",
@@ -87,20 +87,29 @@
     {
       "region": "Мир",
       "source": "BBC World",
+      "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 25 Nov 2026",
+      "description": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d025/live/0cb03100-e741-11f1-802a-678be58471bb.png"
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 25 Nov 2026",
+      "description": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg"
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
       "title": "US attorney general dodges questions about Nvidia investigation",
       "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 25 Nov 2026",
       "description": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatemen",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png"
-    },
-    {
-      "region": "Мир",
-      "source": "BBC World",
-      "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026",
-      "description": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abbb/live/4b2b41d0-e8a5-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "region": "Мир",
@@ -112,21 +121,30 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a486/live/58170a20-e862-11f1-a094-5fdc692f3e33.png"
     },
     {
-      "region": "Мир",
-      "source": "BBC World",
-      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-      "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026",
-      "description": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/997a/live/4f4b3940-e8c4-11f1-ac76-db9e97f93d67.jpg"
-    },
-    {
       "region": "Европа",
       "source": "DW Европа",
       "title": "DW",
       "link": "https://www.dw.com/russian/?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-25T12:48",
+      "date": "2026-11-25T15:49",
       "description": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "image": ""
+    },
+    {
+      "region": "Европа",
+      "source": "DW Европа",
+      "title": "ЕП: На переговорах с РФ Европе нужен один представитель",
+      "link": "https://www.dw.com/ru/еп-на-переговорах-с-рф-европе-нужен-один-представитель/a-80052219?maca=rus-rss-ru-eu-4384-rdf",
+      "date": "2026-11-25T15:35",
+      "description": "Россия не готова к переговорам о прекращении войны, считают евродепутаты. Для защиты позиций Украины Европа должна направить на пе",
+      "image": ""
+    },
+    {
+      "region": "Европа",
+      "source": "DW Европа",
+      "title": "Паспорт сыну Кадырова за особые заслуги? Албуров о гражданстве Сербии",
+      "link": "https://www.dw.com/ru/паспорт-сыну-кадырова-за-особые-заслуги-албуров-о-гражданстве-сербии/a-80046574?maca=rus-rss-ru-eu-4384-rdf",
+      "date": "2026-11-25T12:48",
+      "description": "ФБК опубликовал расследование о получении гражданства Сербии представителями российской элиты, в том числе сыном главы Чечни Кадыр",
       "image": ""
     },
     {
@@ -157,22 +175,13 @@
       "image": ""
     },
     {
-      "region": "Европа",
-      "source": "DW Европа",
-      "title": "Картину Айвазовского \"Венеция ночью\" продали в Лондоне за 1,3 млн евро",
-      "link": "https://www.dw.com/ru/картину-айвазовского-венеция-ночью-продали-в-лондоне-за-1-3-млн-евро/a-80042131?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-24T23:53",
-      "description": "Частый коллекционер из Эстонии приобрел картину Айвазовского \"Венеция ночью. Сан-Джорджо-Маджоре\" в конце XIX века. Более века она",
-      "image": ""
-    },
-    {
-      "region": "Европа",
-      "source": "DW Европа",
-      "title": "ЕК намерена оштрафовать Болгарию из-за проблем страны с бюджетом",
-      "link": "https://www.dw.com/ru/ек-намерена-оштрафовать-болгарию-из-за-проблем-страны-с-бюджетом/a-80042013?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-24T22:26",
-      "description": "Правила Евросоюза допускают дефицит бюджета стран - членов не выше 3%. У Болгарии, по расчетам ЕК, он составит в текущем году 5%. ",
-      "image": ""
+      "region": "США",
+      "source": "NPR News",
+      "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
+      "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+      "date": "Wed, 25 Nov 2026",
+      "description": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1280x960+0+0/resize/1280x960!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2F9c%2Fcdbbeb7644308b0cf64b036b7f76%2Fliberian-thanksgiving-10.jpg"
     },
     {
       "region": "США",
@@ -220,13 +229,31 @@
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6953x4593+0+0/resize/6953x4593!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdc%2Ff4%2F8d8a889f48009045a421aa5a5ec9%2Fhigh-res-route66-cafe-4.jpg"
     },
     {
-      "region": "США",
-      "source": "NPR News",
-      "title": "In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis",
-      "link": "https://www.npr.org/2026/11/25/nx-s1-6046173/cannabis-marijuana-prices-retailers-discounts",
+      "region": "Азия",
+      "source": "Straits Times",
+      "title": "32 students injured after traditional house collapses at Thai tourist attraction",
+      "link": "https://www.straitstimes.com/asia/se-asia/32-students-injured-after-traditional-house-collapses-at-thai-tourist-attraction",
       "date": "Wed, 25 Nov 2026",
-      "description": "Steep discounts for \"Green Wednesday,\" one of the highest-selling days for cannabis, help customers keep costs down. But experts s",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3264x1836+0+247/resize/3264x1836!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fea%2Fa6%2F390bdd1e4a02a0ddda45c30c7d42%2Fap685592876001.jpg"
+      "description": "Fourteen students were taken to hospital for further treatment.",
+      "image": ""
+    },
+    {
+      "region": "Азия",
+      "source": "Straits Times",
+      "title": "Under-construction building collapses in Pakistan’s Karachi, killing three",
+      "link": "https://www.straitstimes.com/asia/south-asia/under-construction-building-collapses-in-pakistans-karachi-killing-three",
+      "date": "Wed, 25 Nov 2026",
+      "description": "At the scene, he mound of rubble reached several floors high.",
+      "image": ""
+    },
+    {
+      "region": "Азия",
+      "source": "Straits Times",
+      "title": "India says ‘cockroach’ movement leader Das was told not to use passport",
+      "link": "https://www.straitstimes.com/asia/south-asia/india-says-cockroach-movement-leader-das-was-told-not-to-use-passport",
+      "date": "Wed, 25 Nov 2026",
+      "description": "Das has petitioned the Delhi High Court against the move and the plea will be heard on Nov 26.",
+      "image": ""
     },
     {
       "region": "Азия",
@@ -249,37 +276,10 @@
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Xi's graft probe of Shanghai rising star upends traditional path to power in China",
-      "link": "https://www.straitstimes.com/asia/xis-graft-probe-of-shanghai-rising-star-upends-traditional-path-to-power-in-china",
+      "title": "Xi’s graft probe of Shanghai rising star Chen Jining upends traditional path to power in China",
+      "link": "https://www.straitstimes.com/asia/east-asia/xis-graft-probe-of-shanghai-rising-star-upends-traditional-path-to-power-in-china",
       "date": "Wed, 25 Nov 2026",
-      "description": "BEIJING, Nov 25 - The unexpected corruption investigation into Shanghai party chief Chen Jining, once seen as a strong contender f",
-      "image": ""
-    },
-    {
-      "region": "Азия",
-      "source": "Straits Times",
-      "title": "Workplace safety to home loans: Asian start-ups rewarded for deploying AI for social good",
-      "link": "https://www.straitstimes.com/asia/south-asia/workplace-safety-to-home-loans-asian-start-ups-rewarded-for-deploying-ai-for-social-good",
-      "date": "Wed, 25 Nov 2026",
-      "description": "A dozen start-ups received AI Tech4Good Awards for using AI for social good in sectors such as public health, education and agricu",
-      "image": ""
-    },
-    {
-      "region": "Азия",
-      "source": "Straits Times",
-      "title": "India tests bottled water nationwide after unsafe sample",
-      "link": "https://www.straitstimes.com/asia/south-asia/india-tests-bottled-water-nationwide-after-unsafe-sample",
-      "date": "Wed, 25 Nov 2026",
-      "description": "The findings sparked public debate over food safety.",
-      "image": ""
-    },
-    {
-      "region": "Азия",
-      "source": "Straits Times",
-      "title": "Cardamom ad sparks clash between Bollywood star, India’s food regulator",
-      "link": "https://www.straitstimes.com/asia/south-asia/cardamom-ad-sparks-clash-between-bollywood-star-indias-food-regulator",
-      "date": "Wed, 25 Nov 2026",
-      "description": "A court ruling is set to shape how far companies can go in indirectly advertising brands whose promotion is restricted.",
+      "description": "The Shanghai party secretary post was a well-trodden route to the party’s top leadership posts.",
       "image": ""
     },
     {
@@ -393,6 +393,15 @@
     {
       "region": "Таиланд",
       "source": "Khaosod English",
+      "title": "US proposes new tariffs on 14 trading partners to fight excess factory capacity",
+      "link": "https://www.khaosodenglish.com/featured/2026/11/25/us-proposes-new-tariffs-on-14-trading-partners-to-fight-excess-factory-capacity/",
+      "date": "Wed, 25 Nov 2026",
+      "description": "WASHINGTON, Nov 25 (Reuters) &#8211; The Trump administration on Wednesday proposed new tariffs on 14 major trading partners to co",
+      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/2026-11-25T134940Z_1023697619_RC21VOAXO8RM_RTRMADP_3_USA-TRUMP-TARIFFS00.jpg"
+    },
+    {
+      "region": "Таиланд",
+      "source": "Khaosod English",
       "title": "Thais donate 269 million baht for Thai-Cambodian border fence and shelters",
       "link": "https://www.khaosodenglish.com/news/2026/11/25/thais-donate-269-million-baht-for-thai-cambodian-border-fence-and-shelters/",
       "date": "Wed, 25 Nov 2026",
@@ -427,46 +436,10 @@
       "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/web-x-user.jpg"
     },
     {
-      "region": "Таиланд",
-      "source": "Khaosod English",
-      "title": "Thai air force plans 60-billion-baht purchase of eight Gripen fighters",
-      "link": "https://www.khaosodenglish.com/featured/2026/11/25/thai-air-force-plans-60-billion-baht-purchase-of-eight-gripen-fighters/",
-      "date": "Wed, 25 Nov 2026",
-      "description": "BANGKOK — The Royal Thai Air Force plans to buy eight Gripen fighter jets for 60 billion baht ($1.76 billion), combining the secon",
-      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/S__57851949_0-scaled.jpg"
-    },
-    {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Названа ошибка при использовании кондиционера для отопления",
-      "link": "https://lenta.ru/news/2026/11/25/teplo-ac/",
-      "date": "Wed, 25 Nov 2026",
-      "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/25/10/20261125103650904/pic_23795753f0853b67edef55f4c396cd04.jpg"
-    },
-    {
-      "region": "Россия",
-      "source": "Лента.ру",
-      "title": "Врач предупредил об опасности бенгальских огней",
-      "link": "https://lenta.ru/news/2026/11/25/allergolog-predupredil-ob-opasnosti-bengalskih-ogney/",
-      "date": "Wed, 25 Nov 2026",
-      "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/25/16/20261125163358670/pic_526846807dc091dd902a2305f332a678.jpg"
-    },
-    {
-      "region": "Россия",
-      "source": "Лента.ру",
-      "title": "Россиянка ответила за ультиматум бойфренда изнасиловать или убить ее",
-      "link": "https://lenta.ru/news/2026/11/25/rossiyanka-otvetila-za-ultimatum-boyfrenda-iznasilovat-ili-ubit-ee/",
-      "date": "Wed, 25 Nov 2026",
-      "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/25/16/20261125165154540/pic_c0053b92948004c0a944fca7ceee8dbb.jpg"
-    },
-    {
-      "region": "Россия",
-      "source": "Лента.ру",
-      "title": "Болельщики «Зенита» впервые исполнили гимн на жестовом языке",
-      "link": "https://lenta.ru/news/2026/11/25/bolelschiki-zenita-vpervye-ispolnili-gimn-na-zhestovom-yazyke/",
+      "title": "Infiniti решила возродить седаны G-серии",
+      "link": "https://lenta.ru/news/2026/11/25/infiniti-reshila-vozrodit-sedany-g-serii/",
       "date": "Wed, 25 Nov 2026",
       "description": "",
       "image": "https://icdn.lenta.ru/assets/webpack/images/lenta_og.8735b949.png"
@@ -474,20 +447,83 @@
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Российский военнослужащий заступился за женщину и получил удар ножом в шею",
-      "link": "https://lenta.ru/news/2026/11/25/rossiyskiy-voennosluzhaschiy-zastupilsya-za-devushku-i-poluchil-udar-nozhom-v-sheyu/",
+      "title": "Мастерскую возрастом в десять тысяч лет нашли на востоке России",
+      "link": "https://lenta.ru/news/2026/11/25/masterskuyu-vozrastom-v-10-tysyach-let-nashli-na-vostoke-rossii/",
       "date": "Wed, 25 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/25/16/20261125164511061/pic_ae5163cc19c25bb8df160ea4e606ffb2.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/25/18/20261125185627177/pic_c79844b510c170cfc41d9742248a3448.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Стерлинг получил условный срок за опасное вождение",
-      "link": "https://lenta.ru/news/2026/11/25/sterling-poluchil-uslovnyy-srok-za-opasnoe-vozhdenie/",
+      "title": "Бывший чиновник из Боливии приехал в Сибирь ради исполнения мечты",
+      "link": "https://lenta.ru/news/2026/11/25/byvshiy-chinovnik-iz-bolivii-priehal-v-sibir-radi-ispolneniya-mechty/",
       "date": "Wed, 25 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/25/16/20261125165050208/pic_771f6a41a90dc05df739489693d86260.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/25/18/20261125182148146/pic_0fb50c7c20ac0ff59637de968e23af76.jpg"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "Умерла первая немецкая супермодель",
+      "link": "https://lenta.ru/news/2026/11/25/umerla-pervaya-nemetskaya-supermodel/",
+      "date": "Wed, 25 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/25/18/20261125184423845/pic_2148813fdcd29a295d75e98ebf046512.jpg"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "Польша раскрыла позицию НАТО по сбиванию ракет над Украиной",
+      "link": "https://lenta.ru/news/2026/11/25/polsha-raskryla-pozitsiyu-nato-po-sbivaniyu-raket-nad-ukrainoy/",
+      "date": "Wed, 25 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/25/18/20261125184344774/pic_15c249d555c4887d62ae5a0301b17efe.jpg"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "Стала известна судьба иска к рэперу L'One на 3,5 миллиона",
+      "link": "https://lenta.ru/news/2026/11/25/stala-izvestna-sudba-iska-k-reperu-l-one-na-3-5-milliona/",
+      "date": "Wed, 25 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/25/18/20261125183510311/pic_f6eea59d7458c6b625cc8e0af5798f74.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "\"Иммунитет уже позабыл\". Вирусолог предупредил о возможном возвращении коронавируса",
+      "link": "https://www.amic.ru/news/virusolog-predupredil-o-vozmozhnom-vozvraschenii-koronavirusa-597488",
+      "date": "Wed, 25 Nov 2026",
+      "description": "По его мнению, новая волна заболеваемости COVID-19 может оказаться опаснее предыдущей",
+      "image": "https://www.amic.ru/images/news/news/509070_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "Госдума приняла закон о правилах поступления в вузы для олимпиадников",
+      "link": "https://www.amic.ru/news/gosduma-prinyala-zakon-o-pravilah-postupleniya-v-vuzy-dlya-olimpiadnikov-597489",
+      "date": "Wed, 25 Nov 2026",
+      "description": "Этот проект назвали \"акцентом на справедливость\"",
+      "image": "https://www.amic.ru/images/news/news/555328_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "Яркую \"бобровую\" луну запечатлели над Барнаулом",
+      "link": "https://www.amic.ru/news/zagadochnuyu-bobrovuyu-lunu-zapechatleli-nad-barnaulom-597487",
+      "date": "Wed, 25 Nov 2026",
+      "description": "Сейчас спутник Земли кажется на 15% больше, чем обычно",
+      "image": "https://www.amic.ru/images/news/news/597487_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "\"Удивил, так удивил!\" Фотограф впервые оказалась в Барнауле и восхитилась его красотой",
+      "link": "https://www.amic.ru/news/barnaul-udivil-fotograf-vpervye-okazalas-v-barnaule-i-voshitilas-ego-krasotoy-597485",
+      "date": "Wed, 25 Nov 2026",
+      "description": "Она запечатлела виды города на видео",
+      "image": "https://www.amic.ru/images/news/news/444409_size2.jpg"
     },
     {
       "region": "Барнаул",
@@ -506,42 +542,6 @@
       "date": "Wed, 25 Nov 2026",
       "description": "По мнению одного из депутатов, это могло бы привлечь еще 27 млрд рублей в федеральный бюджет",
       "image": "https://www.amic.ru/images/news/news/537934_size2.jpg"
-    },
-    {
-      "region": "Барнаул",
-      "source": "Амител",
-      "title": "Жители Алтайского края накопили на счетах 482 млрд рублей",
-      "link": "https://www.amic.ru/news/zhiteli-altayskogo-kraya-nakopili-na-schetah-482-mlrd-rubley-597483",
-      "date": "Wed, 25 Nov 2026",
-      "description": "С октября прошлого года объем средств граждан вырос на 10,8%",
-      "image": "https://www.amic.ru/images/news/news/555232_size2.jpg"
-    },
-    {
-      "region": "Барнаул",
-      "source": "Амител",
-      "title": "В Новосибирске ищут новую семью для 11-летней девочки с редким диагнозом",
-      "link": "https://www.amic.ru/news/v-novosibirske-ischut-novuyu-semyu-dlya-11-letney-devochki-s-redkim-diagnozom-597479",
-      "date": "Wed, 25 Nov 2026",
-      "description": "Отца и мать школьницы лишили родительских прав",
-      "image": "https://www.amic.ru/images/news/news/597479_size2.jpg"
-    },
-    {
-      "region": "Барнаул",
-      "source": "Амител",
-      "title": "Врач из России спасла пострадавшего в ДТП во время отпуска в Китае",
-      "link": "https://www.amic.ru/news/vrach-iz-rossii-spasla-postradavshego-v-dtp-vo-vremya-otpuska-v-kitae-597475",
-      "date": "Wed, 25 Nov 2026",
-      "description": "Специалист привела в чувства мужчину, который был в состоянии шока после аварии",
-      "image": "https://www.amic.ru/images/news/news/597475_size2.jpg"
-    },
-    {
-      "region": "Барнаул",
-      "source": "Амител",
-      "title": "Роскачество дало инструкцию по выбору рыбной тушки с икрой",
-      "link": "https://www.amic.ru/news/roskachestvo-dalo-instrukciyu-po-vyboru-rybnoy-tushki-s-ikroy-597471",
-      "date": "Wed, 25 Nov 2026",
-      "description": "Перед нерестом брюшко самки форели обычно становится более полным и округлым",
-      "image": "https://www.amic.ru/images/news/news/597471_size2.jpg"
     }
   ]
 }
