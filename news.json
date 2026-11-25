@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25 07:01",
+  "updated": "2026-11-25 09:01",
   "categories": [
     "Мир",
     "Европа",
@@ -15,55 +15,55 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Трамп допустил, что США могут получить долю в Nvidia",
-      "link": "https://tass.ru/ekonomika/28351413",
+      "title": "Metrópoles заявил, что в Бразилии выявили более 30 ОПГ",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/28351557",
       "date": "Wed, 25 Nov 2026",
-      "description": "Американский лидер заявил, что \"пока не поднимал эту тему\"",
+      "description": "По информации портала, всего в республике насчитывается 75 региональных ячеек этих группировок",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Минцифры обязало регионы собрать данные о провайдерах в многоквартирных домах",
-      "link": "https://tass.ru/obschestvo/28351411",
+      "title": "В горах Чукотки обнаружили новый для науки вид бабочек",
+      "link": "https://tass.ru/nauka/28351555",
       "date": "Wed, 25 Nov 2026",
-      "description": "Сведения о них необходимо внести в государственную информационную систему ЖКХ, следует из письма министерства",
+      "description": "Он получил название медведица Куберской",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Эксперт Лебединская рассказала, как купить сладкий новогодний подарок дешевле",
-      "link": "https://tass.ru/obschestvo/28351407",
+      "title": "Трамп заявил, что встретится с Ким Чен Ыном, когда \"придет время\"",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/28351553",
       "date": "Wed, 25 Nov 2026",
-      "description": "Чтобы снизить его стоимость почти на 50%, можно собрать его самостоятельно, проконтролировав при этом качество и свежесть конфет, ",
+      "description": "Президент США уверен, что \"очень хорошо ладит\" с лидером КНДР",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Трамп допустил помилование Хуанга в случае необходимости",
-      "link": "https://tass.ru/mezhdunarodnaya-panorama/28351409",
+      "title": "В ГД предложили разрешить оформлять налоговый вычет на лечение бабушек и дедушек",
+      "link": "https://tass.ru/obschestvo/28351551",
       "date": "Wed, 25 Nov 2026",
-      "description": "В то же время президент США считает, что это не потребуется",
+      "description": "Изменения предлагается внести в статью 219 части второй Налогового кодекса",
+      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261125/9594687.jpg"
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "В \"Ахмате\" сообщили, что украинцы сдают ВС РФ координаты ВСУ",
+      "link": "https://tass.ru/armiya-i-opk/28351509",
+      "date": "Wed, 25 Nov 2026",
+      "description": "Начальник разведки спецназа с позывным Аид отметил, что граждане Украины уже устали от своей власти",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "На Камчатке завели дело против жителя Вилючинска за призывы к экстремизму",
-      "link": "https://tass.ru/proisshestviya/28351405",
+      "title": "На Чукотке рекомендовали не покидать населенные пункты из-за сильного ветра",
+      "link": "https://tass.ru/obschestvo/28351549",
       "date": "Wed, 25 Nov 2026",
-      "description": "По данным следствия, фигурант разместил материалы в группах в социальной сети",
-      "image": ""
-    },
-    {
-      "region": "Мир",
-      "source": "ТАСС",
-      "title": "Эксперт Балынин объяснил, будет ли 30 декабря сокращенным рабочим днем",
-      "link": "https://tass.ru/obschestvo/28351401",
-      "date": "Wed, 25 Nov 2026",
-      "description": "Доцент Финансового университета при правительстве сообщил, что его не будут сокращать на час, так как 31 декабря не является празд",
+      "description": "В регионе прогнозируют порывы ветра до 34 м/с",
       "image": ""
     },
     {
@@ -98,7 +98,7 @@
       "source": "BBC World",
       "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
       "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 24 Nov 2026",
+      "date": "Wed, 25 Nov 2026",
       "description": "The verdict follows a months-long trial in New York.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
     },
@@ -125,8 +125,17 @@
       "source": "DW Европа",
       "title": "DW",
       "link": "https://www.dw.com/russian/?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-24T22:26",
+      "date": "2026-11-24T23:53",
       "description": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "image": ""
+    },
+    {
+      "region": "Европа",
+      "source": "DW Европа",
+      "title": "ЕК намерена оштрафовать Болгарию из-за проблем страны с бюджетом",
+      "link": "https://www.dw.com/ru/ек-намерена-оштрафовать-болгарию-из-за-проблем-страны-с-бюджетом/a-80042013?maca=rus-rss-ru-eu-4384-rdf",
+      "date": "2026-11-24T22:26",
+      "description": "Правила Евросоюза допускают дефицит бюджета стран - членов не выше 3%. У Болгарии, по расчетам ЕК, он составит в текущем году 5%. ",
       "image": ""
     },
     {
@@ -163,15 +172,6 @@
       "link": "https://www.dw.com/ru/атака-всу-на-судно-в-финском-заливе-осло-призвал-киев-соблюдать-международное-право/a-80041501?maca=rus-rss-ru-eu-4384-rdf",
       "date": "2026-11-24T18:20",
       "description": "Киев должен \"уважать нашу потребность в стабильности в приграничных районах\", заявил министр обороны Норвегии, говоря об атаке БПЛ",
-      "image": ""
-    },
-    {
-      "region": "Европа",
-      "source": "DW Европа",
-      "title": "Сын Кадырова сменил фамилию и получил гражданство Сербии",
-      "link": "https://www.dw.com/ru/сын-кадырова-сменил-фамилию-и-получил-гражданство-сербии/a-80040990?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-24T17:05",
-      "description": "Сын Рамзана Кадырова - 19-летний Али - сменил фамилию на Мусаев и получил гражданство Сербии, пишут ФБК и \"Агентство. Новости\". По",
       "image": ""
     },
     {
@@ -231,55 +231,55 @@
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "‘Sudden chill amid a boom’: How US chip curbs may cloud Malaysia’s data centre ambitions",
-      "link": "https://www.straitstimes.com/asia/se-asia/sudden-chill-amid-a-boom-how-us-chip-curbs-may-cloud-malaysias-data-centre-ambitions",
+      "title": "Thailand asks China to help halt Myanmar mines over toxic rivers",
+      "link": "https://www.straitstimes.com/asia/se-asia/thailand-asks-china-to-help-halt-myanmar-mines-over-toxic-rivers",
       "date": "Wed, 25 Nov 2026",
-      "description": "Malaysia is betting big on data centres. Will the US chip curbs stall their ambitions?",
+      "description": "The request came during talks on Nov 24 involving Thailand, China and Myanmar, according to Thai officials.",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Jensen Huang is back, but it won’t be business as usual for Taiwan’s tech industry",
-      "link": "https://www.straitstimes.com/asia/east-asia/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry",
-      "date": "Tue, 24 Nov 2026",
-      "description": "The stock market jumped for joy, unfazed by risks of an investigation into Nvidia’s supply chain.",
+      "title": "China Southern orders 50 jets in Boeing’s biggest China deal in nearly a decade",
+      "link": "https://www.straitstimes.com/asia/east-asia/china-southern-orders-50-jets-in-boeings-biggest-china-deal-in-nearly-a-decade",
+      "date": "Wed, 25 Nov 2026",
+      "description": "Boeing and Airbus forecast China will need about 9,000 new jets by 2045, more than any other region.",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "China probes Shanghai party boss Chen Jining, marking fourth Politburo member to fall since 2025",
-      "link": "https://www.straitstimes.com/asia/china-probes-shanghai-party-boss-politburos-chen-jining",
-      "date": "Tue, 24 Nov 2026",
-      "description": "BEIJING, Nov 24 - Shanghai's party chief Chen Jining, a member of China's elite Politburo, is under investigation, the state-run X",
+      "title": "Australia apologises to LGBTQ veterans for past discrimination in the military",
+      "link": "https://www.straitstimes.com/asia/australia-apologises-to-lgbtq-veterans-for-past-discrimination-in-the-military",
+      "date": "Wed, 25 Nov 2026",
+      "description": "SYDNEY, Nov 25 - The Australian government issued a formal apology on Wednesday to current and former LGBTQ service members for ha",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "China investigates Politburo member Chen Jining, state media reports",
-      "link": "https://www.straitstimes.com/asia/east-asia/china-investigates-politburo-member-chen-jining-state-media-reports",
-      "date": "Tue, 24 Nov 2026",
-      "description": "Chen is being investigated for “suspected severe violations of discipline and laws”, Xinhua said.",
+      "title": "In landmine-ravaged Myanmar, a rebel with an artificial leg vows to fight on",
+      "link": "https://www.straitstimes.com/asia/in-landmine-ravaged-myanmar-a-rebel-with-an-artificial-leg-vows-to-fight-on",
+      "date": "Wed, 25 Nov 2026",
+      "description": "Nov 25 - Late one January night, platoon commander Pee Litt led a group of Myanmar resistance fighters into a village in the count",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Bangladesh garment workers clash with police as pay protests shut factories",
-      "link": "https://www.straitstimes.com/asia/south-asia/bangladesh-garment-workers-clash-with-police-as-pay-protests-shut-factories",
-      "date": "Tue, 24 Nov 2026",
-      "description": "Workers are demanding that the minimum monthly wage more than double to $312.",
+      "title": "China’s Shenzhou-24 space flight takes off with Pakistani national as first foreign astronaut",
+      "link": "https://www.straitstimes.com/asia/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut",
+      "date": "Wed, 25 Nov 2026",
+      "description": "The spacecraft took off at 8.18am from the Jiuquan Satellite Launch Centre in northwest China.",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Ex-Philippine president Rodrigo Duterte’s team objects to scope of closed-door ICC trial",
-      "link": "https://www.straitstimes.com/asia/se-asia/ex-philippine-president-rodrigo-dutertes-team-objects-to-scope-of-closed-door-icc-trial",
-      "date": "Tue, 24 Nov 2026",
-      "description": "The prosecution has asked for 22 of its 69 witnesses to give evidence entirely in closed session.",
+      "title": "Shanghai party pledges loyalty to Beijing as top official faces investigation",
+      "link": "https://www.straitstimes.com/asia/east-asia/shanghai-party-pledges-loyalty-to-beijing-as-top-official-faces-investigation",
+      "date": "Wed, 25 Nov 2026",
+      "description": "Chen Jining is the fourth member of the top leadership body to be probed since 2025.",
       "image": ""
     },
     {
@@ -438,110 +438,110 @@
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "«Страна должна развиваться». Госдума приняла бюджет на 2027-2029 годы, несмотря на 35 тысяч санкций",
-      "link": "https://lenta.ru/news/2026/11/25/long-strana-dolzhna-razvivatsya-gosduma-prinyala-byudzhet-na-2027-2029-gody-nesmotrya-na-35-tysyach-sanktsiy/",
+      "title": "Ракетную опасность объявляли сразу в пяти российских регионах",
+      "link": "https://lenta.ru/news/2026/11/25/raketnuyu-opasnost-ob-yavlyali-srazu-v-pyati-rossiyskih-regionah/",
       "date": "Wed, 25 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/25/02/20261125025451907/pic_54b6394619a47906a83cc0b72dd1eb03.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/25/04/20261125044809104/pic_aa7b8f47560204eb7a5ac8928c77b05c.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Украина подписала с одной страной соглашение о производстве ударных БПЛА",
-      "link": "https://lenta.ru/news/2026/11/25/ukr/",
+      "title": "Раскрыта скрытая опасность одной из форм диабета",
+      "link": "https://lenta.ru/news/2026/11/25/raskryta-skrytaya-opasnost-odnoy-iz-form-diabeta/",
       "date": "Wed, 25 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/25/02/20261125024333750/pic_a879dc4cb57fb0018ccace1082279df3.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/24/14/20261124142514696/pic_4ce6d8d4c5edc043035245e4fe743866.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Российские штурмовики уничтожили группу переодетых диверсантов",
-      "link": "https://lenta.ru/news/2026/11/25/rossiyskie-shturmoviki-unichtozhili-gruppu-pereodetyh-diversantov/",
+      "title": "Названы три самых проблемных для ВСУ участка в Харьковской области",
+      "link": "https://lenta.ru/news/2026/11/25/nazvany-tri-samyh-problemnyh-dlya-vsu-uchastka-v-harkovskoy-oblasti/",
       "date": "Wed, 25 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/25/02/20261125023220526/pic_6b0ff32c4f4f2cf9e6b11814c74097bf.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/25/04/20261125042116734/pic_a7f36d0921eca12974521da70589a1e0.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Живущая в США российская блогерша раскрыла цену на винегрет в русском кафе",
-      "link": "https://lenta.ru/news/2026/11/25/zhivuschaya-v-ssha-rossiyskaya-blogersha-raskryla-tsenu-na-vinegret-v-russkom-kafe/",
+      "title": "В Финляндии раскритиковали ограничения против российских спортсменов",
+      "link": "https://lenta.ru/news/2026/11/25/v-finlyandii-raskritikovali-ogranicheniya-protiv-rossiyskih-sportsmenov/",
       "date": "Wed, 25 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/24/11/20261124111720060/pic_f3acb8bfca3293060802c14019d8cba0.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/25/04/20261125041643301/pic_34f3d2db7ea56b0a5e843b62bea44d38.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Финляндию упрекнули в проведении политики против русскоговорящих",
-      "link": "https://lenta.ru/news/2026/11/25/finlyandiyu-upreknuli-v-provedenii-politiki-protiv-russkogovoryaschih/",
+      "title": "Анна Седокова вышла в свет в прозрачном платье",
+      "link": "https://lenta.ru/news/2026/11/25/anna-sedokova-vyshla-v-svet-v-prozrachnom-platie/",
       "date": "Wed, 25 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/25/02/20261125023032076/pic_831c05b1a1ca8282801d4739431bda26.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/24/11/20261124114309483/pic_d31f7826b89e7d812373e298b42c90cd.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Фадеев рассказал о встрече Путина с новым составом СПЧ",
-      "link": "https://lenta.ru/news/2026/11/25/fadeev-rasskazal-o-vstreche-putina-s-novym-sostavom-spch/",
+      "title": "Украинская журналистка рассказала об угрозах от офиса Зеленского",
+      "link": "https://lenta.ru/news/2026/11/25/ukrainskaya-zhurnalistka-rasskazala-ob-ugrozah-ot-ofisa-zelenskogo/",
       "date": "Wed, 25 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/25/02/20261125021721016/pic_c052366fe1cc6c131f4385067c52616d.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/25/04/20261125041252401/pic_354df993dd11905b348f568baa3f5201.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Ледяные блинчики на воде. Осенний ледоход заметили у Нового моста в Барнауле",
-      "link": "https://www.amic.ru/news/ledyanye-blinchiki-na-vode-osenniy-ledohod-snyali-u-novogo-mosta-v-barnaule-597351",
+      "title": "Здание бывшего костела в центре Барнаула начнут восстанавливать не ранее 2027 года",
+      "link": "https://www.amic.ru/news/zdanie-byvshego-kostela-v-centre-barnaula-nachnut-vosstanavlivat-ne-ranshe-2027-goda-597378",
       "date": "Wed, 25 Nov 2026",
-      "description": "Пока зима не спешит в столицу края, на реке в районе Нового моста можно увидеть необычное природное явление",
-      "image": "https://www.amic.ru/images/news/news/597351_size2.jpg"
+      "description": "Подрядчик пересматривает проектно-сметную документацию памятника архитектуры на проспекте Ленина, 44",
+      "image": "https://www.amic.ru/images/news/news/597378_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "ГЭС на Катуни, свет и связь. С чем жители Алтая идут на прямую линию Турчака",
-      "link": "https://www.amic.ru/news/ges-na-katuni-svet-i-svyaz-s-chem-zhiteli-altaya-idut-na-pryamuyu-liniyu-turchaka-597399",
+      "title": "Фото из офиса может стать причиной утечки данных при загрузке в нейросеть",
+      "link": "https://www.amic.ru/news/foto-iz-ofisa-mozhet-stat-prichinoy-utechki-dannyh-pri-zagruzke-v-neyroset-597404",
       "date": "Wed, 25 Nov 2026",
-      "description": "Обращения граждан приводят к конкретным изменениям. Однако есть и ситуации, в которых люди говорят о многолетнем ожидании в решени",
-      "image": "https://www.amic.ru/images/news/news/597399_size2.jpg"
+      "description": "Опасность представляют не только документы, которые пользователи намеренно загружают в искусственный интеллект, но и случайно попа",
+      "image": "https://www.amic.ru/images/news/news/580067_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Нужен полный порядок. Астрологический прогноз для каждого знака зодиака на 25 ноября",
-      "link": "https://www.amic.ru/news/nuzhen-polnyy-poryadok-astrologicheskiy-prognoz-dlya-kazhdogo-znaka-zodiaka-na-25-noyabrya-597331",
+      "title": "\"Своих не бросаем\". Комитет семей воинов Отечества Алтайского края отметил четырехлетие",
+      "link": "https://www.amic.ru/news/svoih-ne-brosaem-komitet-semey-voinov-otechestva-altayskogo-kraya-otmetil-chetyrehletie-597256",
       "date": "Wed, 25 Nov 2026",
-      "description": "Важно упорядочить не только дела, но и свои мысли",
-      "image": "https://www.amic.ru/images/news/news/597331_size2.jpg"
+      "description": "В регионе организация под руководством Кристины Юстус работает как \"скорая помощь\" для семей бойцов, оказывая юридическую, социаль",
+      "image": "https://www.amic.ru/images/news/news/597256_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "\"Руками, но с головой\". Как работают алтайские хирурги и в чем они лидеры в Сибири",
-      "link": "https://www.amic.ru/news/rukami-no-s-golovoy-kak-rabotayut-altayskie-hirurgi-i-v-chem-oni-lidery-v-sibiri-597385",
+      "title": "Дисциплина и выдержка. Помогут ли жилищные вклады накопить на покупку недвижимости",
+      "link": "https://www.amic.ru/news/disciplina-i-vyderzhka-pomogut-li-zhilischnye-vklady-nakopit-na-pokupku-nedvizhimosti-597322",
       "date": "Wed, 25 Nov 2026",
-      "description": "Самых сложных пациентов везут в Барнаул, но все больше высокотехнологичных операций проводят и в районах",
-      "image": "https://www.amic.ru/images/news/news/597385_size2.jpg"
+      "description": "Новый продукт в банковской линейке появится со следующего года",
+      "image": "https://www.amic.ru/images/news/news/554355_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Мокрый снег с дождем. Какую погоду ждать в Алтайском крае 25 ноября",
-      "link": "https://www.amic.ru/news/mokryy-sneg-s-dozhdem-kakuyu-pogodu-zhdat-v-altayskom-krae-25-noyabrya-597400",
+      "title": "Имена бывших и ошибки молодости. Почему жители Барнаула сводят татуировки",
+      "link": "https://www.amic.ru/news/imena-byvshih-i-oshibki-molodosti-pochemu-zhiteli-barnaula-svodyat-tatuirovki-597288",
       "date": "Wed, 25 Nov 2026",
-      "description": "Возможны гололедные явления",
-      "image": "https://www.amic.ru/images/news/news/555294_size2.jpg"
+      "description": "Мастера тату рассказали amic.ru, какие рисунки чаще всего удаляют барнаульцы, сколько стоит процедура и какие татуировки сейчас в ",
+      "image": "https://www.amic.ru/images/news/news/597288_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Такой день. Взрыв газа в пятиэтажке Кулунды и закон о новом размере МРОТ",
-      "link": "https://www.amic.ru/news/takoy-den-vzryv-gaza-v-pyatietazhke-kulundy-i-zakon-o-novom-razmere-mrot-597398",
-      "date": "Tue, 24 Nov 2026",
-      "description": "О главных событиях России и Алтайского края за 24 ноября",
-      "image": "https://www.amic.ru/images/news/news/597398_size2.jpg"
+      "title": "Изношенные шины стали причиной смертельной аварии с двумя погибшими на Алтае",
+      "link": "https://www.amic.ru/news/iznoshennye-shiny-stali-prichinoy-smertelnoy-avarii-s-dvumya-pogibshimi-na-altae-597403",
+      "date": "Wed, 25 Nov 2026",
+      "description": "В региональной ГАИ подчеркнули, что использование изношенной резины особенно опасно в зимних дорожных условиях",
+      "image": "https://www.amic.ru/images/news/news/569077_size2.jpg"
     }
   ]
 }
