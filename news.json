@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26 01:01",
+  "updated": "2026-11-26 03:01",
   "categories": [
     "Мир",
     "Европа",
@@ -15,83 +15,65 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Рыбаки встретили на Ладожском озере нерпу Крошика",
-      "link": "https://tass.ru/obschestvo/28355319",
+      "title": "Минцифры разработало концепцию российского аналога GitHub",
+      "link": "https://tass.ru/ekonomika/28355563",
       "date": "Wed, 25 Nov 2026",
-      "description": "Во время вечернего выхода в море нерпа подплыла вплотную к борту судна",
+      "description": "Разработчики доверенного ПО должны будут использовать российский кластер репозиториев",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Трамп винит демократов в резком падении индексов на фондовом рынке США",
-      "link": "https://tass.ru/ekonomika/28355375",
+      "title": "Армия Ирака проводит передислокацию на севере",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/28355561",
       "date": "Wed, 25 Nov 2026",
-      "description": "По словам президента, если бы он был в списке кандидатов, результаты были бы другими",
+      "description": "Это необходимо для предотвращения контрабанды нефти, пояснил официальный представитель министерства обороны арабской республики ге",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Гордон Рамзи станет новым ведущим шоу Top Gear",
-      "link": "https://tass.ru/obschestvo/28355373",
+      "title": "Кандидаты на выборах главы Гагаузии отказались от дебатов перед вторым туром",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/28355553",
       "date": "Wed, 25 Nov 2026",
-      "description": "Другие ведущие будут объявлены позднее, сообщила вещательная корпорация Би-би-си",
+      "description": "Представитель Партии социалистов Федор Гагауз заявил, что предвыборные дебаты не помогут решить социальные и экономические проблем",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Индивидуальные планы обучения для бойцов СВО разработают в Вологодском университете",
-      "link": "https://tass.ru/obschestvo/28355371",
+      "title": "В Нью-Джерси объявили режим ЧС из-за шторма",
+      "link": "https://tass.ru/proisshestviya/28355559",
       "date": "Wed, 25 Nov 2026",
-      "description": "Правительство Вологодской области направило с начала спецоперации более 15 млрд рублей на ее поддержку",
+      "description": "Он может обрушиться на северо-восток США 26 ноября, в День благодарения",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Музаев: научно-методический совет Физтеха утверждает каждую демоверсию ЕГЭ",
-      "link": "https://tass.ru/obschestvo/28355369",
+      "title": "Грузия и США обсуждают возможность нового стратегического партнерства",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/28355555",
       "date": "Wed, 25 Nov 2026",
-      "description": "Глава Рособрнадзора отметил вклад вуза в возвращение интереса школьников к естественно-научным предметам",
+      "description": "Отношения Тбилиси с Вашингтоном испортились в 2024 году после принятия в Грузии закона об иностранных агентах",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Власти Смоленской области поддержат Героя России Деменкова в период реабилитации",
-      "link": "https://tass.ru/obschestvo/28355363",
+      "title": "Sun: в доме принца Уильяма украли запонки и часы",
+      "link": "https://tass.ru/proisshestviya/28355551",
       "date": "Wed, 25 Nov 2026",
-      "description": "Глава региона Василий Анохин подчеркнул, что поддержка защитников и их близких остается для областных властей приоритетом",
+      "description": "Как указало издание, злоумышленники оказались нелегальными мигрантами из Албании",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "BBC World",
-      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "title": "US announces new tariffs on host of countries including China",
+      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 25 Nov 2026",
-      "description": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "region": "Мир",
-      "source": "BBC World",
-      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops",
-      "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026",
-      "description": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c61f/live/78592c20-e8c4-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "region": "Мир",
-      "source": "BBC World",
-      "title": "US stocks fall further as fears over AI intensify",
-      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026",
-      "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg"
+      "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "region": "Мир",
@@ -105,28 +87,55 @@
     {
       "region": "Мир",
       "source": "BBC World",
-      "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
-      "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 25 Nov 2026",
-      "description": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughter",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90a4/live/02d1fbb0-e8d5-11f1-99b6-a35a62fa4264.jpg"
+      "description": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91d/live/f0a5ecf0-e8fa-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "region": "Мир",
       "source": "BBC World",
-      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "title": "US stocks fall further as fears over AI intensify",
+      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 25 Nov 2026",
-      "description": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg"
+      "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops",
+      "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 25 Nov 2026",
+      "description": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c61f/live/78592c20-e8c4-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 25 Nov 2026",
+      "description": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promis",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg"
     },
     {
       "region": "Европа",
       "source": "DW Европа",
       "title": "DW",
       "link": "https://www.dw.com/russian/?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-25T17:17",
+      "date": "2026-11-25T18:40",
       "description": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "image": ""
+    },
+    {
+      "region": "Европа",
+      "source": "DW Европа",
+      "title": "Рим выразил недовольство ударами ВСУ по российским кораблям в Ливии",
+      "link": "https://www.dw.com/ru/рим-выразил-недовольство-ударами-всу-по-российским-кораблям-в-ливии/a-80053437?maca=rus-rss-ru-eu-4384-rdf",
+      "date": "2026-11-25T17:17",
+      "description": "По словам главы МИД Италии, Рим считает атаку на российские корабли в ливийских водах ошибкой. Он предупредил Киев от распростране",
       "image": ""
     },
     {
@@ -163,15 +172,6 @@
       "link": "https://www.dw.com/ru/еп-на-переговорах-с-рф-европе-нужен-один-представитель/a-80052219?maca=rus-rss-ru-eu-4384-rdf",
       "date": "2026-11-25T15:35",
       "description": "Россия не готова к переговорам о прекращении войны, считают евродепутаты. Для защиты позиций Украины Европа должна направить на пе",
-      "image": ""
-    },
-    {
-      "region": "Европа",
-      "source": "DW Европа",
-      "title": "Паспорт сыну Кадырова за особые заслуги? Албуров о гражданстве Сербии",
-      "link": "https://www.dw.com/ru/паспорт-сыну-кадырова-за-особые-заслуги-албуров-о-гражданстве-сербии/a-80046574?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-25T12:48",
-      "description": "ФБК опубликовал расследование о получении гражданства Сербии представителями российской элиты, в том числе сыном главы Чечни Кадыр",
       "image": ""
     },
     {
@@ -438,56 +438,56 @@
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Китайская молодежь стала массово зарабатывать на сопровождении пожилых людей на авиарейсах",
-      "link": "https://lenta.ru/news/2026/11/25/kitayskaya-molodezh-stala-massovo-zarabatyvat-na-soprovozhdenii-pozhilyh-lyudey-na-aviareysah/",
+      "title": "В Грузии выступили за продолжение диалога с Россией",
+      "link": "https://lenta.ru/news/2026/11/26/v-gruzii-vystupili-za-prodolzhenie-dialoga-s-rossiey/",
       "date": "Wed, 25 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/25/20/20261125202212745/pic_0f7235723fc4473829bcbdc2d8eec556.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/25/22/20261125225441953/pic_f3d0d626ff341d839999c11a12cbd53c.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "В Норвегии объяснили ситуацию с въездом российских лыжников в страну",
-      "link": "https://lenta.ru/news/2026/11/25/v-norvegii-ob-yasnili-situatsiyu-s-v-ezdom-rossiyskih-lyzhnikov-v-stranu/",
+      "title": "Суд повторно отказал в иске против Гуменника",
+      "link": "https://lenta.ru/news/2026/11/25/sud-povtorno-otkazal-v-iske-protiv-gumennika/",
       "date": "Wed, 25 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/25/20/20261125204840803/pic_f1c3b8850c03d92bc38c3aa35b99dad0.jpg"
+      "image": "https://icdn.lenta.ru/assets/webpack/images/lenta_og.8735b949.png"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "В США нашли причину проигрыша Европы по Украине",
-      "link": "https://lenta.ru/news/2026/11/25/v-ssha-nashli-prichinu-proigrysha-evropy-po-ukraine/",
+      "title": "В Госдуме резко высказались о положении дел в Германии",
+      "link": "https://lenta.ru/news/2026/11/25/v-gosdume-rezko-vyskazalis-o-polozhenii-del-v-germanii/",
       "date": "Wed, 25 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/25/20/20261125205053272/pic_ccd347848da4934a3c2711746805b148.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/25/22/20261125224205493/pic_54b6394619a47906a83cc0b72dd1eb03.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "«Динамо» разгромило «Балтику» и вылетело из Кубка России",
-      "link": "https://lenta.ru/news/2026/11/25/dinamo-razgromilo-baltiku-i-vyletelo-iz-kubka-rossii/",
+      "title": "«Барселона» разгромила впервые вышедший в Лигу чемпионов «Сабах»",
+      "link": "https://lenta.ru/news/2026/11/25/barselona-razgromila-vpervye-vyshedshiy-v-ligu-chempionov-sabah/",
       "date": "Wed, 25 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/25/20/20261125205017233/pic_26ad768317ed55f1d0ac7b2c39a72697.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/25/22/20261125223526984/pic_8379797da8294b517aa6d21e977851a7.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "«Виноват украинский народ». Лукашенко высказался об отношениях с Зеленским, начале СВО и требованиях России на переговорах",
-      "link": "https://lenta.ru/news/2026/11/25/long-vinovat-ukrainskiy-narod-lukashenko-vyskazalsya-ob-otnosheniyah-s-zelenskim-nachale-svo-i-trebovaniyah-rossii-na-peregovorah/",
+      "title": "В США высказались о личности Путина",
+      "link": "https://lenta.ru/news/2026/11/25/v-ssha-vyskazalis-o-lichnosti-putina/",
       "date": "Wed, 25 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/25/20/20261125201151263/pic_971d5dcd48f620e4a18ae0c7917486fb.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/25/22/20261125223058571/pic_82c44f9927668f6cd2b005ae8b7009db.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Лось прогулялся по Москве и попал на видео",
-      "link": "https://lenta.ru/news/2026/11/25/los-progulyalsya-po-moskve-i-popal-na-video/",
+      "title": "В США высказались о личности Путина",
+      "link": "https://lenta.ru/news/2026/11/25/v-ssha-vyskazalis-o-lichnosti-putina/",
       "date": "Wed, 25 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/25/20/20261125202514544/pic_ed64495941add85c193083311fa672d1.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/25/22/20261125223058571/pic_82c44f9927668f6cd2b005ae8b7009db.jpg"
     },
     {
       "region": "Барнаул",
