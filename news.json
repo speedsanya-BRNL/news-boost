@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26 07:01",
+  "updated": "2026-11-26 09:01",
   "categories": [
     "Мир",
     "Европа",
@@ -15,8 +15,17 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Промзона Невинномысска подверглась атаке БПЛА",
-      "link": "https://tass.ru/proisshestviya/28355829",
+      "title": "Росрыболовство не ожидает повышения цен на икру",
+      "link": "https://tass.ru/ekonomika/28355947",
+      "date": "Thu, 26 Nov 2026",
+      "description": "Производство красной икры прирастает за счет аквакультуры, отметил замруководителя госкомпании Василий Соколов",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "\"Автодор\" тестирует технологию прямого обмена данными между дорогой и беспилотными авто",
+      "link": "https://tass.ru/ekonomika/28355941",
       "date": "Thu, 26 Nov 2026",
       "description": "",
       "image": ""
@@ -24,56 +33,47 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Введены дополнительные ограничения работы аэропорта Геленджика",
-      "link": "https://tass.ru/ekonomika/28355827",
+      "title": "Премьер Японии поручила составить допбюджет для компенсации высоких цен на нефть",
+      "link": "https://tass.ru/ekonomika/28355937",
       "date": "Thu, 26 Nov 2026",
-      "description": "",
+      "description": "Главным образом средства выделяются на восстановление дорог и инфраструктуры, пострадавших из-за землетрясения в Кумамото в июле",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Врач Дубровский: наука не успевает за развитием \"супербактерий\"",
-      "link": "https://tass.ru/obschestvo/28355811",
+      "title": "В РФ выяснили, как давление влияет на самый распространенный на Земле минерал",
+      "link": "https://tass.ru/nauka/28355935",
       "date": "Thu, 26 Nov 2026",
-      "description": "",
+      "description": "При воздействии давления размах угловых вариаций плагиоклаза меняется, вещество начинает резко расти, сообщили в НГУ",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Эксперт Витушко: кинотеатры проигрывают онлайн-платформам в борьбе за зрителей",
-      "link": "https://tass.ru/ekonomika/28355809",
+      "title": "В ГД предложили добавить пенсионные баллы родителям с маленькими детьми",
+      "link": "https://tass.ru/obschestvo/28355933",
       "date": "Thu, 26 Nov 2026",
-      "description": "",
-      "image": ""
+      "description": "Председатель \"Справедливой России\" Сергей Миронов считает необходимым добавлять 10 баллов за каждый полный год ухода за ребенком д",
+      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261126/9598015.jpg"
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "На Камчатке из-за непогоды не могут доставить в больницу тело мужчины",
-      "link": "https://tass.ru/obschestvo/28355815",
+      "title": "В ФНПР рассказали, можно ли штрафовать сотрудника за опоздание из-за снегопада",
+      "link": "https://tass.ru/obschestvo/28355927",
       "date": "Thu, 26 Nov 2026",
-      "description": "Он умер в начале ноября",
+      "description": "Это противоречит закону, подчеркнули в Федерации независимых профсоюзов России",
       "image": ""
-    },
-    {
-      "region": "Мир",
-      "source": "ТАСС",
-      "title": "В Госдуме предложили лишать ВНЖ за административные правонарушения",
-      "link": "https://tass.ru/obschestvo/28355821",
-      "date": "Thu, 26 Nov 2026",
-      "description": "Авторы инициативы считают, что отзывать вид на жительство стоит при пяти и более правонарушениях в год",
-      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261126/9597929.jpg"
     },
     {
       "region": "Мир",
       "source": "BBC World",
       "title": "US announces new tariffs on host of countries including China",
       "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026",
+      "date": "Thu, 26 Nov 2026",
       "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9117/live/98cd84e0-e92a-11f1-9929-f96d7c6cbd39.jpg"
     },
     {
       "region": "Мир",
@@ -116,7 +116,7 @@
       "source": "BBC World",
       "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
       "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026",
+      "date": "Thu, 26 Nov 2026",
       "description": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promis",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg"
     },
@@ -231,55 +231,55 @@
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "US tariff proposal raises stakes for India to clinch trade deal",
-      "link": "https://www.straitstimes.com/asia/south-asia/us-tariff-proposal-raises-stakes-for-india-to-clinch-trade-deal",
+      "title": "Malaysia’s next general election likely ‘before or after’ National Day 2027: PM Anwar",
+      "link": "https://www.straitstimes.com/asia/se-asia/malaysias-next-general-election-likely-before-or-after-national-day-2027-pm-anwar",
       "date": "Thu, 26 Nov 2026",
-      "description": "The US plans to impose a 17% tariff on Indian goods.",
+      "description": "PM Anwar also urged Malaysians to check religious claims carefully, including those from political leaders.",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "North Korea’s Kim calls for wider deployment of tactical nuclear weapons",
-      "link": "https://www.straitstimes.com/asia/east-asia/north-koreas-kim-calls-for-wider-deployment-of-tactical-nuclear-weapons",
+      "title": "Volkswagen’s $23,000 self-driving sedan shows how China leads on car tech",
+      "link": "https://www.straitstimes.com/asia/east-asia/volkswagens-23000-self-driving-sedan-shows-how-china-leads-on-car-tech",
       "date": "Thu, 26 Nov 2026",
-      "description": "He also said any attempt to deny North Korea’s nuclear status would be regarded as “an open declaration of war”.",
+      "description": "China is developing vehicles and software faster and more cheaply than their counterparts in Germany.",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Indonesia steps up enforcement on stock ‘fryer’, but analysts say crackdown must go further",
-      "link": "https://www.straitstimes.com/asia/se-asia/indonesia-steps-up-enforcement-on-stock-fryer-but-analysts-say-crackdown-must-go-further",
+      "title": "Australian senator defects to far-right ahead of key state election",
+      "link": "https://www.straitstimes.com/asia/australianz/australian-senator-defects-to-far-right-ahead-of-key-state-election",
       "date": "Thu, 26 Nov 2026",
-      "description": "President Prabowo's backing is needed to tackle top market players, economists say.",
+      "description": "One Nation leader Pauline Hanson said the defection was a “win for Australians\".",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Rohingya refugees in Malaysia seek more time after landmark genocide ruling against Myanmar",
-      "link": "https://www.straitstimes.com/asia/se-asia/rohingya-refugees-in-malaysia-seek-more-time-after-landmark-genocide-ruling-against-myanmar",
+      "title": "Vietnam says it is working with US to complete trade deal as soon as possible",
+      "link": "https://www.straitstimes.com/asia/se-asia/vietnam-says-it-is-working-with-us-to-complete-trade-deal-as-soon-as-possible",
       "date": "Thu, 26 Nov 2026",
-      "description": "Rohingya refugees welcome the ICJ ruling but fear a long wait before they can safely return home.",
+      "description": "The US is Vietnam’s biggest export market, and Washington has its largest trade deficit with Vietnam.",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "32 students injured after traditional house collapses at Thai tourist attraction",
-      "link": "https://www.straitstimes.com/asia/se-asia/32-students-injured-after-traditional-house-collapses-at-thai-tourist-attraction",
-      "date": "Wed, 25 Nov 2026",
-      "description": "Fourteen students were taken to hospital for further treatment.",
+      "title": "Japan’s data-centre boom faces growing revolt from urban residents",
+      "link": "https://www.straitstimes.com/asia/east-asia/japans-data-centre-boom-faces-growing-revolt-from-urban-residents",
+      "date": "Thu, 26 Nov 2026",
+      "description": "Loose regulation and political stability have made Japan a magnet for data centre investment.",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Under-construction building collapses in Pakistan’s Karachi, killing three",
-      "link": "https://www.straitstimes.com/asia/south-asia/under-construction-building-collapses-in-pakistans-karachi-killing-three",
-      "date": "Wed, 25 Nov 2026",
-      "description": "At the scene, he mound of rubble reached several floors high.",
+      "title": "Taiwan says it is confident of keeping previously agreed tariffs with US",
+      "link": "https://www.straitstimes.com/asia/east-asia/taiwan-says-it-is-confident-of-keeping-previously-agreed-tariffs-with-us",
+      "date": "Thu, 26 Nov 2026",
+      "description": "Taiwan's TSMC, the world’s largest contract chipmaker, is investing US$265 billion (S$342 billion) to build new factories in the U",
       "image": ""
     },
     {
@@ -438,110 +438,110 @@
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "В США захотели применить закон времен холодной войны ради главы Nvidia",
-      "link": "https://lenta.ru/news/2026/11/26/v-ssha-zahoteli-primenit-zakon-vremen-holodnoy-voyny-radi-glavy-nvidia/",
+      "title": "В МИД раскрыли отношение ВСУ к пытающимся выйти к России мирным украинцам",
+      "link": "https://lenta.ru/news/2026/11/26/v-mid-raskryli-otnoshenie-vsu-k-pytayuschimsya-vyyti-k-rossii-mirnym-ukraintsam/",
       "date": "Thu, 26 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/26/02/20261126025846541/pic_2bcc7bf6cff3fd00ba642fdf29a7f22b.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/26/04/20261126045004250/pic_8a1818cafa920f5828004206927b5d98.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "ПСЖ прервал серию из четырех побед ничьей с «Ромой»",
-      "link": "https://lenta.ru/news/2026/11/26/pszh-prerval-seriyu-iz-chetyreh-pobed-nichiey-s-romoy/",
+      "title": "Успехи СНГ назвали костью в горле Запада",
+      "link": "https://lenta.ru/news/2026/11/26/uspehi-sng-nazvali-kostyu-v-gorle-zapada/",
       "date": "Thu, 26 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/26/02/20261126025514964/pic_44ce18515903a3957e409852473676c0.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/26/04/20261126043511469/pic_c5aebbb39d9c25f22808cd777e0ccf39.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "В МИД России ответили на вопрос о фейках Великобритании известной фразой",
-      "link": "https://lenta.ru/news/2026/11/26/v-mid-rossii-otvetili-na-vopros-o-feykah-velikobritanii-izvestnoy-frazoy/",
+      "title": "Яркая сине-зеленая вспышка озарила небо над российским регионом",
+      "link": "https://lenta.ru/news/2026/11/26/yarkaya-sine-zelenaya-vspyshka-ozarila-nebo-nad-rossiyskim-regionom/",
       "date": "Thu, 26 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/26/02/20261126025455048/pic_bdecb62e08ad79cc2f1c4754de88f4e1.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/26/04/20261126043040929/pic_1849f203c099d5f2a7ccfac62bd1b188.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "На Украине оценили решение Евросоюза по квотам на импорт",
-      "link": "https://lenta.ru/news/2026/11/26/na-ukraine-otsenili-reshenie-evrosoyuza-po-kvotam-na-import/",
+      "title": "Россиян предупредили о мошенниках под видом коллекторов",
+      "link": "https://lenta.ru/news/2026/11/26/rossiyan-predupredili-o-moshennikah-pod-vidom-kollektorov/",
       "date": "Thu, 26 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/26/02/20261126025358665/pic_77096d51fc4ea2fb9a40fe2904fde3e3.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/26/04/20261126043106301/pic_85ae512dc456f9dd82b18af8df3f265c.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "«Гроссмейстер политики и историческая личность». Что сказал Кушнер о Путине, отношениях с Россией и конфликте на Украине?",
-      "link": "https://lenta.ru/news/2026/11/26/long-grossmeyster-politiki-i-istoricheskaya-lichnost-chto-skazal-kushner-o-putine-otnosheniyah-s-rossiey-i-konflikte-na-ukraine/",
+      "title": "Сотни военных ВСУ попали в сводки полиции Украины из-за наркотиков",
+      "link": "https://lenta.ru/news/2026/11/26/sotni-voennyh-vsu-popali-v-svodki-politsii-ukrainy-iz-za-narkotikov/",
       "date": "Thu, 26 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/26/01/20261126015305511/pic_734cf573ff4795808ae69d634c836c64.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/26/04/20261126040753001/pic_a7ea3382237c53ff446f6b2266efce9c.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Силовики раскрыли назначение уничтоженного в гостинице Изюма цеха ВСУ",
-      "link": "https://lenta.ru/news/2026/11/26/siloviki-raskryli-naznachenie-unichtozhennogo-v-gostinitse-izyuma-tseha-vsu/",
+      "title": "В России допустили скорые визиты делегаций из Афганистана",
+      "link": "https://lenta.ru/news/2026/11/26/v-rossii-dopustili-skorye-vizity-delegatsiy-iz-afganistana/",
       "date": "Thu, 26 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/26/02/20261126023800403/pic_dd4a7f90cd36a945ebe4bb5dfe8128b6.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/26/04/20261126040320882/pic_146b26b1565e51e44d41a23d6235434a.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "\"Поддержку делаем адресной\". Какие льготы положены участникам СВО и их семьям на Алтае",
-      "link": "https://www.amic.ru/news/podderzhku-delaem-adresnoy-kakie-lgoty-polozheny-uchastnikam-svo-i-ih-semyam-na-altae-597131",
+      "title": "Удар возможен. Эксперт оценил заявление МИД РФ о развязывании Эстонией военного конфликта",
+      "link": "https://www.amic.ru/news/udar-budet-ekspert-ocenil-zayavlenie-mid-rf-o-razvyazyvanii-estoniey-voennogo-konflikta-597511",
       "date": "Thu, 26 Nov 2026",
-      "description": "В регионе действуют более 80 мер госпомощи — от денежных выплат до трудоустройства и реабилитации",
-      "image": "https://www.amic.ru/images/news/news/597131_size2.jpg"
+      "description": "Решение об ответе на провокации Таллина российское военное и политическое руководство примет после анализа полной картины происход",
+      "image": "https://www.amic.ru/images/news/news/556885_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Терапевт назвала еду, которая поможет отказаться от курения",
-      "link": "https://www.amic.ru/news/terapevt-nazvala-edu-kotoraya-pomozhet-otkazatsya-ot-kureniya-597492",
+      "title": "Несовершеннолетний житель Барнаула получил восемь лет колонии за диверсию и госизмену",
+      "link": "https://www.amic.ru/news/nesovershennoletniy-zhitel-barnaula-poluchil-vosem-let-kolonii-za-diversiyu-i-gosizmenu-597497",
       "date": "Thu, 26 Nov 2026",
-      "description": "Эксперт посоветовала включить в рацион сардины",
-      "image": "https://www.amic.ru/images/news/news/562350_size2.jpg"
+      "description": "В результате повреждения оборудования был нарушен график движения поездов",
+      "image": "https://www.amic.ru/images/news/news/544706_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Когда Рождественский пост в 2026 году и зачем он нужен?",
-      "link": "https://www.amic.ru/news/kogda-rozhdestvenskiy-post-v-2019-godu-i-zachem-on-nuzhen-450888",
+      "title": "В России продлили запрет на вылов воблы до конца 2027 года",
+      "link": "https://www.amic.ru/news/v-rossii-prodlili-zapret-na-vylov-vobly-do-konca-2027-goda-597493",
       "date": "Thu, 26 Nov 2026",
-      "description": "Человек должен очиститься духовно и телесно, чтобы подготовиться к главному христианскому празднику – Рождеству Христову",
-      "image": "https://www.amic.ru/images/news/news/450888_size2.jpg"
+      "description": "Он продолжит действовать в Каспийском море, Волге и не только",
+      "image": "https://www.amic.ru/images/news/news/451483_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Пора стать решительнее. Астрологический прогноз для каждого знака зодиака на 26 ноября",
-      "link": "https://www.amic.ru/news/pora-stat-reshitelnee-astrologicheskiy-prognoz-dlya-kazhdogo-znaka-zodiaka-na-26-noyabrya-597467",
+      "title": "Повышение и успешные проекты. Астролог рассказала, кого ждет карьерный рост в 2027 году",
+      "link": "https://www.amic.ru/news/povyshenie-i-uspeshnye-proekty-astrolog-rasskazala-kogo-zhdet-karernyy-rost-v-2027-godu-597296",
       "date": "Thu, 26 Nov 2026",
-      "description": "Ваша смелость позволит вам сдвинуть любое дело с мертвой точки",
-      "image": "https://www.amic.ru/images/news/news/597467_size2.jpg"
+      "description": "Барнаульский эзотерик Анастасия Табашникова сообщила amic.ru, кому звезды обещают руководящую должность, новую работу и профессион",
+      "image": "https://www.amic.ru/images/news/news/597296_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Гололедица и туман. Какую погоду ждать в Алтайском крае 26 ноября",
-      "link": "https://www.amic.ru/news/gololedica-i-tuman-kakuyu-pogodu-zhdat-v-altayskom-krae-26-noyabrya-597491",
+      "title": "Суд отправил под стражу предполагаемого похитителя женщины в Алтайском крае",
+      "link": "https://www.amic.ru/news/sud-otpravil-pod-strazhu-predpolagaemogo-pohititelya-zhenschiny-v-altayskom-krae-597496",
       "date": "Thu, 26 Nov 2026",
-      "description": "Порывы ветра усилятся до 15–20 м/с",
-      "image": "https://www.amic.ru/images/news/news/596193_size2.jpg"
+      "description": "При этом прокурорская проверка обстоятельств произошедшего продолжается",
+      "image": "https://www.amic.ru/images/news/news/526543_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Такой день. Найденное под завалами тело после взрыва в Кулунде и бюджет Алтая на 2027 год",
-      "link": "https://www.amic.ru/news/takoy-den-naydennoe-pod-zavalami-telo-posle-vzryva-v-kulunde-i-byudzhet-altaya-na-2027-god-597490",
-      "date": "Wed, 25 Nov 2026",
-      "description": "О главных событиях России и Алтайского края за 25 ноября",
-      "image": "https://www.amic.ru/images/news/news/597490_size2.jpg"
+      "title": "В стандарт медицинской помощи при ВИЧ внесли консультацию нового специалиста",
+      "link": "https://www.amic.ru/news/v-standart-medicinskoy-pomoschi-pri-vich-vnesli-konsultaciyu-novogo-specialista-597495",
+      "date": "Thu, 26 Nov 2026",
+      "description": "Консультация этого специалиста предусмотрена документом наряду с другими медицинскими услугами",
+      "image": "https://www.amic.ru/images/news/news/575108_size2.jpg"
     }
   ]
 }
