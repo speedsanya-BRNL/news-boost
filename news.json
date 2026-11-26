@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26 13:01",
+  "updated": "2026-11-26 15:01",
   "categories": [
     "Мир",
     "Европа",
@@ -15,55 +15,55 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "На трассах Свердловской области ограничат движение из-за сильного снегопада",
-      "link": "https://tass.ru/obschestvo/28356473",
+      "title": "Названа средняя цена поездки на выходные в малые города Центральной России",
+      "link": "https://tass.ru/ekonomika/28356963",
       "date": "Thu, 26 Nov 2026",
-      "description": "Сотрудников Госавтоинспекции перевели на усиленный режим несения службы",
+      "description": "Стоимость такого путешествия на двоих составляет около 14 тыс. рублей, говорится в исследовании ВТБ и технологической компании Pla",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "В Алтайском крае на месте взрыва газа из-под завалов извлекли тела двух человек",
-      "link": "https://tass.ru/proisshestviya/28356489",
+      "title": "Ученый: Байкал остается чистым, несмотря на токсины",
+      "link": "https://tass.ru/nauka/28356923",
       "date": "Thu, 26 Nov 2026",
-      "description": "",
+      "description": "Низкая температура воды и большое количество кислорода препятствуют загрязнению, сообщил Евгений Кислов",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "В Запорожской области при атаке ВСУ на автостоянку погибли пять человек",
-      "link": "https://tass.ru/proisshestviya/28356485",
+      "title": "В ДНР при атаке ВСУ на ж/д станцию пострадали три человека",
+      "link": "https://tass.ru/proisshestviya/28356969",
       "date": "Thu, 26 Nov 2026",
-      "description": "Еще трое пострадали",
+      "description": "Среди них двое детей",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "ВС РФ сбили дроны \"Рубака\" и Hornet над трассой \"Новороссия\"",
-      "link": "https://tass.ru/armiya-i-opk/28356477",
+      "title": "У берегов Ибицы затонул танкер",
+      "link": "https://tass.ru/proisshestviya/28356967",
       "date": "Thu, 26 Nov 2026",
-      "description": "Бойцы расчетов отдельной бригады войск беспилотных систем \"Варяг\" также уничтожили многофункциональный БПЛА \"Довбуш\", дальнобойные",
+      "description": "Один член экипажа погиб",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Над регионами РФ сбили 343 БПЛА",
-      "link": "https://tass.ru/armiya-i-opk/28356481",
+      "title": "Экс-сотрудника Ространснадзора приговорили к 5 годам за взятку в 4 млн рублей",
+      "link": "https://tass.ru/obschestvo/28356959",
       "date": "Thu, 26 Nov 2026",
-      "description": "",
-      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261126/9598231.jpg"
+      "description": "В январе бывший начальник управления цифровизации, информатизации, развития и аналитики службы получил от директора частной органи",
+      "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Драма в Лиссабоне. Спорное судейство лишило \"Манчестер Юнайтед\" победы в ЛЧ",
-      "link": "https://tass.ru/sport/28356445",
+      "title": "При атаке БПЛА поврежден крупнейший вуз Северного Кавказа",
+      "link": "https://tass.ru/proisshestviya/28356927",
       "date": "Thu, 26 Nov 2026",
-      "description": "Футболисты португальского \"Спортинга\" и английского \"Манчестер Юнайтед\" сыграли вничью со счетом 2:2 в матче пятого тура общего эт",
+      "description": "Никто не пострадал",
       "image": ""
     },
     {
@@ -91,7 +91,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 25 Nov 2026",
       "description": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/299a/live/007f6470-e96a-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "region": "Мир",
@@ -177,6 +177,33 @@
     {
       "region": "США",
       "source": "NPR News",
+      "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+      "link": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
+      "date": "Thu, 26 Nov 2026",
+      "description": "The Trump administration gave Elon Musk&apos;s SpaceX the green light to deploy 1 million satellites that it said would create dat",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F70%2F4b%2F4cb0ffd9483ab271a8801a581496%2Fap26308785365415.jpg"
+    },
+    {
+      "region": "США",
+      "source": "NPR News",
+      "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
+      "link": "https://www.npr.org/2026/11/26/g-s1-155934/andy-taylor-duran-duran-obit",
+      "date": "Thu, 26 Nov 2026",
+      "description": "Taylor revealed his battle with Stage 4 metastatic prostate cancer in 2022. He was the guitarist of the 1980s English band Duran D",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1851x1234+0+0/resize/1851x1234!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F40%2F0b%2Fd938374d4546b030f31d11e27027%2Fap26329783844907.jpg"
+    },
+    {
+      "region": "США",
+      "source": "NPR News",
+      "title": "Steelers cut Aaron Rodgers after the QB rips coach Mike McCarthy on TV",
+      "link": "https://www.npr.org/2026/11/26/nx-s1-6054760/steelers-cut-aaron-rodgers",
+      "date": "Thu, 26 Nov 2026",
+      "description": "The move capped a chaotic 18 hours in which the team announced it was benching the 42-year-old future Hall of Famer for backup Mas",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2403x1602+0+0/resize/2403x1602!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F78%2Fc8%2Fcc30cfbe464fafaf69b87563b3af%2Fap26329727253447.jpg"
+    },
+    {
+      "region": "США",
+      "source": "NPR News",
       "title": "U.S. Judge rules FCC violated ABC&apos;s free speech rights to please Trump",
       "link": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
       "date": "Thu, 26 Nov 2026",
@@ -202,84 +229,57 @@
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5890x3927+0+0/resize/5890x3927!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F43%2F3b%2F29bab78c4dbabe5ff0b0354fe457%2Fgettyimages-2184408117.jpg"
     },
     {
-      "region": "США",
-      "source": "NPR News",
-      "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
-      "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
-      "date": "Wed, 25 Nov 2026",
-      "description": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1280x960+0+0/resize/1280x960!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2F9c%2Fcdbbeb7644308b0cf64b036b7f76%2Fliberian-thanksgiving-10.jpg"
-    },
-    {
-      "region": "США",
-      "source": "NPR News",
-      "title": "What to know before using AI agents for Black Friday shopping",
-      "link": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
-      "date": "Wed, 25 Nov 2026",
-      "description": "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3733x2490+0+0/resize/3733x2490!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9c%2F3a%2F99324afc42febd0bdf8ef965b3a1%2Fgettyimages-2297767958.jpg"
-    },
-    {
-      "region": "США",
-      "source": "NPR News",
-      "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
-      "link": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
-      "date": "Wed, 25 Nov 2026",
-      "description": "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-yea",
-      "image": "undefined"
-    },
-    {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Indonesia’s new capital Nusantara faces fresh doubts as key financial agency scraps office plans",
-      "link": "https://www.straitstimes.com/asia/se-asia/indonesias-new-capital-nusantara-faces-fresh-doubts-as-key-financial-agency-scraps-office-plans",
+      "title": "South Korea unification minister nominee pledges 'realistic' approach to North Korea",
+      "link": "https://www.straitstimes.com/asia/south-korea-unification-minister-nominee-pledges-realistic-approach-to-north-korea",
       "date": "Thu, 26 Nov 2026",
-      "description": "Indonesia’s new capital faces fresh doubts as key financial institution scraps office plans.",
+      "description": "SEOUL, Nov 26 - South Korea's nominee for unification minister, Hong Ihk-pyo, said on Thursday that he intended to pursue a \\\"real",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Wife of Japanese journalist detained in Russia pleads for his release",
-      "link": "https://www.straitstimes.com/asia/wife-of-japanese-journalist-detained-in-russia-pleads-for-his-release",
+      "title": "India’s top court tightens food warning labels in new setback for industry",
+      "link": "https://www.straitstimes.com/asia/south-asia/indias-top-court-tightens-food-warning-labels-in-new-setback-for-industry",
       "date": "Thu, 26 Nov 2026",
-      "description": "TOKYO, Nov 26 - The wife of a Japanese journalist detained by Moscow on suspicion of espionage pleaded for his release on Thursday",
+      "description": "Separate warning labels will need to be displayed for every nutrient of concern.",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Myanmar will not comply with ‘inappropriate’ parts of genocide ruling: Min Aung Hlaing",
-      "link": "https://www.straitstimes.com/asia/se-asia/myanmar-will-not-comply-with-inappropriate-parts-of-genocide-ruling-min-aung-hlaing",
+      "title": "US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
+      "link": "https://www.straitstimes.com/asia/east-asia/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-sources-say",
       "date": "Thu, 26 Nov 2026",
-      "description": "The ICJ ruling was the first in its 80-year history in which its judges determined that a state committed genocide.",
+      "description": "Washington’s latest chip restrictions threaten further delays.",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Wildfires raze homes, displace wildlife on Australian island",
-      "link": "https://www.straitstimes.com/asia/australianz/wildfires-raze-homes-displace-wildlife-on-australian-island",
+      "title": "Myanmar says it will not fully comply with ICJ genocide orders",
+      "link": "https://www.straitstimes.com/asia/myanmar-says-it-will-not-fully-comply-with-icj-genocide-orders",
       "date": "Thu, 26 Nov 2026",
-      "description": "Six helicopters have been deployed to try and put out the fire.",
+      "description": "Nov 26 - Myanmar's military-backed president has said his administration will not comply with all measures ordered by the UN's top",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Indonesian rescuers resume search for 13 trapped in illegal mine; 13 others confirmed dead",
-      "link": "https://www.straitstimes.com/asia/se-asia/indonesian-rescuers-resume-search-for-13-people-trapped-inside-illegal-mine-after-13-confirmed-dead",
+      "title": "Nepal moves to declare dead those still missing after August floods",
+      "link": "https://www.straitstimes.com/asia/south-asia/nepal-moves-to-declare-dead-those-still-missing-after-august-floods",
       "date": "Thu, 26 Nov 2026",
-      "description": "26 workers were trapped 100m underground when heavy rain inundated the shaft on Nov 23.",
+      "description": "Just 112 bodies have so far been identified and returned to their families.",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Death certificates to be issued for all Malaysians missing in Nepal floods",
-      "link": "https://www.straitstimes.com/asia/se-asia/death-certificates-to-be-issued-for-all-malaysians-missing-in-nepal-floods",
+      "title": "Why Suneung’s perfect scorers are keeping quiet this year",
+      "link": "https://www.straitstimes.com/asia/east-asia/why-suneungs-perfect-scorers-are-keeping-quiet-this-year",
       "date": "Thu, 26 Nov 2026",
-      "description": "This will come once the Nepalese authorities provide official confirmation of their presumed deaths.",
+      "description": "The unusual silence marks a stark difference from previous years, when perfect scores were widely celebrated.",
       "image": ""
     },
     {
@@ -339,6 +339,42 @@
     {
       "region": "Таиланд",
       "source": "The Thaiger",
+      "title": "Two Patong Beach officers threatened for enforcing beach rules",
+      "link": "https://thethaiger.com/news/phuket/patong-beach-officers-threatened-beach-rules",
+      "date": "Thu, 26 Nov 2026",
+      "description": "Two municipal officers reported receiving threats over their enforcement of beach umbrella and sun lounger rules at Patong Beach,",
+      "image": "https://thethaiger.com/wp-content/uploads/2026/11/สำเนาของ-23-34-2026-11-26T142632.442.jpg"
+    },
+    {
+      "region": "Таиланд",
+      "source": "The Thaiger",
+      "title": "Thais donate 269 million baht for Cambodian border defences",
+      "link": "https://thethaiger.com/news/national/thai-cambodian-border-donations-269-million-baht",
+      "date": "Thu, 26 Nov 2026",
+      "description": "Donations to a fund supporting the construction of border fences, military bunkers and civilian shelters along the Thai-Cambodian",
+      "image": "https://thethaiger.com/wp-content/uploads/2026/11/สำเนาของ-23-34-2026-11-26T135930.205.jpg"
+    },
+    {
+      "region": "Таиланд",
+      "source": "The Thaiger",
+      "title": "Celebrate the festive season above Bangtao at 7th Floor Restaurant &#038; Bar",
+      "link": "https://thethaiger.com/hot-news/events/phuket-christmas-dinner-new-years-eve-at-7th-floor-restaurant-bar",
+      "date": "Thu, 26 Nov 2026",
+      "description": "A four-course Christmas dinner on December 25 and a Venice Carnival New Year’s Eve buffet on December 31 at Sole Mio Boutique Hote",
+      "image": "https://thethaiger.com/wp-content/uploads/2026/11/image-1-web-17.jpg"
+    },
+    {
+      "region": "Таиланд",
+      "source": "The Thaiger",
+      "title": "Where to celebrate Thanksgiving in Bangkok 2026",
+      "link": "https://thethaiger.com/guides/best-of/things-to-do/where-to-celebrate-thanksgiving-in-bangkok-2024",
+      "date": "Thu, 26 Nov 2026",
+      "description": "Thanksgiving is just a random Thursday in Thailand, but that doesn&#8217;t mean Americans in Bangkok can&#8217;t enjoy a tradition",
+      "image": "https://thethaiger.com/wp-content/uploads/2026/11/thanksgiving-bangkok-2026-cover.jpg"
+    },
+    {
+      "region": "Таиланд",
+      "source": "The Thaiger",
       "title": "Thailand video news &#124; Kim Jong Un personally receives ambassadors from 10 countries, including Thailand, UK begins consultation on potential free trade agreement with Thailand, Rajadamnern plans billion-baht Muay Thai stadium and attraction in Phuket",
       "link": "https://thethaiger.com/video-podcasts/thailand-video-news-26-11-2026",
       "date": "Thu, 26 Nov 2026",
@@ -356,39 +392,30 @@
     },
     {
       "region": "Таиланд",
-      "source": "The Thaiger",
-      "title": "Thai House unanimously passes long-awaited Clean Air Bill",
-      "link": "https://thethaiger.com/news/national/thailand-passes-clean-air-bill",
+      "source": "Khaosod English",
+      "title": "Thailand will not lend its sovereignty to anyone ‘even for a minute’, Anutin says",
+      "link": "https://www.khaosodenglish.com/featured/2026/11/26/thailand-will-not-lend-its-sovereignty-to-anyone-even-for-a-minute-anutin-says/",
       "date": "Thu, 26 Nov 2026",
-      "description": "Thailand&#8217;s House of Representatives unanimously approved the Clean Air Bill with 430 votes yesterday, November 25, advancing",
-      "image": "https://thethaiger.com/wp-content/uploads/2026/11/สำเนาของ-23-34-2026-11-26T112116.434.jpg"
+      "description": "Prime Minister Anutin Charnvirakul said on 26 November that Thailand’s armed forces were ready to defend the country and pledged g",
+      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/120261126135740_9536.jpg"
     },
     {
       "region": "Таиланд",
-      "source": "The Thaiger",
-      "title": "Thailand faces US tariffs of up to 18% under new trade proposal",
-      "link": "https://thethaiger.com/hot-news/economy/thailand-faces-new-us-tariffs-18-percent",
+      "source": "Khaosod English",
+      "title": "Liverpool and adidas launch Thai-inspired collection worldwide",
+      "link": "https://www.khaosodenglish.com/life/arts/2026/11/26/liverpool-and-adidas-launch-thai-inspired-collection-worldwide/",
       "date": "Thu, 26 Nov 2026",
-      "description": "The United States has proposed new tariffs of up to 18% on imports from Thailand as part of trade measures targeting 14 economies,",
-      "image": "https://thethaiger.com/wp-content/uploads/2026/11/สำเนาของ-23-34-2026-11-26T101948.258.jpg"
+      "description": "Liverpool FC and adidas have launched Gold Leaf, a limited-edition lifestyle collection inspired by Thai gilding and dedicated to",
+      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/120000.jpg"
     },
     {
       "region": "Таиланд",
-      "source": "The Thaiger",
-      "title": "Top 10 best marketing agencies in Thailand (2027 edition)",
-      "link": "https://thethaiger.com/guides/digital-marketing/top-digital-marketing-agency-thailand-2027",
+      "source": "Khaosod English",
+      "title": "Thai air force showcases combat capabilities as Anutin pledges military modernisation",
+      "link": "https://www.khaosodenglish.com/news/2026/11/26/thai-air-force-showcases-combat-capabilities-as-anutin-pledges-military-modernisation/",
       "date": "Thu, 26 Nov 2026",
-      "description": "GVN Marketing ranks #1 in our 2027 list, for the third year running. It is listed first on Clutch&#8217;s Thailand digital marketi",
-      "image": "https://thethaiger.com/wp-content/uploads/2026/11/best-marketing-agency-thailand-1.jpg"
-    },
-    {
-      "region": "Таиланд",
-      "source": "The Thaiger",
-      "title": "Bangkok police visit Korean Town to address safety concerns",
-      "link": "https://thethaiger.com/news/bangkok/bangkok-police-korean-town-safety-concerns",
-      "date": "Thu, 26 Nov 2026",
-      "description": "Thailand&#8217;s Tourist Police met Korean business owners, residents and tourists in Bangkok&#8217;s Korean Town yesterday, Novem",
-      "image": "https://thethaiger.com/wp-content/uploads/2026/11/สำเนาของ-23-34-2026-11-26T092156.471.jpg"
+      "description": "LOPBURI — 26 November 2026, the Royal Thai Air Force demonstrated its combat capabilities using F-16, Gripen, F-5 and T-50TH aircr",
+      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/S__25018481.jpg"
     },
     {
       "region": "Таиланд",
@@ -409,37 +436,28 @@
       "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/0-feat-30.jpg"
     },
     {
-      "region": "Таиланд",
-      "source": "Khaosod English",
-      "title": "Handcuffed drug suspect found dead after jumping into canal to escape police",
-      "link": "https://www.khaosodenglish.com/news/2026/11/26/handcuffed-drug-suspect-found-dead-after-jumping-into-canal-to-escape-police/",
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "В России собрались обанкротить крупного производителя овощей",
+      "link": "https://lenta.ru/news/2026/11/26/v-rossii-sobralis-obankrotit-krupnogo-proizvoditelya-ovoschey/",
       "date": "Thu, 26 Nov 2026",
-      "description": "PHATTHALUNG — 26 November 2026, rescue workers recovered the body of a 35-year-old drug suspect who jumped into a canal while hand",
-      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/Handcuffed-drug-suspect-found-dead-after-jumping-into-canal-to-escape-police.jpg"
-    },
-    {
-      "region": "Таиланд",
-      "source": "Khaosod English",
-      "title": "Bad weather postpones Macy’s Thanksgiving Day Parade for first time ever",
-      "link": "https://www.khaosodenglish.com/news/international/2026/11/26/bad-weather-postpones-macys-thanksgiving-day-parade-for-first-time-ever/",
-      "date": "Thu, 26 Nov 2026",
-      "description": "NEW YORK (AP) — Macy’s 100th Thanksgiving Day Parade will also be a first: Organizers made an unprecedented decision to postpone t",
-      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/0-feat-29.jpg"
-    },
-    {
-      "region": "Таиланд",
-      "source": "Khaosod English",
-      "title": "Police wait outside bathroom as mule account suspect scrolls TikTok",
-      "link": "https://www.khaosodenglish.com/featured/2026/11/26/police-wait-outside-bathroom-as-mule-account-suspect-scrolls-tiktok/",
-      "date": "Thu, 26 Nov 2026",
-      "description": "SONGKHLA — 26 November 2026, police officers waited nearly 30 minutes outside a bathroom to arrest a 22-year-old suspected mule ac",
-      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/Police-wait-outside-bathroom-as-mule-account-suspect-scrolls-TikTok.jpg"
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/26/10/20261126104228991/pic_4ea3f404edb771ff5f13c2f85b34c296.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Nvidia решила прекратить поставки чипов в Азию после скандала с Хуангом",
-      "link": "https://lenta.ru/news/2026/11/26/nvidia-reshila-prekratit-postavki-chipov-v-aziyu-posle-skandala-s-huangom/",
+      "title": "Шойгу ответил на «манипуляции» генсека НАТО",
+      "link": "https://lenta.ru/news/2026/11/26/shoygu-otvetil-na-manipulyatsii-genseka-nato/",
+      "date": "Thu, 26 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/26/10/20261126104919459/pic_503252a9dc1dc80539cc923cb95d4b89.jpg"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "Стало известно о раненых при атаке ВСУ на многоквартирные дома в регионе России",
+      "link": "https://lenta.ru/news/2026/11/26/stalo-izvestno-o-ranenyh-pri-atake-vsu-na-mnogokvartirnye-doma-v-regione-rossii/",
       "date": "Thu, 26 Nov 2026",
       "description": "",
       "image": "https://icdn.lenta.ru/assets/webpack/images/lenta_og.8735b949.png"
@@ -447,101 +465,83 @@
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Убийство участника СВО предотвратили на российском курорте",
-      "link": "https://lenta.ru/news/2026/11/26/ubiystvo-uchastnika-svo-predotvratili-na-rossiyskom-kurorte/",
+      "title": "Полковник назвал цель ракетного удара ВСУ по российскому региону",
+      "link": "https://lenta.ru/news/2026/11/26/polkovnik-nazval-tsel-raketnogo-udara-vsu-po-rossiyskomu-regionu/",
       "date": "Thu, 26 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/26/08/20261126085732852/pic_ec9433561cd665ef38ed22a5ba28ff9b.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/26/10/20261126102551728/pic_20f154259dffe25fa85a85c0a2e7a2f7.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Ким Чен Ын предупредил о последствиях посягательства на ядерный статус КНДР",
-      "link": "https://lenta.ru/news/2026/11/26/kim-chen-yn-predupredil-o-posledstviyah-posyagatelstva-na-yadernyy-status-kndr/",
+      "title": "Взятка за покровительство стоила российскому чиновнику пяти лет свободы",
+      "link": "https://lenta.ru/news/2026/11/26/vzyatka-za-pokrovitelstvo-stoila-rossiyskomu-chinovniku-pyati-let-svobody/",
       "date": "Thu, 26 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/26/08/20261126085611463/pic_b26878f1951650553b845fdc77f47e9d.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/26/10/20261126102750235/pic_a006ea7afffc60465afcab45100a5723.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Правнучка Хрущева обзавелась квартирой в США",
-      "link": "https://lenta.ru/news/2026/11/26/pravnuchka-hruscheva-obzavelas-kvartiroy-v-ssha/",
+      "title": "Смерть ребенка от истощения в многодетной семье россиян квалифицировали как убийство",
+      "link": "https://lenta.ru/news/2026/11/26/smert-rebenka-ot-istoscheniya-v-mnogodetnoy-semie-rossiyan-kvalifitsirovali-kak-ubiystvo/",
       "date": "Thu, 26 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/assets/webpack/images/lenta_og.8735b949.png"
-    },
-    {
-      "region": "Россия",
-      "source": "Лента.ру",
-      "title": "Кандидат в президенты Франции задал острый вопрос Германии",
-      "link": "https://lenta.ru/news/2026/11/26/kandidat-v-prezidenty-frantsii-zadal-ostryy-vopros-germanii/",
-      "date": "Thu, 26 Nov 2026",
-      "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/26/08/20261126084951621/pic_28a990693ebcb8eeef8ca81e7f0ff2fe.jpg"
-    },
-    {
-      "region": "Россия",
-      "source": "Лента.ру",
-      "title": "Стало известно о наступлении армии России в Харьковской области",
-      "link": "https://lenta.ru/news/2026/11/26/stalo-izvestno-o-nastuplenii-armii-rossii-v-harkovskoy-oblasti/",
-      "date": "Thu, 26 Nov 2026",
-      "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/26/08/20261126084903599/pic_f65ae38eecf1339968e3c3d36bef6d32.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/26/10/20261126104858563/pic_7682e2c3485a0bbd9ce497b2a66ca83f.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "В России резко снизилась доля фальсифицированного меда",
-      "link": "https://www.amic.ru/news/v-rossii-rezko-snizilas-dolya-falsificirovannogo-meda-597528",
+      "title": "В Великобритании военных резервистов призвали быть готовыми к отправке на войну",
+      "link": "https://www.amic.ru/news/v-velikobritanii-voennyh-rezervistov-prizvali-byt-gotovymi-k-otpravke-na-voynu-597523",
       "date": "Thu, 26 Nov 2026",
-      "description": "Случаи разбавления продукта сиропами стали встречаться значительно реже",
-      "image": "https://www.amic.ru/images/news/news/597528_size2.jpg"
+      "description": "В направленных письмах резервистов попросили актуализировать контактную информацию, а также сообщить о нынешнем месте работы и про",
+      "image": "https://www.amic.ru/images/news/news/583632_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Самый короткий день в 2026 году окажется менее семи часов",
-      "link": "https://www.amic.ru/news/samyy-korotkiy-den-v-2026-godu-okazhetsya-koroche-semi-chasov-597513",
+      "title": "Госслужащим при увольнении положена компенсация в размере четырех месячных окладов",
+      "link": "https://www.amic.ru/news/gossluzhaschim-pri-uvolnenii-polozhena-kompensaciya-v-razmere-chetyreh-mesyachnyh-okladov-597539",
       "date": "Thu, 26 Nov 2026",
-      "description": "После зимнего солнцестояния продолжительность светового дня начнет постепенно увеличиваться",
-      "image": "https://www.amic.ru/images/news/news/557060_size2.jpg"
+      "description": "В расчет входят должностной оклад, оклад за классный чин, ежемесячные надбавки, денежное поощрение и другие учитываемые выплаты",
+      "image": "https://www.amic.ru/images/news/news/477286_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Антимонопольщики Алтайского края признали рекламу \"Лэтуаль\" незаконной",
-      "link": "https://www.amic.ru/news/antimonopolschiki-altayskogo-kraya-priznali-reklamu-letual-nezakonnoy-597503",
+      "title": "Стало известно, какие имена чаще всего давали детям в России в 2026 году",
+      "link": "https://www.amic.ru/news/stalo-izvestno-kakie-imena-chasche-vsego-davali-detyam-v-rossii-v-2026-godu-597508",
       "date": "Thu, 26 Nov 2026",
-      "description": "Основанием для разбирательства стало обращение жителя Алтайского края, который пожаловался на нежелательные рекламные сообщения",
-      "image": "https://www.amic.ru/images/news/news/575044_size2.jpg"
+      "description": "Имя София является самым популярным для новорожденных девочек в России шестой год подряд",
+      "image": "https://www.amic.ru/images/news/news/587862_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Чат-боты, фестивали и Шубенков. Как студенты АлтГУ предложили продвигать спорт на Алтае",
-      "link": "https://www.amic.ru/news/chat-boty-festivali-i-shubenkov-kak-studenty-altgu-predlozhili-prodvigat-sport-na-altae-597462",
+      "title": "\"Тришкин кафтан с рукава на шею\". Как депутаты Алтайского края приняли бюджет на 2027 год",
+      "link": "https://www.amic.ru/news/trishkin-kaftan-s-rukava-na-sheyu-kak-deputaty-altayskogo-kraya-prinyali-byudzhet-na-2027-god-597540",
       "date": "Thu, 26 Nov 2026",
-      "description": "Участники XIX Мастерской медиа и рекламы представили креативные проекты для регионального Минспорта",
-      "image": "https://www.amic.ru/images/news/news/597462_size2.jpg"
+      "description": "Четыре фракции поддержали главный финансовый документ региона, а КПРФ раскритиковала отказ учитывать ее поправки",
+      "image": "https://www.amic.ru/images/news/news/597540_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "В России пересмотрят правила медицинского освидетельствования автомобилистов",
-      "link": "https://www.amic.ru/news/v-rossii-peresmotryat-pravila-medicinskogo-osvidetelstvovaniya-avtomobilistov-597498",
+      "title": "На Алтае четыре человека получили травмы при лобовом столкновении с УАЗом",
+      "link": "https://www.amic.ru/news/na-altae-chetyre-cheloveka-poluchili-travmy-pri-lobovom-stolknovenii-s-uazom-597509",
       "date": "Thu, 26 Nov 2026",
-      "description": "Необходимость повторного обследования может возникнуть даже у автомобилистов, которые ранее успешно прошли медицинскую комиссию",
-      "image": "https://www.amic.ru/images/news/news/556406_size2.jpg"
+      "description": "Наиболее серьезные повреждения получили пассажиры Chery — 15-летняя девочка и 31-летний мужчина",
+      "image": "https://www.amic.ru/images/news/news/597509_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Народный фронт в Алтайском крае подвел итоги и обозначил планы работы на 2027 год",
-      "link": "https://www.amic.ru/news/narodnyy-front-v-altayskom-krae-podvel-itogi-i-oboznachil-plany-raboty-na-2027-god-597527",
+      "title": "Бюджет, льготы и поддержка семей. Как прошла ноябрьская сессия алтайских депутатов",
+      "link": "https://www.amic.ru/news/byudzhet-lgoty-i-podderzhka-semey-kak-proshla-noyabrskaya-sessiya-altayskih-deputatov-597538",
       "date": "Thu, 26 Nov 2026",
-      "description": "В частности, ОНФ предложил ввести оплату проезда в общественном транспорте через QR-код",
-      "image": "https://www.amic.ru/images/news/news/597527_size2.jpg"
+      "description": "Фоторепортаж с третьей сессии АКЗС",
+      "image": "https://www.amic.ru/images/news/news/597538_size2.jpg"
     }
   ]
 }
