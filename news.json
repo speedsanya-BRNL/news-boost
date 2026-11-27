@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27 11:01",
+  "updated": "2026-11-27 13:01",
   "categories": [
     "Мир",
     "Европа",
@@ -15,8 +15,17 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Ростовская область подверглась атаке БПЛА",
-      "link": "https://tass.ru/proisshestviya/28360543",
+      "title": "АБР банк выделит Грузии кредит $200 млн на развитие туристической инфраструктуры",
+      "link": "https://tass.ru/ekonomika/28360853",
+      "date": "Fri, 27 Nov 2026",
+      "description": "В частности, в стране обновят памятники культурного наследия",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "Врачи борются за жизнь пострадавших в ДТП под Красноярском подростка и женщины",
+      "link": "https://tass.ru/proisshestviya/28360851",
       "date": "Fri, 27 Nov 2026",
       "description": "",
       "image": ""
@@ -24,46 +33,37 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "В Японии начнут новый набор астронавтов с прицелом на освоение Луны",
-      "link": "https://tass.ru/kosmos/28360535",
+      "title": "Россия и Филиппины обсуждают расширение авиасообщения",
+      "link": "https://tass.ru/ekonomika/28360849",
       "date": "Fri, 27 Nov 2026",
-      "description": "Экзамены на право вступить в отряд будут проводиться в течение года в четыре этапа",
+      "description": "В том числе рассматривается запуск рейсов в провинцию Себу, сообщил торговый представитель РФ Артем Цинамдзгвришвили",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Четверо погибших в ДТП в Красноярском крае были пассажирами автобуса",
-      "link": "https://tass.ru/proisshestviya/28360541",
+      "title": "СК показал состояние автобуса после ДТП с грузовиками в Красноярске",
+      "link": "https://tass.ru/proisshestviya/28360831",
       "date": "Fri, 27 Nov 2026",
-      "description": "",
+      "description": "Транспорт получил сильные повреждения",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Манул, пума и панды в Московском зоопарке обрадовались снегу",
-      "link": "https://tass.ru/obschestvo/28360527",
+      "title": "Путин оставил автограф в отеле в Шэньчжэне во время саммита АТЭС",
+      "link": "https://tass.ru/obschestvo/28360845",
       "date": "Fri, 27 Nov 2026",
-      "description": "",
-      "image": ""
+      "description": "Президент России высоко оценил сервис и оснащение гостиницы Conrad, рассказал генеральный менеджер отеля",
+      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250114/8006845.jpg"
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "В Новосибирской области арестовали двух подозреваемых в похищении человека",
-      "link": "https://tass.ru/proisshestviya/28360531",
+      "title": "Число пострадавших в ДТП с автобусом под Красноярском выросло до 14",
+      "link": "https://tass.ru/proisshestviya/28360843",
       "date": "Fri, 27 Nov 2026",
-      "description": "",
-      "image": ""
-    },
-    {
-      "region": "Мир",
-      "source": "ТАСС",
-      "title": "Около тысячи жителей Томска переселили из аварийного жилья в 2026 году",
-      "link": "https://tass.ru/nedvizhimost/28360533",
-      "date": "Fri, 27 Nov 2026",
-      "description": "",
+      "description": "Еще пятеро погибли",
       "image": ""
     },
     {
@@ -231,55 +231,55 @@
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "‘Proof it happened’: Photographers reflect on Philippine ex-president Duterte’s drug war",
-      "link": "https://www.straitstimes.com/asia/se-asia/proof-it-happened-photographers-reflect-on-philippine-ex-president-dutertes-drug-war",
+      "title": "Erdogan completes Turkey's ratification of Mecca defence pact",
+      "link": "https://www.straitstimes.com/asia/erdogan-completes-turkeys-ratification-of-mecca-defence-pact",
       "date": "Fri, 27 Nov 2026",
-      "description": "Duterte goes on trial at the International Criminal Court on Nov 30.",
+      "description": "ISTANBUL, Nov 27 - President Tayyip Erdogan has formally approved the Mecca Joint Defence Agreement with Pakistan and Saudi Arabia",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Residents can return after Bangchak refinery fire as Bangkok air checks continue",
-      "link": "https://www.straitstimes.com/asia/se-asia/residents-can-return-after-bangchak-refinery-fire-as-bangkok-air-checks-continue",
+      "title": "Cambodia, Thailand agree to maritime site visit in dispute proceedings",
+      "link": "https://www.straitstimes.com/asia/se-asia/cambodia-thailand-agree-to-maritime-site-visit-in-dispute-proceedings",
       "date": "Fri, 27 Nov 2026",
-      "description": "The company previously shut down all production units after a fire on Nov 26.",
+      "description": "An understanding was reached on parameters for delimiting the maritime boundary.",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Sarawak polls: Parties, campaign workers urged to observe strict electrical safety measures",
-      "link": "https://www.straitstimes.com/asia/se-asia/sarawak-polls-parties-campaign-workers-urged-to-observe-strict-electrical-safety-measures",
+      "title": "Japan’s Senate narrowly rejects censure motion against scandal-hit Education Minister Yoshihiro Seki",
+      "link": "https://www.straitstimes.com/asia/east-asia/japans-senate-narrowly-rejects-censure-motion-against-scandal-hit-education-minister-yoshihiro-seki",
       "date": "Fri, 27 Nov 2026",
-      "description": "Nominations for the 13th Sarawak state election take place on Nov 28 and polling will be on Dec 12.",
+      "description": "Key opposition parties to continue pursuing accountability despite setback given the narrow vote.",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Australia sanctions two alleged Iranian agents over antisemitic attacks",
-      "link": "https://www.straitstimes.com/asia/australia-sanctions-two-alleged-iranian-agents-over-antisemitic-attacks",
+      "title": "Explainer-Parties to negotiate after no one wins majority in New Zealand election",
+      "link": "https://www.straitstimes.com/asia/explainer-parties-to-negotiate-after-no-one-wins-majority-in-new-zealand-election",
       "date": "Fri, 27 Nov 2026",
-      "description": "SYDNEY, Nov 27 - Australia on Friday placed counterterrorism financing sanctions on two people it said orchestrated antisemitic ar",
+      "description": "WELLINGTON, Nov 27 - New Zealand's ruling coalition fell short of winning a parliamentary majority, final results of the November",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Modi critics face growing constraints on travel, speech in India",
-      "link": "https://www.straitstimes.com/asia/south-asia/modi-critics-face-growing-constraints-on-travel-speech-in-india",
+      "title": "Data centres to double Malaysian electricity demand by 2050",
+      "link": "https://www.straitstimes.com/asia/se-asia/data-centres-to-double-malaysian-electricity-demand-by-2050",
       "date": "Fri, 27 Nov 2026",
-      "description": "The main opposition party sued Meta and the federal government over the removal and blocking of political content.",
+      "description": "The Southeast Asian nation has ambitious plans to be a regional hub for artificial intelligence.",
       "image": ""
     },
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Japan’s JERA enters talks with Anthropic, Meta to build data centres, Nikkei reports",
-      "link": "https://www.straitstimes.com/asia/east-asia/japans-jera-enters-talks-with-anthropic-meta-to-build-data-centres-nikkei-reports",
+      "title": "South Korea repatriates six North Koreans rescued from drifting boat",
+      "link": "https://www.straitstimes.com/asia/south-korea-repatriates-six-north-koreans-rescued-from-drifting-boat",
       "date": "Fri, 27 Nov 2026",
-      "description": "JERA is also in discussions with Amazon, Microsoft and Google.",
+      "description": "SEOUL, Nov 27 - South Korea repatriated six North Koreans by sea on Friday after their fishing boat was found drifting off the pen",
       "image": ""
     },
     {
@@ -339,56 +339,92 @@
     {
       "region": "Таиланд",
       "source": "The Thaiger",
-      "title": "Hun Sen says he delayed Cambodia&#8217;s LDC exit to keep cheap loans",
-      "link": "https://thethaiger.com/news/world/hun-sen-cambodia-ldc-graduation-delay-concessional-loans",
+      "title": "Russia&#8217;s &#8220;unthinkable&#8221; invention could shake up nuclear fuel recycling",
+      "link": "https://thethaiger.com/news/world/rosatom-hybrid-densitometer-uranium-plutonium-spent-fuel",
       "date": "Fri, 27 Nov 2026",
-      "description": "Hun Sen has said that the decision to delay Cambodia&#8217;s exit from the United Nations list of least developed countries was hi",
-      "image": "https://thethaiger.com/wp-content/uploads/2026/11/hun-sen-hun-manet-cambodia-ldc.jpg"
+      "description": "Rosatom has finished acceptance testing on a prototype instrument that measures uranium and plutonium in the liquids left by spent",
+      "image": "https://thethaiger.com/wp-content/uploads/2026/11/rosatom-hybrid-densitometer-mcc.jpg"
     },
     {
       "region": "Таиланд",
       "source": "The Thaiger",
-      "title": "Russian man survives 15th-floor fall into Pattaya condo pool",
-      "link": "https://thethaiger.com/news/pattaya/russian-man-survives-15th-floor-fall-pattaya-condo-pool",
+      "title": "Malaysian Chinese livestream seller forces Thai security guard to apologise at Makro Sathon",
+      "link": "https://thethaiger.com/news/bangkok/malaysian-chinese-livestream-seller-forces-thai-security-guard-to-apologise-at-makro-sathon",
       "date": "Fri, 27 Nov 2026",
-      "description": "A 30 year old Russian man was taken to hospital after falling from the 15th floor of a Pratumnak condominium and landing in its fo",
-      "image": "https://thethaiger.com/wp-content/uploads/2026/11/pattaya-condo-pool-1.jpg"
+      "description": "An ethnic Chinese Malaysian online seller has drawn anger in Thailand after she berated a female security guard at the Makro whole",
+      "image": "https://thethaiger.com/wp-content/uploads/2026/11/Malay-lifestreamer.jpg"
     },
     {
       "region": "Таиланд",
       "source": "The Thaiger",
-      "title": "Pattaya fireworks festival 2026: full schedule for both nights",
-      "link": "https://thethaiger.com/guides/best-of/things-to-do/pattaya-fireworks-festival-2026-full-schedule-for-both-nights",
+      "title": "Nvidia pauses AI server shipments to Thailand over US export rule",
+      "link": "https://thethaiger.com/news/business/nvidia-pauses-ai-server-shipments-thailand",
       "date": "Fri, 27 Nov 2026",
-      "description": "The Pattaya International Fireworks Festival runs on November 27 and 28 with teams from five countries, free entry and beach conce",
-      "image": "https://thethaiger.com/wp-content/uploads/2026/11/pattaya-firework-festival-1.jpg"
+      "description": "Nvidia has told partners such as Dell and Supermicro to stop delivering AI servers to Thailand, Malaysia, Singapore and Indonesia",
+      "image": "https://thethaiger.com/wp-content/uploads/2026/11/nvidia-ai-server-1.jpg"
     },
     {
       "region": "Таиланд",
       "source": "The Thaiger",
-      "title": "Sea (Thailand) financial literacy push reaches 100,000 Thais",
-      "link": "https://thethaiger.com/guides/education/sea-thailand-financial-literacy-push-reaches-100000-thais",
+      "title": "Bangchak says refinery fire started in its hydrocracking unit, nine hurt",
+      "link": "https://thethaiger.com/news/bangkok/bangchak-refinery-fire-hydrocracking-unit-nine-injured",
       "date": "Fri, 27 Nov 2026",
-      "description": "Sea (Thailand) marks three years of its Wishlist board game initiative and plans to grow its Change Agents network from five to 10",
-      "image": "https://thethaiger.com/wp-content/uploads/2026/11/image-23-web.jpg"
+      "description": "Bangchak Corporation has told the Stock Exchange of Thailand that the fire at its Phra Khanong refinery on Thursday started in the",
+      "image": "https://thethaiger.com/wp-content/uploads/2026/11/bangchak-refinery-fire-damage-ap.jpg"
     },
     {
       "region": "Таиланд",
       "source": "The Thaiger",
-      "title": "Thailand can tax the foreign income you bring in, and the year you earned it matters most",
-      "link": "https://thethaiger.com/hot-news/expats/thailand-foreign-income-tax-expats-what-to-check",
+      "title": "Thailand video news &#124; Explosion at Bangchak refinery prompts evacuation warning, Bangkok to close 95 roads for Amazing Thailand Marathon, Thailand remains Agoda&#8217;s top destination",
+      "link": "https://thethaiger.com/video-podcasts/thailand-video-news-27-11-2026",
       "date": "Fri, 27 Nov 2026",
-      "description": "If you have spent 180 days or more in Thailand this year, the country counts you as a tax resident, and the money you bring in fro",
-      "image": "https://thethaiger.com/wp-content/uploads/2026/11/Foreign-income-tax.jpg"
+      "description": "In today&#8217;s Thailand video news, an explosion at a Bangkok refinery leaves seven people injured, while Thailand pushes for lo",
+      "image": "https://thethaiger.com/wp-content/uploads/2026/11/gmt-web-27112026.jpg"
     },
     {
       "region": "Таиланд",
       "source": "The Thaiger",
-      "title": "Chon Buri police gear up for Tomorrowland Thailand as 150,000 fans expected",
-      "link": "https://thethaiger.com/news/pattaya/chon-buri-police-gear-up-for-tomorrowland-thailand-as-150000-fans-expected",
+      "title": "Supreme Court seizes 296 million baht from former defence permanent secretary",
+      "link": "https://thethaiger.com/hot-news/politics/supreme-court-seizes-296-million-baht-gen-sathian",
       "date": "Fri, 27 Nov 2026",
-      "description": "Chon Buri police joined a House tourism committee meeting at parliament yesterday, November 26, to prepare for Tomorrowland Thaila",
-      "image": "https://thethaiger.com/wp-content/uploads/2026/11/tomorrowland-thailand-ready-cover.jpg"
+      "description": "Thailand&#8217;s Supreme Court has ordered 51 assets worth 296.3 million baht forfeited to the state by Gen Sathian Phoemthong-in,",
+      "image": "https://thethaiger.com/wp-content/uploads/2026/11/supreme-court-thailand-sathian-296-million.jpg"
+    },
+    {
+      "region": "Таиланд",
+      "source": "Khaosod English",
+      "title": "&#8220;Please don&#8217;t cut this one&#8221; Bellingham&#8217;s message to Thai TikToker Sor Card",
+      "link": "https://www.khaosodenglish.com/life/2026/11/27/please-dont-cut-this-one-bellinghams-message-to-thai-tiktoker-sorcard/",
+      "date": "Fri, 27 Nov 2026",
+      "description": "Jobe Bellingham, Borussia Dortmund and England midfielder, has asked Sor Card(ซ้อก้าด), Thai Tik Tok influencer, not to cut up his",
+      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/New-web-Copy-1.jpg"
+    },
+    {
+      "region": "Таиланд",
+      "source": "Khaosod English",
+      "title": "BREAKING: Fire breaks out at four-storey paint shop in Bangkok",
+      "link": "https://www.khaosodenglish.com/news/2026/11/27/breaking-fire-breaks-out-at-four-storey-paint-shop-in-bangkok/",
+      "date": "Fri, 27 Nov 2026",
+      "description": "A fire broke out on the second floor of a four-storey commercial building housing a paint shop in Soi Rat Phatthana 15 on Friday m",
+      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/fire-4.jpg"
+    },
+    {
+      "region": "Таиланд",
+      "source": "Khaosod English",
+      "title": "Chinese ambassador says Li Qiang&#8217;s visit deepened Thai ties, pledges action over pollution",
+      "link": "https://www.khaosodenglish.com/politics/2026/11/27/chinese-ambassador-says-li-qiangs-visit-deepened-thai-ties-pledges-action-over-pollution/",
+      "date": "Fri, 27 Nov 2026",
+      "description": "BANGKOK — 26 November 2026, China&#8217;s ambassador to Thailand has described Chinese Premier Li Qiang&#8217;s official visit to",
+      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/Chinese-ambassador-says-Li-Qiangs-visit-deepened-Thai-ties-pledges-action-over-pollution.jpg"
+    },
+    {
+      "region": "Таиланд",
+      "source": "Khaosod English",
+      "title": "70-Year-Old South Korean fugitive wanted by interpol arrested in Thailand",
+      "link": "https://www.khaosodenglish.com/news/crimecourtscalamity/crime-crime/2026/11/27/70-year-old-south-korean-fugitive-wanted-by-interpol-arrested-in-thailand/",
+      "date": "Fri, 27 Nov 2026",
+      "description": "KHON KAEN — 26 November 2026, Khon Kaen immigration police arrest 70-Year-Old South Korean fugitive wanted by INTERPOL and Seoul N",
+      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/web-korea-1.jpg"
     },
     {
       "region": "Таиланд",
@@ -400,148 +436,112 @@
       "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/Screenshot-2026-11-27-101908.png"
     },
     {
-      "region": "Таиланд",
-      "source": "Khaosod English",
-      "title": "10,000 tonnes of hazardous waste found in Rayong",
-      "link": "https://www.khaosodenglish.com/news/2026/11/27/10000-tonnes-of-hazardous-waste-found-in-rayong/",
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "В России рассказали об участии Украины в СНГ",
+      "link": "https://lenta.ru/news/2026/11/27/v-rossii-rasskazali-ob-uchastii-ukrainy-v-sng/",
       "date": "Fri, 27 Nov 2026",
-      "description": "RAYONG — 25 November 2026, The Department of Special Investigation (DSI) has accepted a case against Rayong Industrial Co. Ltd. an",
-      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/cover-b-4.jpg"
-    },
-    {
-      "region": "Таиланд",
-      "source": "Khaosod English",
-      "title": "Akaranan joins LINE Thailand to tackle online bullying against children on OpenChat",
-      "link": "https://www.khaosodenglish.com/tech/2026/11/27/akaranan-joins-line-thailand-to-tackle-online-bullying-against-children-on-openchat/",
-      "date": "Fri, 27 Nov 2026",
-      "description": "BANGKOK — 26 November 2026, Education Ministry joins with LINE Thailand to combat online bullying against children, strengthen Ope",
-      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/web-bullying-เด็ก.jpg"
-    },
-    {
-      "region": "Таиланд",
-      "source": "Khaosod English",
-      "title": "Fire breaks out at Bangkok’s Patthavikorn Market, motorists warned",
-      "link": "https://www.khaosodenglish.com/news/2026/11/27/fire-breaks-out-at-bangkoks-patthavikorn-market-motorists-warned/",
-      "date": "Fri, 27 Nov 2026",
-      "description": "BANGKOK — 27 November 2026, A major fire broke out at Patthavikorn Market in Bangkok’s Nawamin 72 area early on Friday, prompting",
-      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/IMG_8083.jpeg"
-    },
-    {
-      "region": "Таиланд",
-      "source": "Khaosod English",
-      "title": "Nvidia halts server shipments to four Southeast Asian countries, FT reports",
-      "link": "https://www.khaosodenglish.com/tech/2026/11/26/nvidia-halts-server-shipments-to-four-southeast-asian-countries-ft-reports/",
-      "date": "Thu, 26 Nov 2026",
-      "description": "Nov 26 (Reuters) &#8211; Nvidia has told manufacturing partners to stop ​shipping servers containing its chips to Malaysia, Singap",
-      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/IMG_8077.jpeg"
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/27/08/20261127085055878/pic_c5aebbb39d9c25f22808cd777e0ccf39.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Подсчитано число уничтоженных памятников на Украине",
-      "link": "https://lenta.ru/news/2026/11/27/podschitano-chislo-unichtozhennyh-pamyatnikov-na-ukraine/",
+      "title": "Положение ВСУ ухудшилось",
+      "link": "https://lenta.ru/news/2026/11/27/polozhenie-vsu-uhudshilos/",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/06/20261127063726474/pic_d82c9611e3ee31a63a1ef60708667e15.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/27/08/20261127083807902/pic_c746d432f1c82354a93e4c97e0ec7157.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Улетевший в межзвездное пространство «Вояджер-1» стал присылать пустые сигналы",
-      "link": "https://lenta.ru/news/2026/11/27/uletevshiy-v-mezhzvezdnoe-prostranstvo-voyadzher-1-stal-prisylat-pustye-signaly/",
+      "title": "Российские военные нанесли удар по связанному с ракетным производством объекту под Киевом",
+      "link": "https://lenta.ru/news/2026/11/27/rossiyskie-voennye-nanesli-udar-po-svyazannomu-s-raketnym-proizvodstvom-ob-ektu-pod-kievom/",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/06/20261127060319757/pic_fee6132e3151d3cf2184eaaa047d09e3.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/27/08/20261127084707512/pic_3f12a5e62c978bef7544783a127978ea.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Число сбитых над Ленобластью беспилотников резко выросло",
-      "link": "https://lenta.ru/news/2026/11/27/chislo-sbityh-nad-lenoblastyu-bespilotnikov-rezko-vyroslo/",
+      "title": "Европа приготовилась к новому конфликту с Трампом",
+      "link": "https://lenta.ru/news/2026/11/27/evropa-prigotovilas-k-novomu-konfliktu-s-trampom/",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/06/20261127063727817/pic_deb6fd8ea06651581796933f361830cc.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/27/08/20261127083702779/pic_f143a8acc3db31860b79e639f5f6e56f.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Мошенники стали массово маскироваться под одну госслужбу",
-      "link": "https://lenta.ru/news/2026/11/27/moshenniki-stali-massovo-maskirovatsya-pod-odnu-gossluzhbu/",
+      "title": "Микробиолог сравнила пользу вечернего и утреннего душа",
+      "link": "https://lenta.ru/news/2026/11/27/mikrobiolog-sravnila-polzu-vechernego-i-utrennego-dusha/",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/26/15/20261126151754665/pic_993fb89973c4feab34502fdcff85394d.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/26/11/20261126112230877/pic_1c336c35d008ee0451c1a0fbb93f31bb.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Обнаружен способ улучшить работу легких без лекарств",
-      "link": "https://lenta.ru/news/2026/11/27/obnaruzhen-sposob-uluchshit-rabotu-legkih-bez-lekarstv/",
+      "title": "На Украине предупредили о надвигающейся катастрофе",
+      "link": "https://lenta.ru/news/2026/11/27/na-ukraine-predupredili-o-nadvigayuscheysya-katastrof/",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/26/14/20261126140639344/pic_8d43420111e85ee5f3b98f52ec96a37a.jpg"
-    },
-    {
-      "region": "Россия",
-      "source": "Лента.ру",
-      "title": "Названа «крыша» украинских кол-центров",
-      "link": "https://lenta.ru/news/2026/11/27/nazvana-krysha-ukrainskih-kol-tsentrov/",
-      "date": "Fri, 27 Nov 2026",
-      "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/06/20261127062816635/pic_ee3e54516f743289646d055ef63b72a6.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/27/08/20261127083236832/pic_1e622c13b511b23f7558daf2a5e03591.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Россиянам объяснили, какие меры помогут избежать воспаления легких",
-      "link": "https://www.amic.ru/news/rossiyanam-obyasnili-kakie-mery-pomogut-izbezhat-vospaleniya-legkih-597590",
+      "title": "Маск намерен ежегодно передавать каждому ребенку в США одну акцию SpaceX",
+      "link": "https://www.amic.ru/news/mask-nameren-ezhegodno-peredavat-kazhdomu-rebenku-v-ssha-odnu-akciyu-spacex-597601",
       "date": "Fri, 27 Nov 2026",
-      "description": "Особенно важна защита от инфекций для пациентов, имеющих повышенный риск осложнений",
-      "image": "https://www.amic.ru/images/news/news/578925_size2.jpg"
+      "description": "При этом подробности предполагаемой программы пока не раскрываются",
+      "image": "https://www.amic.ru/images/news/news/558130_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Легковой автомобиль опрокинулся после съезда с дороги на Алтае",
-      "link": "https://www.amic.ru/news/legkovoy-avtomobil-oprokinulsya-posle-sezda-s-dorogi-na-altae-597589",
+      "title": "За свет на большей части Барнаула будет отвечать \"Алтайэнерго\". Куда звонить при аварии?",
+      "link": "https://www.amic.ru/news/za-svet-na-bolshey-chasti-barnaula-budet-otvechat-altayenergo-kuda-zvonit-pri-avarii-597617",
       "date": "Fri, 27 Nov 2026",
-      "description": "В результате ДТП обошлось без пострадавших",
-      "image": "https://www.amic.ru/images/news/news/378759_size2.jpg"
+      "description": "Публикуем актуальные номера для обращений по вопросам электроснабжения",
+      "image": "https://www.amic.ru/images/news/news/597617_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "В российских школах последние звонки в 2027 году пройдут 26 мая",
-      "link": "https://www.amic.ru/news/v-rossiyskih-shkolah-poslednie-zvonki-v-2027-godu-proydut-26-maya-597588",
+      "title": "Дорожно-транспортный комитет мэрии Барнаула разделят на две структуры с 1 апреля 2027 года",
+      "link": "https://www.amic.ru/news/dorozhno-transportnyy-komitet-merii-barnaula-snova-razdelyat-na-dva-597610",
       "date": "Fri, 27 Nov 2026",
-      "description": "Особое внимание при подготовке последних звонков уделят безопасности",
-      "image": "https://www.amic.ru/images/news/news/584639_size2.jpg"
+      "description": "Первый возьмет на себя вопросы строительства и содержания дорог, а второй сосредоточится на пассажирских перевозках",
+      "image": "https://www.amic.ru/images/news/news/597610_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "На прямую линию губернатора Алтайского края поступило более 740 вопросов",
-      "link": "https://www.amic.ru/news/na-pryamuyu-liniyu-gubernatora-altayskogo-kraya-postupilo-bolee-740-voprosov-597583",
+      "title": "Украинская полиция ежедневно отлавливает для военкоматов почти 1,5 тысячи человек",
+      "link": "https://www.amic.ru/news/ukrainskaya-policiya-ezhednevno-otlavlivaet-dlya-voenkomatov-pochti-15-tysyachi-chelovek-597616",
       "date": "Fri, 27 Nov 2026",
-      "description": "Наиболее активно к главе региона обращаются жители Барнаула, Бийска и Первомайского района",
-      "image": "https://www.amic.ru/images/news/news/458902_size2.jpg"
+      "description": "Речь идет о лицах, разыскиваемых в рамках мобилизационных мероприятий",
+      "image": "https://www.amic.ru/images/news/news/586081_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Легкий гламур без эффекта маски: новогодние тренды макияжа — 2027",
-      "link": "https://www.amic.ru/news/legkiy-glamur-bez-effekta-maski-novogodnie-trendy-makiyazha--2027-597478",
+      "title": "Ночью в Барнауле произошло возгорание на территории торгового павильона",
+      "link": "https://www.amic.ru/news/nochyu-v-barnaule-proizoshlo-vozgoranie-na-territorii-torgovogo-pavilona-597598",
       "date": "Fri, 27 Nov 2026",
-      "description": "Визажисты рассказали о трендах и поделились полезными советами для долгого праздника",
-      "image": "https://www.amic.ru/images/news/news/597478_size2.jpg"
+      "description": "Предварительной причиной пожара специалисты считают нарушение правил монтажа электрооборудования",
+      "image": "https://www.amic.ru/images/news/news/593673_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Россиянам объяснили, в каких случаях выгоднее покупать загородный дом",
-      "link": "https://www.amic.ru/news/dom-ili-kvartira-nazvany-usloviya-pri-kotoryh-zagorodnaya-zhizn-oboydetsya-deshevle-597587",
+      "title": "Пять человек, в том числе трое детей, погибли в жутком ДТП с автобусом в Красноярском крае",
+      "link": "https://www.amic.ru/news/pyat-chelovek-v-tom-chisle-troe-detey-pogibli-v-dtp-s-avtobusom-v-krasnoyarskom-krae-597613",
       "date": "Fri, 27 Nov 2026",
-      "description": "При сравнении расходов на содержание квартиры и частного дома эксперт не советует рассчитывать на существенную разницу в налогах",
-      "image": "https://www.amic.ru/images/news/news/563977_size2.jpg"
+      "description": "Еще 13 пострадавших госпитализированы",
+      "image": "https://www.amic.ru/images/news/news/597613_size2.jpg"
     }
   ]
 }
