@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27 19:01",
+  "updated": "2026-11-27 21:00",
   "categories": [
     "Мир",
     "Европа",
@@ -15,17 +15,17 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Яшина оштрафовали за нарушение правил деятельности иноагента",
-      "link": "https://tass.ru/proisshestviya/28362363",
+      "title": "Потапова назвала фантастическими результаты Андреевой в 2026 году",
+      "link": "https://tass.ru/sport/28363065",
       "date": "Fri, 27 Nov 2026",
-      "description": "Сумма административной санкции составила 50 тыс. рублей",
+      "description": "Мирра Андреева завершила сезон на втором месте в мировом рейтинге",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Песков назвал главную тему переговоров Путина и Пашиняна",
-      "link": "https://tass.ru/politika/28362497",
+      "title": "Доля нерезидентов в российских ОФЗ в октябре снизилась до 2,7%",
+      "link": "https://tass.ru/ekonomika/28363061",
       "date": "Fri, 27 Nov 2026",
       "description": "",
       "image": ""
@@ -33,38 +33,38 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Песков: визит Пашиняна в РФ был согласован давно",
-      "link": "https://tass.ru/politika/28362487",
+      "title": "Дмитриев: РФ, КНР и США могут запустить совместный дата-центр через два-три года",
+      "link": "https://tass.ru/ekonomika/28363037",
       "date": "Fri, 27 Nov 2026",
-      "description": "В Москве готовятся встретить премьер-министра Армении, отметил пресс-секретарь президента РФ",
-      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20251009/8512869.jpg"
+      "description": "По словам главы РФПИ, трехсторонняя встреча трех стран в Шэньчжэне позволила оценить их лидерство во многих сферах, в частности, в",
+      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20260712/9217161.jpg"
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Минздрав: изменение цен на лекарства учитывается при пересмотре тарифов ОМС",
-      "link": "https://tass.ru/ekonomika/28362465",
+      "title": "Потапова заявила, что после смены гражданства осталась русской в душе",
+      "link": "https://tass.ru/sport/28363057",
       "date": "Fri, 27 Nov 2026",
-      "description": "Такая работа проводится ежегодно после подписания закона о бюджете Федерального фонда ОМС на очередной год и плановый период, отме",
+      "description": "С начала 2026 года теннисистка представляет Австрию",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "ЭСК признала ошибочным назначение пенальти в ворота ЦСКА в матче с \"Ахматом\"",
-      "link": "https://tass.ru/sport/28362495",
+      "title": "На заседании комиссии СНГ обсудили образование детей с инвалидностью",
+      "link": "https://tass.ru/obschestvo/28363031",
       "date": "Fri, 27 Nov 2026",
-      "description": "11-метровый удар назначили после вмешательства системы VAR",
+      "description": "Детские омбудсмены также рассмотрели вопросы трудоустройства подростков, сообщила уполномоченный при президенте РФ по правам ребен",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Москва и Подмосковье лидируют по числу обращений на прямую линию Путина",
-      "link": "https://tass.ru/obschestvo/28362439",
+      "title": "India Today: дочь индийского миллиардера Шринивасана подала в суд на отца",
+      "link": "https://tass.ru/obschestvo/28363007",
       "date": "Fri, 27 Nov 2026",
-      "description": "Третье место занимает Краснодарский край",
-      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250117/8012237.jpg"
+      "description": "Предметом спора является предложенная схема распределения долей в пропорции 5 к 95 между Лакшми, получающей малую долю, и ее брато",
+      "image": ""
     },
     {
       "region": "Мир",
@@ -73,7 +73,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 27 Nov 2026",
       "description": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "region": "Мир",
@@ -125,8 +125,17 @@
       "source": "DW Европа",
       "title": "DW",
       "link": "https://www.dw.com/russian/?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-27T10:15",
+      "date": "2026-11-27T13:17",
       "description": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "image": ""
+    },
+    {
+      "region": "Европа",
+      "source": "DW Европа",
+      "title": "Bloomberg: ЕС создаст новый многомиллиардный фонд для развития обороны",
+      "link": "https://www.dw.com/ru/bloomberg-ес-создаст-новый-многомиллиардный-фонд-для-развития-обороны/a-80072437?maca=rus-rss-ru-eu-4384-rdf",
+      "date": "2026-11-27T10:15",
+      "description": "ЕС готовит новый пакет кредитов и грантов на десятки миллиардов евро для финансирования оборонных проектов. В Брюсселе все больше ",
       "image": ""
     },
     {
@@ -166,13 +175,13 @@
       "image": ""
     },
     {
-      "region": "Европа",
-      "source": "DW Европа",
-      "title": "Европа все дальше: Калининградская область меняет торговые маршруты и экономику",
-      "link": "https://www.dw.com/ru/европа-все-дальше-калининградская-область-меняет-торговые-маршруты-и-экономику/a-80067816?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-26T17:45",
-      "description": "Как Калининградская область выживает между санкциями, угрозой блокады и разрывом связей с Европой? Почему регион все больше зависи",
-      "image": ""
+      "region": "США",
+      "source": "NPR News",
+      "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+      "link": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
+      "date": "Fri, 27 Nov 2026",
+      "description": "A powerful storm knocked out power for nearly 1 million customers and flooded streets. And, experts predict inflation will not dam",
+      "image": "undefined"
     },
     {
       "region": "США",
@@ -204,15 +213,6 @@
     {
       "region": "США",
       "source": "NPR News",
-      "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
-      "link": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
-      "date": "Fri, 27 Nov 2026",
-      "description": "Trump&apos;s sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The h",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5079x3386+0+0/resize/5079x3386!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2F2e%2Fbd2ef7014b16a3b474a9ef7aad59%2Fgettyimages-2301934612.jpg"
-    },
-    {
-      "region": "США",
-      "source": "NPR News",
       "title": "Screen free tweens try their hand at Dungeons & Dragons",
       "link": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
       "date": "Fri, 27 Nov 2026",
@@ -222,11 +222,83 @@
     {
       "region": "США",
       "source": "NPR News",
-      "title": "12 strategies to cut your risk of dementia. Take this quiz to start",
-      "link": "https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn",
+      "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+      "link": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
       "date": "Fri, 27 Nov 2026",
-      "description": "Here&apos;s something you can do as you gather with family and friends this holiday season: Take a free, five-minute quiz to asses",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5714x3802+0+0/resize/5714x3802!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffb%2F9c%2F9713cdb545dbb1fb84bae3122894%2Fgettyimages-2272594799.jpg"
+      "description": "Trump&apos;s sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The h",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5079x3386+0+0/resize/5079x3386!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2F2e%2Fbd2ef7014b16a3b474a9ef7aad59%2Fgettyimages-2301934612.jpg"
+    },
+    {
+      "region": "США",
+      "source": "США (СМИ)",
+      "title": "ЕС потратит десятки миллиардов евро на снижение военной зависимости от США",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSVJxZDFkSlNsWmc2TzJvdFJ1ZVJFMExYYTJPU1N6MGdpRThfQ0tkem5DMGZGTUVFZWVHdDhhWmNxYjhhVkUyazZWWUJDWFZjdlFGdEgwU2R1ZkY2d19Fc1hrVGVka2lVa0NrWjB2WWhvQnVZSC1kMm0tR09EQm1OdWVhS0pJU0FweGFwb1VFYnAyLWlUWkthTXZkV1RqZkFEbEF1Qk1aaG4xdw?oc=5",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "США",
+      "source": "США (СМИ)",
+      "title": "Хакеры взломали платформу облачных вычислений ВВС США",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRGU4N3hhSlFFV25wYTdlWUlmRkRVdEJ2QS15dWFxb3VYMzd1WUxvc00yZEdXSk13T3dlX2llZVh6amQwV25Ra1RSbTY3ajRodzFmZlc2eEY3UjFrWWNiZTNidi1OeDlOQ1VkNVhMejU5eVJxdk1FNlprdXZSYzYyTg?oc=5",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "США",
+      "source": "США (СМИ)",
+      "title": "Дефицит торговли товарами США растет четвертый месяц подряд",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZy1La2lnUnBIRjJvWnBqNkFVODdFRUVpbmt5NDF5czdLWGpiLURJcl9abWtadTJQRy1ib1RiYmdHRkM0TzV1bEJxSEZOQjVHZFFQMXROd0pBRFpmdndkMG9QLV9mOUQ4V2tOSzlmUUNjcW5hWXd3VGE4MEwwM0FSNjVKSTBRSGJIcm9VUHFxSXdBajFpR1lwaHExaWVLN3l1LWw5b3Y1eWQ4REI4YXpKODFSY3cyRFplMDlj?oc=5",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "США",
+      "source": "США (СМИ)",
+      "title": "Live - \"Синее цунами\": демократы берут под контроль Палату представителей и Сенат",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFNEtFREw4amtqTlJoOTh0Vk9DM3JvX0hrTmVfdjI0TUxZMmdqa2J5RDNPU3BNanJTMGhTemF2M01EZ3RqNXNWMTJkMFB6ZkUxZ3BISHI2elgwS3U5ZHdlTWIwN2lqUDg?oc=5",
+      "date": "Wed, 04 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "США",
+      "source": "США (СМИ)",
+      "title": "Трамп возмутился отставанием от России в важном аспекте - Инвест-Форсайт",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZXY2ZERPclltU3RXOUN5cDd4OVo5dEFhelhTdE82WkVxeVlEZ1NZaDNhQXd2RUFJNjI4YllCQ3daWElnUlVpWjFDUjd1VVZQZURZVDNnaXZYT0RuWXZLTE5SZHZndC1FSGpwNGxhZDFINmhQSTJzYXVFUy0tcnVkWEpzRHY?oc=5",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "США",
+      "source": "США (СМИ)",
+      "title": "Зачем Трамп пытается расколоть ОПЕК: рычаги давления США на Венесуэлу и Ирак",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZbmdZbzZSUGJXWXY0NGQ2RTFEV29NQ1JKTW9EeUkza2lZWkFsbmFXbGlxUHlleUdfWWZ0VkFJcHYxUDVOTmI0VEphc2o0WWZEaExvVmozbzY4UVVJSkZvWGN5LUJvaURrckhVTmp6bw?oc=5",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Азия",
+      "source": "Straits Times",
+      "title": "Global fashion brands shift orders from Bangladesh to India amid unrest",
+      "link": "https://www.straitstimes.com/asia/south-asia/global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest",
+      "date": "Fri, 27 Nov 2026",
+      "description": "Zara, H&M, M&S, Celio shift Bangladesh orders, mostly to India.",
+      "image": ""
+    },
+    {
+      "region": "Азия",
+      "source": "Straits Times",
+      "title": "Death toll in Pakistan building collapse rises to eight",
+      "link": "https://www.straitstimes.com/asia/south-asia/death-toll-in-pakistan-building-collapse-rises-to-eight",
+      "date": "Fri, 27 Nov 2026",
+      "description": "Rescue teams are still searching for survivors.",
+      "image": ""
     },
     {
       "region": "Азия",
@@ -266,20 +338,56 @@
     },
     {
       "region": "Азия",
-      "source": "Straits Times",
-      "title": "Thailand moves to pin down source of Myanmar mine river pollution",
-      "link": "https://www.straitstimes.com/asia/se-asia/thailand-moves-to-pin-down-source-of-myanmar-mine-river-pollution",
-      "date": "Fri, 27 Nov 2026",
-      "description": "Thailand and Myanmar agreed this week to establish 12 water sampling locations.",
+      "source": "Азия (СМИ)",
+      "title": "Nvidia прекращает поставки ИИ-чипов в четыре страны Юго-Восточной Азии",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT3RnYWZDbzMyZDBMY1FRZjZwZDZFZld0b0RLMEFkNjJ6bXowdENEY1dHcHZUWHp1dkJ3MnVIWmwwaGs3eTlyYUp2UXVsRWdKRXl5TWo1UTlyclFNOTlUQnNQOTctT01uX21JNFpyTDlPNm5yVHN0OG1meS1BcWZOd01EeWpQY2ZRWEJmVWdMMktHRm5SQUpTbTdtcHR6bzBmdXVvb2RoVmxQZWNNMTduMlY4QWNXekFuU1laYlhqRUxxel9IdTlIa3B3Zw?oc=5",
+      "date": "Thu, 26 Nov 2026",
+      "description": "",
       "image": ""
     },
     {
       "region": "Азия",
-      "source": "Straits Times",
-      "title": "Fleeing murder suspect crashes into elephant in Sri Lanka",
-      "link": "https://www.straitstimes.com/asia/south-asia/fleeing-murder-suspect-crashes-into-elephant-in-sri-lanka",
+      "source": "Азия (СМИ)",
+      "title": "Туркменистан намерен расширить железнодорожное сообщение между Азией и Европой",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSEpWUm9YdGp0aDFXM1BHQVdHR1Z2RUdqcXExUE1kWkJVdXhZYm43ZXRPRVhYbjdPODU5c01rcmtKZFBwTTFzTDhOT1loOExJOEs5dDk5VTZjVGx0SmMyTzFGQXRZQjlBWGZFeHNKRDVBRFJvaU10ZHJYSEY2UkpYNEUteFY5bGFRUDE3UEhsdnZjRHZfbmdSTWpBa3pSa2pSSjlXUGcwYnlQVFBCRnRr?oc=5",
+      "date": "Wed, 25 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Азия",
+      "source": "Азия (СМИ)",
+      "title": "Лукашенко направился в поездку по странам Персидского залива и Юго-Восточной Азии",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10MWtNMDBMU1ZmdjZsQ3ktNDFwSjlzb2p6czhETURJV0t3SkVFQmZKOTdMSFM4OTVpdEdBVDh2ZElOb3RDVW15Uzl6RVlsQdIBS0FVX3lxTE9ueG5oOHJtT3RMQzZISUlpR3FwZFZCd3VzUTVtY25hRzZFQ0RDV2NjTUZIbm5YdWpYZ1JxZnFPcWhPUkZDSXlSN0pPUQ?oc=5",
       "date": "Fri, 27 Nov 2026",
-      "description": "His scooter crashed into the elephant as it emerged from the jungle onto the road.",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Азия",
+      "source": "Азия (СМИ)",
+      "title": "FT узнала о приостановке поставок чипов Nvidia в Юго-Восточную Азию",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQk5mSmVoeTVpZXJGeldIcG0tM1ltSTRkOXVTelZ4ck9UcHVFVkgzVEFHNC1KMER0ZzczVUhrNDdsM2xqcm9QVHBEbUFQRS1LbXhoVXJMMWxpYWdGT3hHNDNzQTBoNVROeW1sZnduQjhOV3hDTE1QNVRFbEhpcjlfeU5Ec1UwVEo0eGNuRVJMcWVOUnpRaGVhR2dVVQ?oc=5",
+      "date": "Thu, 26 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Азия",
+      "source": "Азия (СМИ)",
+      "title": "Nvidia запретила поставлять серверы со своими чипами в несколько стран Азии",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLW5GMWpCaVZaeFlWWU13ZjA4djhPWDRNeGQ2MHQ1X0xfZVNPaE9SUTVXOUs2OGx4R2tjdkRHMldYMFFuWnlIbnBBZUdFSW96U2UtTEdoOW9OdndmR29KVkhyWHNyS0xSczFxUXM0ZnVFZFVZb2pVRzFVaVJjd004TU41QnB1TVJ5Y3dPcm9OQ2RVMEFabFRVOTB6Yy1JZ9IBQkFVX3lxTE5GV2hNN1AtclB3VkdrREY1X2NkZzFIYVBiTmVCbVhHMzV4N3NrNE1QQjlIbFlRaXlqMFpSQ2I0ZTQ5QQ?oc=5",
+      "date": "Thu, 26 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Азия",
+      "source": "Азия (СМИ)",
+      "title": "ИИ-стратегии Investing.com обгоняют рынки Азии в 2026 году От Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNSUc2VjB6YjJZdEc2XzZGNU40M25pTlkzc1FWbFRnaTZtc1JSLUpzakJNVGhTMVBzei1jRHdYU2FXLTF6TC01eWRuSW5naGNmeHdVX0dzQzVFMEF3R19UX19GMzE1eVd1VXJJVzY3VVA?oc=5",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
       "image": ""
     },
     {
@@ -335,6 +443,60 @@
       "date": "Thu, 26 Nov 2026",
       "description": "",
       "image": "https://video.cgtn.com/news/2026-11-26/Wang-Yi-says-openness-and-pragmatism-define-China-Netherlands-ties-1SnxlrZWtyM/video/wu_1k8amkhs3bnnui1jij68dnkea/wu_1k8amkhs3bnnui1jij68dnkea-750.png"
+    },
+    {
+      "region": "Китай",
+      "source": "Китай (СМИ)",
+      "title": "В Китае создали костюм, позволяющий роботу-собаке работать при 1000 градусов",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNkdfR1VNOHRSWUVFYWdET3VmZU8xYjY1NGM0bENuUXdXMlcxVHp2MTQyUk5SQ0NsNTk5NEFnQ3RvLVRMeWFpLTd2Tm9OenlhcnJWYWdMaGt0SHN0c3FfSG8zb0t1RUpNYUF1d0FHcWZIOGxzUE1QdEJCVm5ObmMyVWZfd2VlajJQUlloSWRGVmljUTlBa1JPemJYdXdNdkNHWngtZtIBQkFVX3lxTE8xME5NZThPMU50TnF0aVFSbW1NM3ZHRmxyLUpKeW1BcUJLSTduSlVRd1pFa1NtSmpBaFRMLTZ4NHIydw?oc=5",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Китай",
+      "source": "Китай (СМИ)",
+      "title": "Дмитриев: США и Китай заинтересованы в совместных с Россией проектах в сфере ИИ",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ZvdzF5M01iZS1VeTlvNW9nZ3RXUzFlUW9ldFZqRVc4eUhIekFGaHlhQW1fUEtOTjdJejBNY0VreXozRTF1NzhfbkFxNDAzQXc3ZWlzUkd5eWUtWi13aXpkeWVQWXY4cEIybnJsOHNGZTNJMmNsRm80dGhvUXl5Y3ZpSXFTaDI3bzJDVkJB?oc=5",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Китай",
+      "source": "Китай (СМИ)",
+      "title": "В Китае отреагировали на новые пошлины США, о которых стало известно после визита Трампа",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcXZEb2pvbWZ1MDVCR3FUdmRVQUNLWS0zYlcybjlrRHp2cmd1Qk4yTkxmQ1ZCeXZ4cldzcU9nWEowRWUxVmloZWtBZGRYN012MXgtQWlqTDZEYWN2Uzd5aDdSLTVtdWdVcmtxZThibTlBOFk3VVlreTJ2VmV4cFhwNlBYQ0NMZnc0QWhLVXgzcVo1Vm5SYnBjX05ySlFMRFZKN1B2ZTJFbzZLSmFnRGduZ2RoUTZWUmtlRmc?oc=5",
+      "date": "Thu, 26 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Китай",
+      "source": "Китай (СМИ)",
+      "title": "АБН24: Франция выдвинула России жесткий ультиматум — ответ Захаровой рассмешил Китай",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN3JYXzlOMXdHR2Y1UUY0dGlMYV9PaFVSaVRIQ1JVUThXYkpKVmltZ3JxNnZINGVjckdPcDFGU2xpMExJbnFSSFZKRVpKaGVhY2lPMnV6S1U5QlRJSW5MNkFqVnlWeXItN1BhdjZGLWpiN29vYk5HYURxd2ZuRTZTT0pRRDduQTlRd0NCMVpCekRDekRIc2VOSVpqQjFieGZIVGZfMjM5c2RLZlZ3S1R4c1BoOENZWUZreWc?oc=5",
+      "date": "Thu, 26 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Китай",
+      "source": "Китай (СМИ)",
+      "title": "Россия и Китай планируют создать единую систему мониторинга амурских тигров",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoV3NkQnNBSW9BR05NNEJIOFJPbmVTSVZnamItQVZXOGRhZ2JBZThhcmxEbl9ocXVmSU43eV9fd0lFdmRUZFJHZi0tZFZvU1XSAUtBVV95cUxQWk91b0tIb0lFTkhISkYxWkhmYjF5V3RwNlBLeVVUT1FVMWdrRHVKd1VhVWJhakVhTUNSRnQxdUVudUZMYVc0REs1cFE?oc=5",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Китай",
+      "source": "Китай (СМИ)",
+      "title": "Москва помогла в три раза нарастить поставки кваса в Китай",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Wc1VoWkZFQlBSV241dlJQMWJQUzN1LVluVWI2N0dERjVQakNBMzZhaDl4UnZDUG5xb3dkUGhGUTY1UG9CanQ4Rk9tRXpvOC0z?oc=5",
+      "date": "Thu, 26 Nov 2026",
+      "description": "",
+      "image": ""
     },
     {
       "region": "Таиланд",
@@ -436,58 +598,202 @@
       "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/cover-b-5.jpg"
     },
     {
-      "region": "Россия",
-      "source": "Лента.ру",
-      "title": "Появились подробности об историческом интервью основателя «Вагнера»",
-      "link": "https://lenta.ru/news/2026/11/27/poyavilis-podrobnosti-ob-istoricheskom-intervyu-osnovatelya-vagnera/",
+      "region": "Таиланд",
+      "source": "Таиланд (СМИ)",
+      "title": "Россияне любят отдыхать в Таиланде. Но только с начала 2026 года там как минимум 30 раз (!) пропадали граждане РФ",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMDR5aFEwNmVvTVlINjNuTm1QY1hPamxDQUpuM0lnelVPdnpGRXlfRFgtcEpxUkZvS3RQUU8xWUdtcHlqY0o1LUM2UXdCV04ybWlxZndzYWNTaEUxN3hJcFRHQXoxVjhXMGJRdjFlOXlpbFdmel8zeXd4dmVmV25HSmhGMmVwQlMtZDV2N3ZtOUNTMGs2R2t3RnhMQ1pUR0pvWThxVVBuMG5XS3BaWFVZTl81OGpxOENyZE9qdUljdWvSAcYBQVVfeXFMTjNFVU1YTHlIdTVZa0ZybzFkcE44MFZFX0NoSTVRWUZGT2RRaUQwcnpDMHVzYl91VEJ6bVlMWFhjXzRYMEtoWVJkdjhuYkVqOXZTXzE5a2tlekQ4ZjdvSVpSN0ozY1JlYjdkLTBrS08xaWR4V0dBZXpPc1JFT2ZIeURuam54am5Ibms1Vm9zV2NaeDRkY2tIRkFqQnhBMjNVaVJFNmtPeTh5NWVtR3dqT0tmSVZYRzBWUTRYWlNpQnJjQjBCcC1B?oc=5",
+      "date": "Thu, 26 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Таиланд",
+      "source": "Таиланд (СМИ)",
+      "title": "От Суздаля до Таиланда: куда россияне поедут на новогодние каникулы",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGZxSTVCUzRRb3RUTWpBeUFLa3JWZXU5enl0dXpHSEZHc3pQelFqbkl5X2pEeG5XRmtMdWZlX3BXYXNrLUt1YlhvcXRSMU53UWI2NTB0Wkw3eV95Umx0OHdXejZ6ZlViUnozdEdWVXM5RnB2ZnJ0d29nQmNWYVpRQ2V0b0xPX0JRbUFydnRkSDkxeU8zNWl1YmdmVmQ?oc=5",
+      "date": "Thu, 26 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Таиланд",
+      "source": "Таиланд (СМИ)",
+      "title": "Таиланд, Малайзия и Сингапур заявили о планах продолжать обсуждать с США пошлины",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wY2RmTXNCNzBGSEhVN0ZIUF9RR29BdHJUYTlWSHNyWmJXd2dPZnFpV01VdzhsRU0yV0Y3WXdFWFdSemxCVDJEQW5mWGFEZ9IBS0FVX3lxTE5GVE5UX05fcTFZVGk3ejJfb3VOSlhSWnNDcEI5TVJ3RTRoM0FSZ1dVOHhxTnA4UGdUY3NhRzl4RWFBQXB1azdfUDBnOA?oc=5",
+      "date": "Thu, 26 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Таиланд",
+      "source": "Таиланд (СМИ)",
+      "title": "FT: Nvidia запретила отгружать серверы со своими чипами в Малайзию, Сингапур, Таиланд и Индонезию",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5DaTZMZDJyUS14dHpZb2lYY282ejF1d1BrTkEyNWIzMXhtckdxbnpkR2UwY29IYVh6bGFRZWVGa1kyTFU?oc=5",
+      "date": "Thu, 26 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Таиланд",
+      "source": "Таиланд (СМИ)",
+      "title": "Таиланд создан для двоих: лучшие курорты и отели для романтического отдыха",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUNaSDBxMkthSFRnbHN0dkVaN3VyS1E2ckFFTnRvU3RHV09nY21BT1pfdkVwVWNsRFdWTngzRHI0VlVPVngzRkl6bW1TU0h3WS03dFBOZHRZLUhWdWtuSjdSZ1NFaVZ5OFI1cVZuTlpqVVhTR01wbFE1NmZKbVpLZ1dnSjUzbG9RNVhZNkV4cGZILXR4NUNNRW0xcF9nWjloT1dGdDZWZE80cmJDV0lYNQ?oc=5",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/14/20261127144629656/pic_dae912e35cdb67e7c6f002c8877f7f78.jpg"
+      "image": ""
+    },
+    {
+      "region": "Таиланд",
+      "source": "Таиланд (СМИ)",
+      "title": "Россиянин выжил после падения с 15-го этажа в Таиланде",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUkxmVWF2bEdqRkE0T2NsZFFydXg0dkE5ajNVRGk4d1VZV1hITTVZY0FnWG42OXJYMHRDY0M3bS1qblh2SmFja2xyOGNqSHBlU2ZxMDBqMlNibkxKZER2VHlzV2xhY0pKWmFzNkZfRms5aXlpX2dFX2EwOERyS1BKN2VZdmtaYkJzdmc?oc=5",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Паттайя",
+      "source": "Паттайя (СМИ)",
+      "title": "Россиянин выжил после падения с 15-го этажа в Паттайе",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOV85RnJPZGZ5aEF5QTA0aE5sU3ZBc1dod0FMUmNpbHJuekdOaGctRWtSSHA2MTM1bnB6eTdxZnRsUGlKWkZYTVBEbTQ3R2x6NlpMbkN2MjEySDdMSG16SVFPajRCN21KbF9FNTRJeGZpU2ZBTUU3TUtiMnc1S1JkemZNNF9kUmVUSWVmb9IBlAFBVV95cUxQV0VvdGwxUDNBYUJjVktrZzlYVkU3R3FkNlVJc2NFWEp5aWtkN2FYTVdYZmFxRkVkaVNaLTl6WmRqbkd4cC1BRENCcU9FTUVyZlZQanFTY0U5emdtektjSTlTaU9VdDZ1RUlUVHZWOEE5am91N2o4SEVNUkdNeFFId3pHU0tucjFKRVh1Z2NtUlBEemN0?oc=5",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Паттайя",
+      "source": "Паттайя (СМИ)",
+      "title": "Турист из России упал с 15-го этажа в Таиланде, но выжил",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2x0dkp3QmNGYUZaTUUwSWNZQk5faVYwdjJvNlRreWRwOWx4VkxjUzNOLXNTMU9XQ24xNGhfY1kwbHFiRHEwRTk3YUIzZDRBRWtvT0lraXU0VldIamI2MFNZbnV0R193QTlqSGJaYndnQlBuZkJtNzRKcGVpWUZVbHFpWnZ1N1JfNHZ6WGsyUGRvLVMw?oc=5",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Паттайя",
+      "source": "Паттайя (СМИ)",
+      "title": "Турист из России пережил падение с 15-го этажа в Таиланде",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0ZEVDhCT2k0eTV4M05EWXRZUkdxVWM2N1dxQ3RvX0hyS2tGcnBEVW8tdjZ5a2JxRWI5RTlaMHB3QUJJRUpYSGdoMHBPb2prc2hmUHNQR1NzWldGaWk0Y0pBMXpLNmNuOXlYcHBPNkZRTEd1WFlTY2NhaFNUWHF3Y0hKQWVOWEc50gGOAUFVX3lxTE4tdDZkbG1tZ0J1djQ4RDdDb0oxYUFEMWlGekREcW1LaWdXZml1Um9jNUtiMGpyUVpBdDk3cUFGeV9CSzFEZm1jZFZEQWZIdDBKMlRKaEpUWFVSUHBRQkNZeUdEQktMSnZJd0M1NjByNjZkekZGZU1zZHNWZVByXzBWR0FtMkJrWnQyYWhsa1E?oc=5",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Паттайя",
+      "source": "Паттайя (СМИ)",
+      "title": "Россиянин чудом выжил после падения с 15-го этажа отеля в Паттайе: подробности, что известно",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE03Z3FuNDBnbVhBdTU3d0dMU1g0aU5aT1BTTUc4TW5KOF9HWlpGV0xwdEdMb3BLVkh4VVU0NWE4cmZsRFRPNlQw?oc=5",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Паттайя",
+      "source": "Паттайя (СМИ)",
+      "title": "Россиянин упал с 15-го этажа в бассейн в Паттайе и выжил",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON2dTeU9xVF8zYUhQRmRDbnB0ZFM1OEZUUV9vbkdTMkRBeUxmUTBLNExzcmJaXzFybV9WZUxVOGhkd0VjalhxZ2ZZQVp0Tk5rOFlORTQ0MWw1UjliYTlRTXZFeTc0bE90b0dIdjBYb3NVLTM1ODJhamh1QjFYTnBLN3pjTQ?oc=5",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Паттайя",
+      "source": "Паттайя (СМИ)",
+      "title": "Трагедия в Паттайе: пропавший российский турист найден погибшим у острова Ко Лан",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WNkZyZVhSSThMWmU3U3N4eldYSGRvWFVIZUZBdWhMY19WYlVPdEdtMTNsZkNiNlpzWGRpeDZGa182TDVqOWlMcWR4WQ?oc=5",
+      "date": "Thu, 26 Nov 2026",
+      "description": "",
+      "image": ""
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Ученые восстановили рацион средневековой лошади в древнем русском городе",
-      "link": "https://lenta.ru/news/2026/11/27/uchenye-vosstanovili-ratsion-srednevekovoy-loshadi-v-drevnem-russkom-gorode/",
+      "title": "Крупнейший мировой автогигант зафиксировал обвал спроса",
+      "link": "https://lenta.ru/news/2026/11/27/krupneyshiy-mirovoy-avtogigant-zafiksiroval-obval-sprosa/",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/assets/webpack/images/lenta_og.8735b949.png"
+      "image": "https://icdn.lenta.ru/images/2026/11/27/16/20261127165445524/pic_cd66251e2ee5eba0ab7c91eb7b057aa3.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Москвичей призвали отказаться от авто на вечер",
-      "link": "https://lenta.ru/news/2026/11/27/moskvichey-prizvali-otkazatsya-ot-avto-na-vecher/",
+      "title": "На Украине заметили «зенитный раритет» из Швеции",
+      "link": "https://lenta.ru/news/2026/11/27/na-ukraine-zametili-zenitnyy-raritet-iz-shvetsii/",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/14/20261127144404361/pic_25f33e911f9bba01688ada09d26c84e1.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/27/15/20261127154638605/pic_a23747cd09cce878247ecaad6d78e34d.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Макрона обвинили в саботаже мирных усилий Путина и Трампа",
-      "link": "https://lenta.ru/news/2026/11/27/makrona-obvinili-v-sabotazhe-mirnyh-usiliy-putina-i-trampa/",
+      "title": "Мужчина поймал древнюю рыбу времен динозавров и установил новый рекорд",
+      "link": "https://lenta.ru/news/2026/11/27/muzhchina-poymal-drevnyuyu-rybu-vremen-dinozavrov-i-ustanovil-novyy-rekord/",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/14/20261127143408935/pic_7257e1feda150bdb9238b592a831ed6a.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/27/14/20261127140345062/pic_9c2e8a3acd2788e553da19597d4f8cbe.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Задержанная за рулем россиянка объяснилась празднованием развода",
-      "link": "https://lenta.ru/news/2026/11/27/razvod/",
+      "title": "Студент пришел в российский колледж с семью ножами и электрошокером",
+      "link": "https://lenta.ru/news/2026/11/27/student-prishel-v-rossiyskiy-kolledzh-s-semyu-nozhami-i-elektroshokerom/",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/14/20261127144805182/pic_b7b951b84621323a6554ab4fd1d9de64.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/27/16/20261127164508341/pic_c12be2abb88e5b3180888187bfcfbee7.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Audi в Гуанчжоу представила новый кроссовер",
-      "link": "https://lenta.ru/news/2026/11/27/audi-v-guanchzhou-predstavila-novyy-krossover/",
+      "title": "Энтузиасты разогнали GTA VI на PS5 до 40 fps",
+      "link": "https://lenta.ru/news/2026/11/27/gta-fps/",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/14/20261127145243646/pic_8a4e75af1c20481924326940cefc06e6.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/27/16/20261127165429147/pic_b44f706454e25dd0a5a77b4836cf56d2.jpg"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "МИД России заявил об акте политического безумия Эстонии",
+      "link": "https://lenta.ru/news/2026/11/27/mid-rossii-zayavil-ob-akte-politicheskogo-bezumiya-estonii/",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/27/16/20261127165013600/pic_10e092c77f92421b3d556757eaec1b16.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "В Барнауле водитель автобуса прижал пассажира дверями",
+      "link": "https://www.amic.ru/news/v-barnaule-voditel-avtobusa-ne-hotel-delat-ostanovku-i-prizhal-passazhira-dveryami-597662",
+      "date": "Fri, 27 Nov 2026",
+      "description": "В результате инцидента у мужчины порвалась куртка",
+      "image": "https://www.amic.ru/images/news/news/543125_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "В филиале РЖД прокомментировали ситуацию с поездами, \"разрезающими\" село Шипуново пополам",
+      "link": "https://www.amic.ru/news/v-filiale-rzhd-prokommentirovali-situaciyu-s-poezdami-razrezayuschimi-selo-shipunovo-popolam-597661",
+      "date": "Fri, 27 Nov 2026",
+      "description": "Там напомнили, что ж/д — зона повышенной опасности",
+      "image": "https://www.amic.ru/images/news/news/597661_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "Россияне потратят на новогодние подарки почти четверть средней зарплаты",
+      "link": "https://www.amic.ru/news/rossiyane-potratyat-na-novogodnie-podarki-pochti-chetvert-sredney-zarplaty-597660",
+      "date": "Fri, 27 Nov 2026",
+      "description": "В среднем на сюрпризы для близких может уйти 26,2 тыс. рублей",
+      "image": "https://www.amic.ru/images/news/news/597541_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "Правительство РФ на полгода запретило экспорт гречихи",
+      "link": "https://www.amic.ru/news/pravitelstvo-rf-za-polgoda-zapretilo-eksport-grechihi-597658",
+      "date": "Fri, 27 Nov 2026",
+      "description": "Также в стране обнулили пошлины на бобовые",
+      "image": "https://www.amic.ru/images/news/news/570074_size2.jpg"
     },
     {
       "region": "Барнаул",
@@ -509,39 +815,165 @@
     },
     {
       "region": "Барнаул",
-      "source": "Амител",
-      "title": "Более 60% жителей Сибири обращались к нейросетям за финансовыми советами",
-      "link": "https://www.amic.ru/news/bolee-60-zhiteley-sibiri-obraschalis-k-neyrosetyam-za-finansovymi-sovetami-597656",
-      "date": "Fri, 27 Nov 2026",
-      "description": "Чаще всего искусственный интеллект помогает сравнивать банковские предложения и выбирать вклады",
-      "image": "https://www.amic.ru/images/news/news/574339_size2.jpg"
+      "source": "Катунь 24",
+      "title": "Овен рискует заскучать, а Близнецы будут полны энергии. Гороскоп на 24 ноября",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9TdWo1ZXVrbjN3UzBPak8zVk5SQWFoeU52T2FLYXhnMlZwWVJkSl95WTE2R3pDbzI1YUJDV3JBMWFFSVJQ?oc=5",
+      "date": "Mon, 23 Nov 2026",
+      "description": "",
+      "image": ""
     },
     {
       "region": "Барнаул",
-      "source": "Амител",
-      "title": "Лес обрадовал россиян \"грибным раем\" в конце ноября",
-      "link": "https://www.amic.ru/news/les-obradoval-rossiyan-gribnym-raem-v-konce-noyabrya-597651",
-      "date": "Fri, 27 Nov 2026",
-      "description": "Любители тихой охоты собрали урожай рыжиков и мышат",
-      "image": "https://www.amic.ru/images/news/news/597651_size2.jpg"
+      "source": "Катунь 24",
+      "title": "Активность Тельца будет не всегда уместна, а фантазия Девы заработает на пятерку с плюсом. Гороскоп на 27 ноября",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5sMnlJQUNKa2I3VmJ5WFFuSFlHeGwyNUQxdHpCSkJfZUlQMzFBVGxTYzIxYzItQk1CZWZDdVBkYUV5YW85?oc=5",
+      "date": "Thu, 26 Nov 2026",
+      "description": "",
+      "image": ""
     },
     {
       "region": "Барнаул",
-      "source": "Амител",
-      "title": "В Евросоюзе задумались о сокращении финансовой поддержки Киева",
-      "link": "https://www.amic.ru/news/v-evrosoyuze-zadumalis-o-sokraschenii-finansovoy-podderzhki-kieva-597650",
+      "source": "Катунь 24",
+      "title": "некоммерческая организация",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12VkhfcmxlSkZoaUhUaThzRDZ6eUkxQXg0R2hsZHZ0QmZHdWQxMEtPeDA1VnlXN1kxWlhKdzRUakF2X0szeGFDbFB5VlRIekxMb1dQSHNOQkc1N2FTTlMzUmVHSQ?oc=5",
       "date": "Fri, 27 Nov 2026",
-      "description": "Все больше стран ЕС осознают ошибочность своего подхода к Украине",
-      "image": "https://www.amic.ru/images/news/news/584234_size2.jpg"
+      "description": "",
+      "image": ""
     },
     {
       "region": "Барнаул",
-      "source": "Амител",
-      "title": "Жительница Алтая похитила крупную сумму у друга во время посиделок",
-      "link": "https://www.amic.ru/news/zhitelnica-altaya-pohitila-krupnuyu-summu-u-druga-vo-vremya-posidelok-597630",
+      "source": "Катунь 24",
+      "title": "аварийное освещение",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uejVIUDdoNWJzLW5RMnFxTWxMVG8yb0tya1dOSS14d3hZNHRuQWdLOE91UGU3MUZJMElGUjBEYTB5WWpoYTRPbkhoYmxCWENrTHZSMFlYSmI0Zw?oc=5",
+      "date": "Thu, 26 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Барнаул",
+      "source": "Катунь 24",
+      "title": "рога марала",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jaFo5VDlnOTNOS1VuV3VCUFpoYkJyendKbVc0Z1NzSElkNWR6U3I3SmtwSG9JLTJBb0M2d1pLYllablFVVDk3d3pXSQ?oc=5",
+      "date": "Thu, 26 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Барнаул",
+      "source": "Катунь 24",
+      "title": "В Близнецах проснется настоящий бухгалтер, а Лев может демонстрировать упадок сил. Гороскоп на 26 ноября",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9VMU52MHZ3Zm0yNnZSVWtIN3ZQN2FfUEZxaVBXOUdCNGtEb0ZsdEdTdllKMUpkSXR6YlJPTjRualUtdjcx?oc=5",
+      "date": "Wed, 25 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Барнаул",
+      "source": "Алтапресс",
+      "title": "На Алтае нашли покрытую золотом фигурку неизвестного зверя",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQTh3VVhZQVBPT0N1ekVyVHhOSzMwUTF3XzN3c040SzRIRzd3NWNtWHBGcFpwVDJELUxFN3M3SVp0WVpGLWRlT3lLdzhnY2hNaFI4ZFlmdXV4MTlkdTlGdWFSVlVHaHlsQ0VIVGl2ZUdQanBXWjI2N3BwQ3dCMXEtSERtV0piZGdPb013OUxmV3MycFRRYzJqU3lhRDZSTW9tT2tEelFjNzgwTUJNbnhrUmJNQ1FLNWM?oc=5",
+      "date": "Thu, 26 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Барнаул",
+      "source": "Алтапресс",
+      "title": "Сибиряки не боятся кататься на велосипедах по тонкому льду водохранилища. Видео",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRUNxRGE0QzdzR0gyTFQ1UFZKb1JzSk9xam9fclVZd3Z3Vk5QeHhVQ3RZeVNpU3R1QXROQXVGd3dIcWF2YTNzYllZUWNRbzg5WXNoVHZEMHRtamxvLVJ1a0FCUXh4Q2paVXRyamdBWFJsbl9BZ25iSFB2aFFSZGhYbXVfXzZHejR6UVRDWWNfRUlvRGQyVS00RjduUjA1ODlua2t2SmJRMDZvMVRIWC0wUHBNTE1VX3pr?oc=5",
+      "date": "Wed, 25 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Барнаул",
+      "source": "Алтапресс",
+      "title": "В Барнауле пропал 69-летний мужчина с седой бородой",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTHctbXgxY09mZkhNMUJKb2YtajFhTy1IenBudUFaQmNSendkLXlMUUVRaGRJY3gwS2NLLUtheEE5MVdlSWQxM1huRGNXb3FoNmxNOGZ3eURVb0VpZlNjdFhuYXhyb19JYkRQUTJLaE1VV3ZJUzFhRnNmblU5ME9SX01HZnV6ZnhIR01Xcw?oc=5",
       "date": "Fri, 27 Nov 2026",
-      "description": "В дальнейшем похищенными средствами женщина распорядилась по собственному усмотрению",
-      "image": "https://www.amic.ru/images/news/news/584210_size2.jpg"
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Барнаул",
+      "source": "Алтапресс",
+      "title": "На мясоперерабатывающих предприятиях Горно-Алтайска выявили нарушения",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVkllWTlORGtSYzFaMUhaQ1RFOVlwdnF0R0N4SVUyS3k5eWVaQVhlMC1ZdkNQMDhOVDFnNlNIM3BqM1BEUXVzbElnQWpNYi05cDlUOXBXRU5vRzh1dGVvZ3BrT2Jva1dsYWJGZ3lnU0ZUU1NMZXdidzViTEFTdFQwZWNmdWxIRHVyYlhGbHA1aXFvNWhZc3FSMzhlU25SR3BxWEowUzhhaXhoeV9BWHJ2cGNfOA?oc=5",
+      "date": "Thu, 26 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Барнаул",
+      "source": "Алтапресс",
+      "title": "Глава Минздрава посоветовал россиянам вернуться к ношению масок",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0Uydkpxb08zdUp4QmZLWG9QODNVazA4bUNxTU9uLUJUZzc2QmZwcG9sWDhHeXg4Qm5QaVdjdEtlMWw0LTZwWkw2RTJUU1dvaDAxUGR3V3dRM1ZjTmxqNlNLV1dGRHdkRG1qa1JCdDBKdmx1MkFjZVcxM19Vc0VobTEtcF82bGgtQkhoSmcySmJ3YldFandDbWtZTmlxZDRlQ3c?oc=5",
+      "date": "Thu, 26 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Барнаул",
+      "source": "Алтапресс",
+      "title": "Барнаульский планетарий пригласил на бесплатные киносеансы",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaWFRMkJCcXJDNWZJM2VIRmQ5QVR0QWE1LWVzZkEzTlRUbHJ1cFpCMlp4WGlwaTVZSzB1b1lGVjAyVUtlWHZhOGxCZ0lWUjg0LW1rMDhOMHFsZURIdEtqb1pTMy15UlJzLWtUX1ZVcnlJY3hYUmtVWGpGOEVVUUQ0aGpfM0NmaDR4UGVoLWRBRjlfUkRpT1E?oc=5",
+      "date": "Tue, 24 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Барнаул",
+      "source": "Барнаул (СМИ)",
+      "title": "Сын рассказал о матери, погибшей в массовом ДТП на Бердском шоссе в Новосибирске",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2cwS1gwZ1pKUmh1SmdER2pKa0xtRC1Xd0hrblhUWi04QUQzQnVUX1A0ZlZWRFh4NjVLRVdoMjdadlRiSVk4aEl0S1IwMkt0bkVnNWFXUzhtRzVRMWpPZGVRc1NlaHM4VjNXZWdsSkVoYU9rN1ExOTJCRWpQejJIYlJnMEJ4LXl2WHJJVzRxUmhUU2M1MXNDajFpWXE1YVhuV211aF92WUtHSVJjbzRhTmtocjJMUWpwRGRBRUJB0gHDAUFVX3lxTE9VS2RUUVhkTnpTd2tvWldrcUw4eEZUa1JNUUlrSTFCZTFKbkVMRFpIQmZkdUladHh3U3FzZHhOeFZoQjVtOWdGd19qbFZJalFhbHFsa3plWFVoMjRrUWxCdmxMUTBBTTVVR3liTmFydzVmNDR3elFsT2xlcGRUZ1NiRWxveFRETnRNaTRwaGhEZlR1ajNHMk9CT2pISXh3SGNERHVWa0NnclpnR256Rl9NNXU5TEY2aGo1U2k4UE1zakRuaw?oc=5",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Барнаул",
+      "source": "Барнаул (СМИ)",
+      "title": "Экс-начальник барнаульского отдела СК не смог оспорить приговор суда по делу о мошенничестве",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hbWtFelM0WkM4LUdwd1pRT051YkdVWTRSTHRBeDRvSWdudmJjVmgwRFRqaDZXd05HZEFUZ2R5WGRPSFdOM2F1M28yZw?oc=5",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Барнаул",
+      "source": "Барнаул (СМИ)",
+      "title": "Кто стал жертвой смертельной аварии с участием Турбобатюшки?",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU1FKX3JVLXZwSlZ1eUZnaEM5QVpQR0dLWGtPYW43TUZmM21PRVFkTVVjamZEdUFkbE9yVTljOEszc1BwZ21tSlMxdWgyck1OMktDTlBGXzBoSXg3X0lYTUJvSXdvXzVueUt3YXAtQkpxOTJ3emd3VVBzMlpZSGMyTlFzanlBQWpUNjdrUjlwUUxVaVpxOVZPUkFKQmx1dmhGN245VUxwa3QwaDAwUFhZ0gFLQVVfeXFMTTRXUzdBN1FMQmRxb3VQckNNRzZYMUxYYkhwTkUwNmtuSVozVlVKckNnRlJQN1pmXy1kdmZrejZuMlE2WE9BUS1BcnV3?oc=5",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Барнаул",
+      "source": "Барнаул (СМИ)",
+      "title": "За свет в большей части Барнаула будет отвечать \"Алтайэнерго\". Куда звонить при аварии",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd3dGeEc3MGRBZHZudEJQTEV3MnQ0UV8tTnlsekVuS05JREFaR2E1djRhQlNtWFUzeU5GZVlPb1FjemM5M0VoSVFRZUI2Q2tVUnoxS21iTVlSU0VhaEU2clgyTkRlSVR4Vy1keEhhNzdDb05DeXVPN2c0MURkTFF4ZFpuaFBTTTNJc1BPOHZWcWEwd1RXMFFWVDZsbkx3ZFpuMHRZYUQ4dndOYUdBZ3NXRDNrTGpvWGvSAUtBVV95cUxQbGw5emJwR01XWnFSX1VTVG1jNTBmN24yRzZSY2hlOTJ5T3J5YXM1V3dWd01BMGhmMXoxRUlGMmFENHhRTXMydkxEU28?oc=5",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Барнаул",
+      "source": "Барнаул (СМИ)",
+      "title": "В Барнауле перевели 100 частных домов на газовое отопление",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBKdWZnZDdydU51SU1GMlhmQnk5UjVkbFhpQlRURHQ4MUtJYndRTmtqc3J0SGh3RHRUUGpiRjNObWtyNk1M?oc=5",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": ""
+    },
+    {
+      "region": "Барнаул",
+      "source": "Барнаул (СМИ)",
+      "title": "Одни требуют сноса, другие — ремонта. В Барнауле разгорелся спор из-за пятиэтажки",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTWRBZEdTNW5GR1pYcFY2blJzWmliLVg2aWdTUFNrMkdkcFFjbFRQQWQ0WlZKUmpyTnZMc0o4N1N0d1I5T2ZhdzI4V2Z6ejI4REN4ajZlQllhM29wSG1mZGYxYmQ0Wld1bi1TcXUxTDRXRWdYOFhHMHA5RmZXRHlJZEs3SUVtWGFDTHVFalZicjJaMTdxeU9SS1pmM20xakRQdndURHVKd1dTWWpMbHBuRXFZWdIBS0FVX3lxTE1lQkdvR0NFUUhoY3ktSVV2Tll3YVVobzY4Y1BobFJmT3Nvb0NRQ25hOGRlMmk0blgxcTdrWGN3OFk4dkZBeGRlMzZPUQ?oc=5",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": ""
     }
   ]
 }
