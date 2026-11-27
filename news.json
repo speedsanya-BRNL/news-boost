@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28 03:01",
+  "updated": "2026-11-28 05:01",
   "categories": [
     "Мир",
     "Европа",
@@ -15,56 +15,65 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Членам Консервативной партии запретили выступать за возвращение Британии в ЕС",
-      "link": "https://tass.ru/mezhdunarodnaya-panorama/28363903",
-      "date": "Fri, 27 Nov 2026",
-      "description": "Также ее кандидаты на выборах в парламент должны поддержать выход Лондона из Европейской конвенции по правам человека и отказ от п",
+      "title": "Al Ikhbariya: террористы атаковали патруль сил безопасности Сирии в Дейр-эз-Зоре",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/28364041",
+      "date": "Sat, 28 Nov 2026",
+      "description": "Погибли двое сотрудников, сообщил телеканал",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "В аэропортах Пензы и Саратова ввели ограничения",
-      "link": "https://tass.ru/ekonomika/28363917",
-      "date": "Fri, 27 Nov 2026",
-      "description": "Прием и выпуск самолетов приостановили",
-      "image": ""
-    },
-    {
-      "region": "Мир",
-      "source": "ТАСС",
-      "title": "Еще один случай заболевания оспой обезьян выявили в Петербурге",
-      "link": "https://tass.ru/proisshestviya/28363915",
-      "date": "Fri, 27 Nov 2026",
+      "title": "В Архангельской области отметили высокие показатели выявляемости онкозаболеваний",
+      "link": "https://tass.ru/obschestvo/28364039",
+      "date": "Sat, 28 Nov 2026",
       "description": "",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Magyar Hang: в Венгрии отменили запрет на въезд командующему беспилотниками ВСУ",
-      "link": "https://tass.ru/mezhdunarodnaya-panorama/28363911",
-      "date": "Fri, 27 Nov 2026",
-      "description": "Въезд в Венгрию и другие страны Шенгенской зоны был запрещен Роберту Бровди в августе 2025 года как организатору ударов ВСУ по неф",
-      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261127/9604457.jpg"
-    },
-    {
-      "region": "Мир",
-      "source": "ТАСС",
-      "title": "Аудиоспектакль о расстрелянном в 1938 году мельнике представили в Новгородском музее",
-      "link": "https://tass.ru/obschestvo/28363907",
-      "date": "Fri, 27 Nov 2026",
-      "description": "Действие постановки разворачивается в пространстве музея под открытым небом",
+      "title": "Бассейн в Северодвинске планируют открыть в следующем году",
+      "link": "https://tass.ru/obschestvo/28364037",
+      "date": "Sat, 28 Nov 2026",
+      "description": "",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Посольство РФ: Италия может стать следующей целью Украины после Ливии",
-      "link": "https://tass.ru/politika/28363895",
+      "title": "В Южной группировке заявили о бегстве ВСУ на Славянско-Краматорском направлении",
+      "link": "https://tass.ru/armiya-i-opk/28364035",
+      "date": "Sat, 28 Nov 2026",
+      "description": "Разведчик с позывным Людвиг добавил, что украинские силы пытаются \"огрызаться\" на этом участке фронта",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "ВРП Архангельской области приблизится к 1 трлн рублей по итогам года",
+      "link": "https://tass.ru/ekonomika/28364033",
+      "date": "Sat, 28 Nov 2026",
+      "description": "Показатель достигнет, предварительно, 922 млрд рублей, сообщил губернатор региона Александр Цыбульский",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "В Венгрии объяснили, от чего будет зависеть ее позиция по поддержке Украины",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/28364029",
+      "date": "Sat, 28 Nov 2026",
+      "description": "Депутат от правящей в республике партии \"Тиса\" Жолт Юдак отметил, что Будапешт примет решение, исходя из влияния условий выделения",
+      "image": ""
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 27 Nov 2026",
-      "description": "Москва неоднократно предупреждала мировое сообщество о крайней опасности заигрывания с киевским режимом, отметили в диппредставите",
-      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261127/9604449.jpg"
+      "description": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "region": "Мир",
@@ -96,29 +105,20 @@
     {
       "region": "Мир",
       "source": "BBC World",
-      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 27 Nov 2026",
-      "description": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg"
-    },
-    {
-      "region": "Мир",
-      "source": "BBC World",
-      "title": "Leaders clash in final Spain election debate as housing dominates run-in",
-      "link": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 27 Nov 2026",
-      "description": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a0/live/2d2b3d80-ea39-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "region": "Мир",
-      "source": "BBC World",
       "title": "Brazil pushes back on Macron calling its meat 'doped'",
       "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 27 Nov 2026",
       "description": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and p",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23bb/live/01c67d00-ea73-11f1-a828-d384c0290f6b.jpg"
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+      "link": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 27 Nov 2026",
+      "description": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a324/live/235d3bb0-ea97-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "region": "Европа",
@@ -213,20 +213,20 @@
     {
       "region": "США",
       "source": "NPR News",
-      "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
-      "link": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
-      "date": "Fri, 27 Nov 2026",
-      "description": "Trump&apos;s sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The h",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5079x3386+0+0/resize/5079x3386!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2F2e%2Fbd2ef7014b16a3b474a9ef7aad59%2Fgettyimages-2301934612.jpg"
-    },
-    {
-      "region": "США",
-      "source": "NPR News",
       "title": "Screen-free tweens try their hand at Dungeons & Dragons",
       "link": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
       "date": "Fri, 27 Nov 2026",
       "description": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2F2e%2F399887fb4ec881e2707d4ab12793%2Fd-d-lead-photo.jpg"
+    },
+    {
+      "region": "США",
+      "source": "NPR News",
+      "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+      "link": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
+      "date": "Fri, 27 Nov 2026",
+      "description": "Trump&apos;s sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The h",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5079x3386+0+0/resize/5079x3386!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2F2e%2Fbd2ef7014b16a3b474a9ef7aad59%2Fgettyimages-2301934612.jpg"
     },
     {
       "region": "Азия",
@@ -438,56 +438,56 @@
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "В МИД России разделили опасения других стран из-за расширения Киевом зоны конфликта",
-      "link": "https://lenta.ru/news/2026/11/27/v-mid-rossii-razdelili-opaseniya-drugih-stran-iz-za-rasshireniya-kievom-zony-konflikta/",
-      "date": "Fri, 27 Nov 2026",
+      "title": "Украинский транспортный самолет вылетел из закрытого аэропорта",
+      "link": "https://lenta.ru/news/2026/11/28/ukrainskiy-transportnyy-samolet-vyletel-iz-zakrytogo-aeroporta/",
+      "date": "Sat, 28 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/28/00/20261128005704210/pic_f11970c1b3517721d1cbe2d62b5a2628.jpg"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "В российском регионе бесследно исчезла семилетняя девочка",
+      "link": "https://lenta.ru/news/2026/11/28/v-rossiyskom-regione-bessledno-ischezla-semiletnyaya-devochka/",
+      "date": "Sat, 28 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/28/00/20261128004655263/pic_8c349a2ef9db6750dbf5e43e6df16443.jpg"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "Стало известно об отмене части операций ВСУ из-за ограничений Starshield",
+      "link": "https://lenta.ru/news/2026/11/28/stalo-izvestno-ob-otmene-chasti-operatsiy-vsu-iz-za-ogranicheniy-starshield/",
+      "date": "Sat, 28 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/28/00/20261128003053991/pic_cff98b1509000d6623a54bdddfdb22e7.jpg"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "Силы ПВО сбили десятки летевших на столицу беспилотников",
+      "link": "https://lenta.ru/news/2026/11/28/sily-pvo-sbili-desyatki-letevshih-na-moskvu-bespilotnikov/",
+      "date": "Sat, 28 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/28/00/20261128002203813/pic_edb83a2d16c9ece6115e518c5fbb9b90.jpg"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "В Раде высказались о судьбе ВСУ словами «армия разбежится»",
+      "link": "https://lenta.ru/news/2026/11/27/v-rade-vyskazalis-o-sudbe-vsu-slovami-armiya-razbezhitsya/",
+      "date": "Sat, 28 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/28/00/20261128002459221/pic_0a5fd8bdbaf8e7f76a794f17ae33a390.jpg"
+    },
+    {
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "СКА уступил «Барысу» дома в матче КХЛ",
+      "link": "https://lenta.ru/news/2026/11/28/ska-ustupil-barysu-doma-v-matche-khl/",
+      "date": "Sat, 28 Nov 2026",
       "description": "",
       "image": "https://icdn.lenta.ru/assets/webpack/images/lenta_og.8735b949.png"
-    },
-    {
-      "region": "Россия",
-      "source": "Лента.ру",
-      "title": "В российском городе остановка рухнула на двух женщин",
-      "link": "https://lenta.ru/news/2026/11/27/v-rossiyskom-gorode-ostanovka-ruhnula-na-dvuh-zhenschin/",
-      "date": "Fri, 27 Nov 2026",
-      "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/22/20261127225257884/pic_886b2db1ccea4bace3e52005ec82bd43.jpg"
-    },
-    {
-      "region": "Россия",
-      "source": "Лента.ру",
-      "title": "Власти сообщили об альтернативных маршрутах в Крым",
-      "link": "https://lenta.ru/news/2026/11/27/vlasti-soobschili-o/",
-      "date": "Fri, 27 Nov 2026",
-      "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/22/20261127224051319/pic_1cd3d89ed898a882a0501d436fdbe04f.jpg"
-    },
-    {
-      "region": "Россия",
-      "source": "Лента.ру",
-      "title": "При атаках украинских беспилотников в Запорожской области погиб человек",
-      "link": "https://lenta.ru/news/2026/11/27/pri-atakah-ukrainskih-bespilotnikov-v-zaporozhskoy-oblasti-pogib-chelovek/",
-      "date": "Fri, 27 Nov 2026",
-      "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/22/20261127223726149/pic_11825498dbd21e4e72a2526b2be14460.jpg"
-    },
-    {
-      "region": "Россия",
-      "source": "Лента.ру",
-      "title": "Уехавший из России популярный стример рассказал о пожертвованиях на Украину",
-      "link": "https://lenta.ru/news/2026/11/27/uehavshiy-iz-rossii-populyarnyy-strimer-rasskazal-o-pozhertvovaniyah-na-ukrainu/",
-      "date": "Fri, 27 Nov 2026",
-      "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/14/20261127140530634/pic_5f001c156fe942bca39def2c1ef0f820.jpg"
-    },
-    {
-      "region": "Россия",
-      "source": "Лента.ру",
-      "title": "Иран обвинил Украину в ударе по Кувейту",
-      "link": "https://lenta.ru/news/2026/11/27/iran-obvinil-ukrainu-v-udare-po-kuveytu/",
-      "date": "Fri, 27 Nov 2026",
-      "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/22/20261127223353634/pic_272fd14a013da5b4b01b638c05cbfd84.jpg"
     },
     {
       "region": "Барнаул",
