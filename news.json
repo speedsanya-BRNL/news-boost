@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27 23:01",
+  "updated": "2026-11-28 01:01",
   "categories": [
     "Мир",
     "Европа",
@@ -15,56 +15,56 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "В Запорожской области БПЛА ВСУ атаковал скорую помощь",
-      "link": "https://tass.ru/proisshestviya/28363451",
+      "title": "Жители Днепропетровска вышли на протест из-за долгого отсутствия электричества",
+      "link": "https://tass.ru/obschestvo/28363773",
       "date": "Fri, 27 Nov 2026",
-      "description": "",
+      "description": "Участники митинга заявили, что проблемы с электроснабжением сохраняются уже пятый день",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Стоимость клиентских активов управляющих компаний за III квартал выросла на 3,5%",
-      "link": "https://tass.ru/ekonomika/28363303",
+      "title": "На Украине обновили критерии определения предприятий важными для экономики",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/28363767",
       "date": "Fri, 27 Nov 2026",
-      "description": "Она превысила 37 трлн рублей, сообщили в ЦБ",
+      "description": "Изменения касаются документального подтверждения оборонных контрактов и грантовой поддержки в рамках процедур, связанных с брониро",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "На ВДНХ к старту зимнего сезона подготовили шоу-балет и выступления артистов",
-      "link": "https://tass.ru/obschestvo/28363445",
+      "title": "Ядров: власти предусмотрели альтернативные маршруты для следующих в Крым",
+      "link": "https://tass.ru/ekonomika/28363771",
       "date": "Fri, 27 Nov 2026",
-      "description": "В новом сезоне будет действовать обновленная система прохода на каток",
+      "description": "Объем грузовых перевозок с регионом сохранили",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Стрелявший в полицейских в Саратовской области находится в больнице под конвоем",
-      "link": "https://tass.ru/obschestvo/28363423",
+      "title": "В аэропорту Калуги ввели ограничения",
+      "link": "https://tass.ru/obschestvo/28363765",
       "date": "Fri, 27 Nov 2026",
-      "description": "Оружие у него изъяли",
+      "description": "Они необходимы для обеспечения безопасности полетов",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Путин на церемонии поднятия флага на атомной подлодке \"Пермь\". Видеотрансляция",
-      "link": "https://tass.ru/armiya-i-opk/28363411",
+      "title": "ТАСС: в Киеве ликвидировали военного из применяющей Patriot бригады ПВО",
+      "link": "https://tass.ru/armiya-i-opk/28363737",
       "date": "Fri, 27 Nov 2026",
-      "description": "Раптли/ТАСС",
+      "description": "В силовых структурах сообщили, что Денис Овчаренко погиб при ударе ВС РФ",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Путин сфотографировался с экипажем АПЛ \"Пермь\"",
-      "link": "https://tass.ru/obschestvo/28363431",
+      "title": "На Запорожье приняли инициативу об особом статусе пострадавших из-за ВСУ медиков",
+      "link": "https://tass.ru/obschestvo/28363757",
       "date": "Fri, 27 Nov 2026",
-      "description": "Затем президент России отправился в здание заводоуправления \"Севмаша\", где проведет совещание по развитию группировки многоцелевых",
-      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20250117/8012237.jpg"
+      "description": "Постановление направят на федеральный уровень",
+      "image": ""
     },
     {
       "region": "Мир",
@@ -96,6 +96,15 @@
     {
       "region": "Мир",
       "source": "BBC World",
+      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 27 Nov 2026",
+      "description": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg"
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
       "title": "Leaders clash in final Spain election debate as housing dominates run-in",
       "link": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 27 Nov 2026",
@@ -105,28 +114,55 @@
     {
       "region": "Мир",
       "source": "BBC World",
-      "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-      "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+      "title": "Brazil pushes back on Macron calling its meat 'doped'",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 27 Nov 2026",
-      "description": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88cd/live/81fb0990-ea42-11f1-9fc4-ef897a334b75.jpg"
-    },
-    {
-      "region": "Мир",
-      "source": "BBC World",
-      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
-      "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 27 Nov 2026",
-      "description": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg"
+      "description": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and p",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23bb/live/01c67d00-ea73-11f1-a828-d384c0290f6b.jpg"
     },
     {
       "region": "Европа",
       "source": "DW Европа",
       "title": "DW",
       "link": "https://www.dw.com/russian/?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-27T15:03",
+      "date": "2026-11-27T17:37",
       "description": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "image": ""
+    },
+    {
+      "region": "Европа",
+      "source": "DW Европа",
+      "title": "ЕС может запретить экспорт отходов аккумуляторов ради металлов",
+      "link": "https://www.dw.com/ru/ес-может-запретить-экспорт-отходов-аккумуляторов-ради-металлов/a-80080870?maca=rus-rss-ru-eu-4384-rdf",
+      "date": "2026-11-27T17:25",
+      "description": "Евросоюз обсуждает полный запрет на экспорт отходов аккумуляторов, содержащих литий и кобальт. В Брюсселе считают, что переработка",
+      "image": ""
+    },
+    {
+      "region": "Европа",
+      "source": "DW Европа",
+      "title": "Спор из-за Украины и сельхозсубсидий сорвал бюджетный саммит ЕС.",
+      "link": "https://www.dw.com/ru/спор-из-за-украины-и-сельхозсубсидий-сорвал-бюджетный-саммит-ес/a-80079906?maca=rus-rss-ru-eu-4384-rdf",
+      "date": "2026-11-27T16:41",
+      "description": "Два лагеря, жесткие красные линии и конфликт вокруг тактики главного посредника: почему бюджетный саммит ЕС провалился и что это з",
+      "image": ""
+    },
+    {
+      "region": "Европа",
+      "source": "DW Европа",
+      "title": "ФРГ предлагает ввести в ЕС выплаты авторам за конкурирующий ИИ-контент",
+      "link": "https://www.dw.com/ru/фрг-предлагает-ввести-в-ес-выплаты-авторам-за-конкурирующий-ии-контент/a-80078830?maca=rus-rss-ru-eu-4384-rdf",
+      "date": "2026-11-27T16:05",
+      "description": "Правительство Германии предлагает изменить положения авторского права в ЕС с учетом бума ИИ. Разработчиков могут обязать платить п",
+      "image": ""
+    },
+    {
+      "region": "Европа",
+      "source": "DW Европа",
+      "title": "Тихановская открыла офис в Польше: Варшава",
+      "link": "https://www.dw.com/ru/тихановская-открыла-офис-в-польше-варшава-новый-центр-демсил/a-80077827?maca=rus-rss-ru-eu-4384-rdf",
+      "date": "2026-11-27T15:03",
+      "description": "В Варшаве открылся офис Светланы Тихановской. В белорусских демсилах его называют \"центром правительства в изгнании\", а польские п",
       "image": ""
     },
     {
@@ -136,42 +172,6 @@
       "link": "https://www.dw.com/ru/iiss-число-предполагаемых-диверсий-рф-в-европе-выросло-на-16-процентов/a-80077618?maca=rus-rss-ru-eu-4384-rdf",
       "date": "2026-11-27T14:45",
       "description": "Число предполагаемых российских диверсий в Европе за год выросло на 16%, говорится в докладе IISS. Чаще всего мишенями становятся ",
-      "image": ""
-    },
-    {
-      "region": "Европа",
-      "source": "DW Европа",
-      "title": "Беспилотник нарушил воздушное пространство Латвии",
-      "link": "https://www.dw.com/ru/беспилотник-нарушил-воздушное-пространство-латвии/a-80075591?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-27T13:17",
-      "description": "Неопознанный дрон нарушил воздушное пространство Латвии, в воздух были подняты истребители НАТО. Инцидент произошел на фоне атаки ",
-      "image": ""
-    },
-    {
-      "region": "Европа",
-      "source": "DW Европа",
-      "title": "Bloomberg: ЕС создаст новый многомиллиардный фонд для развития обороны",
-      "link": "https://www.dw.com/ru/bloomberg-ес-создаст-новый-многомиллиардный-фонд-для-развития-обороны/a-80072437?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-27T10:15",
-      "description": "ЕС готовит новый пакет кредитов и грантов на десятки миллиардов евро для финансирования оборонных проектов. В Брюсселе все больше ",
-      "image": ""
-    },
-    {
-      "region": "Европа",
-      "source": "DW Европа",
-      "title": "Похищение детей во время войны: история повторяется",
-      "link": "https://www.dw.com/ru/похищение-детей-во-время-войны-история-повторяется/a-80007100?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-27T05:59",
-      "description": "Полька Барбара Пацёркевич, будучи ребенком, во время Второй мировой была похищена нацистами. А украинку Ксению Колдину насильно вы",
-      "image": ""
-    },
-    {
-      "region": "Европа",
-      "source": "DW Европа",
-      "title": "Саммит ЕС по семилетнему бюджету досрочно завершился без соглашения",
-      "link": "https://www.dw.com/ru/саммит-ес-по-семилетнему-бюджету-досрочно-завершился-без-соглашения/a-80070138?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-27T01:46",
-      "description": "Двухдневный саммит Евросоюза по бюджету на 2028-2034 годы завершился досрочно. Германия и ряд стран выступают за сокращение трат, ",
       "image": ""
     },
     {
@@ -213,20 +213,20 @@
     {
       "region": "США",
       "source": "NPR News",
-      "title": "Screen free tweens try their hand at Dungeons & Dragons",
-      "link": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
-      "date": "Fri, 27 Nov 2026",
-      "description": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2F2e%2F399887fb4ec881e2707d4ab12793%2Fd-d-lead-photo.jpg"
-    },
-    {
-      "region": "США",
-      "source": "NPR News",
       "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
       "link": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
       "date": "Fri, 27 Nov 2026",
       "description": "Trump&apos;s sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The h",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5079x3386+0+0/resize/5079x3386!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2F2e%2Fbd2ef7014b16a3b474a9ef7aad59%2Fgettyimages-2301934612.jpg"
+    },
+    {
+      "region": "США",
+      "source": "NPR News",
+      "title": "Screen-free tweens try their hand at Dungeons & Dragons",
+      "link": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
+      "date": "Fri, 27 Nov 2026",
+      "description": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2F2e%2F399887fb4ec881e2707d4ab12793%2Fd-d-lead-photo.jpg"
     },
     {
       "region": "Азия",
@@ -438,56 +438,74 @@
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Трамп объяснил причину теплого отношения к Путину",
-      "link": "https://lenta.ru/news/2026/11/27/tramp-ob-yasnil-prichinu-teplogo-otnosheniya-k-putinu/",
+      "title": "Нефтедоллары заменили чиподоллары",
+      "link": "https://lenta.ru/news/2026/11/27/neftedollary-zamenili-chipodollary/",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/18/20261127185259497/pic_95d50468f6eaecf4f24d61ab4359655d.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/27/20/20261127204525090/pic_dd21ebc37a954407fe2a4a08831c8520.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Инстасамка захотела поместить импланты в стеклянную рамку после удаления",
-      "link": "https://lenta.ru/news/2026/11/27/instasamka-zahotela-pomestit-implanty-v-steklyannuyu-ramku-posle-udaleniya/",
+      "title": "Турист с аутизмом попался в аэропорту Турции с 15 килограммами наркотиков в багаже",
+      "link": "https://lenta.ru/news/2026/11/27/turist-s-autizmom-popalsya-v-aeroportu-turtsii-s-15-kilogrammami-narkotikov-v-bagazhe/",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/11/20261127115632823/pic_0e96b3a36fb1473c0ebb0489c6bb8d36.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/27/15/20261127151900051/pic_c5eacc37fdf9dc9e4beaff8dbbcbd998.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Мать чемпионки Европы по спортивной гимнастике избили на парковке",
-      "link": "https://lenta.ru/news/2026/11/27/mat-chempionki-evropy-po-sportivnoy-gimnastike-izbili-na-parkovke/",
+      "title": "Аналитик призвал сократить ввод жилья в России по одной причине",
+      "link": "https://lenta.ru/news/2026/11/27/analitik-prizval-sokratit-vvod-zhilya-v-rossii-po-odnoy-prichine/",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/18/20261127183841393/pic_2f80e3649600961272cad1bdd59d6ffc.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/27/20/20261127204947435/pic_7563ead730f43965155e1b5c47bfc84e.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Автомобилистам напомнили о вреде долгого прогрева двигателя",
-      "link": "https://lenta.ru/news/2026/11/27/avtomobilistam-napomnili-o-vrede-dolgogo-progreva-dvigatelya/",
+      "title": "Россиянка заказала боди из Китая и вызвала бурную реакцию в сети",
+      "link": "https://lenta.ru/news/2026/11/27/rossiyanka-zakazala-sebe-bodi-iz-kitaya-i-vyzvala-burnuyu-reaktsiyu-v-seti/",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/18/20261127184452223/pic_cbd5e35ca3abd2912a7c9f7a47c44a16.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/27/20/20261127203948236/pic_7c4e5aeb2e7827636fdd87e79ecbc722.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Лицо покойного восстанавливали 48 часов после несчастного случая на заводе",
-      "link": "https://lenta.ru/news/2026/11/27/litso-pokoynogo-vosstanavlivali-48-chasov-posle-neschastnogo-sluchaya-na-zavode/",
+      "title": "В Киеве озвучили главное условие для новой гуманитарной миссии",
+      "link": "https://lenta.ru/news/2026/11/27/v-kieve-ozvuchili-glavnoe-uslovie-dlya-novoy-gumanitarnoy-missii/",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/16/20261127165639573/pic_185b52fa8e95ec810eed4feae1bff951.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/27/20/20261127204803440/pic_89bf4723a43459a0178706dee2a751b7.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Запрет на вывоз гречихи из России назвали превентивной мерой",
-      "link": "https://lenta.ru/news/2026/11/27/zapret-na-vyvoz-grechki-iz-rossii-nazvali-preventivnoy-meroy/",
+      "title": "Известный журналист-иноагент обрадовался часовому разговору с Собчак",
+      "link": "https://lenta.ru/news/2026/11/27/izvestnyy-zhurnalist-inoagent-obradovalsya-chasovomu-razgovoru-s-sobchak/",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/18/20261127182832909/pic_81971d1b140502fa90aae5e8fc1a2d9e.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/27/13/20261127130831076/pic_69bc8edb1b076f0dd1a877bbb3aaef12.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "Такой день. Обновление крайизбиркома и режим повышенной готовности у энергетиков",
+      "link": "https://www.amic.ru/news/takoy-den-597668",
+      "date": "Fri, 27 Nov 2026",
+      "description": "О главных событиях России и Алтайского края за 27 ноября",
+      "image": "https://www.amic.ru/images/news/news/454261_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "Врач назвал самый опасный \"народный\" метод лечения детей от ОРВИ",
+      "link": "https://www.amic.ru/news/vrach-nazval-samyy-opasnyy-narodnyy-metod-lecheniya-detey-ot-orvi-597665",
+      "date": "Fri, 27 Nov 2026",
+      "description": "По словам эксперта, растирание спиртом может не помочь, а только навредить",
+      "image": "https://www.amic.ru/images/news/news/577456_size2.jpg"
     },
     {
       "region": "Барнаул",
@@ -524,24 +542,6 @@
       "date": "Fri, 27 Nov 2026",
       "description": "Самостоятельно из здания эвакуировались 25 человек",
       "image": "https://www.amic.ru/images/news/news/597664_size2.jpg"
-    },
-    {
-      "region": "Барнаул",
-      "source": "Амител",
-      "title": "В Барнауле водитель автобуса прижал пассажира дверями",
-      "link": "https://www.amic.ru/news/v-barnaule-voditel-avtobusa-ne-hotel-delat-ostanovku-i-prizhal-passazhira-dveryami-597662",
-      "date": "Fri, 27 Nov 2026",
-      "description": "В результате инцидента у мужчины порвалась куртка",
-      "image": "https://www.amic.ru/images/news/news/543125_size2.jpg"
-    },
-    {
-      "region": "Барнаул",
-      "source": "Амител",
-      "title": "В филиале РЖД прокомментировали ситуацию с поездами, \"разрезающими\" село Шипуново пополам",
-      "link": "https://www.amic.ru/news/v-filiale-rzhd-prokommentirovali-situaciyu-s-poezdami-razrezayuschimi-selo-shipunovo-popolam-597661",
-      "date": "Fri, 27 Nov 2026",
-      "description": "Там напомнили, что ж/д — зона повышенной опасности",
-      "image": "https://www.amic.ru/images/news/news/597661_size2.jpg"
     }
   ]
 }
