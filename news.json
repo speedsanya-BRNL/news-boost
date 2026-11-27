@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27 07:01",
+  "updated": "2026-11-27 09:01",
   "categories": [
     "Мир",
     "Европа",
@@ -15,55 +15,55 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Три страны ЕС не поддержали дополнительное финансирование Киева в €45 млрд",
-      "link": "https://tass.ru/ekonomika/28360181",
+      "title": "В посольстве РФ в Вашингтоне прошла акция \"Географический диктант\"",
+      "link": "https://tass.ru/obschestvo/28360327",
       "date": "Fri, 27 Nov 2026",
-      "description": "",
+      "description": "В мероприятии приняли участие сотрудники дипмиссии и учащиеся школы при посольстве",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Politico: Трамп не советуясь с Рютте добавил в заявление предостережение Киева",
-      "link": "https://tass.ru/mezhdunarodnaya-panorama/28360179",
+      "title": "Эксперт Мышко объяснила, почему прививку от ВПЧ необходимо делать подросткам",
+      "link": "https://tass.ru/obschestvo/28360325",
       "date": "Fri, 27 Nov 2026",
-      "description": "",
+      "description": "У девочек, привитых до 16 лет, риск развития рака шейки матки снижается на 80%, сообщила главный внештатный специалист по гинеколо",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Трамп: РФ стремится к урегулированию на Украине, \"для танго нужны двое\"",
-      "link": "https://tass.ru/mezhdunarodnaya-panorama/28360177",
+      "title": "При крушении судна у берегов Кубы погиб человек",
+      "link": "https://tass.ru/proisshestviya/28360323",
       "date": "Fri, 27 Nov 2026",
-      "description": "",
+      "description": "Еще 12 человек спасли с судна",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Россиянам напомнили, сколько продлится последняя рабочая неделя декабря",
-      "link": "https://tass.ru/obschestvo/28360173",
+      "title": "В ГД рассказали, кто несет ответственность за прорыв труб в доме",
+      "link": "https://tass.ru/obschestvo/28360321",
       "date": "Fri, 27 Nov 2026",
-      "description": "Она составит всего три дня, сообщила первый зампред комитета Госдумы по труду, соцполитике и делам ветеранов Светлана Бессараб",
+      "description": "Все, что находится после отключающего крана, - это личное имущество собственника, уточнил председатель комиссии по обеспечению жил",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Принудительно взыскиваемый с актера Смольянинова долг вырос до 141 тыс. рублей",
-      "link": "https://tass.ru/obschestvo/28360175",
+      "title": "Названа самая высокооплачиваемая сфера для самозанятых",
+      "link": "https://tass.ru/obschestvo/28360313",
       "date": "Fri, 27 Nov 2026",
-      "description": "",
-      "image": ""
+      "description": "Это сфера гостиничного бизнеса и туризма, где исполнителям предлагали почти 8 тыс. рублей за смену",
+      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261127/9601631.jpg"
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "На Камчатке иностранным многодетным семьям перестанут предоставлять меры поддержки",
-      "link": "https://tass.ru/obschestvo/28360167",
+      "title": "На Камчатке запретили розничную продажу вейпов с 1 марта",
+      "link": "https://tass.ru/obschestvo/28360319",
       "date": "Fri, 27 Nov 2026",
-      "description": "",
+      "description": "Ограничения будут действовать пять лет",
       "image": ""
     },
     {
@@ -78,11 +78,29 @@
     {
       "region": "Мир",
       "source": "BBC World",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 27 Nov 2026",
+      "description": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
       "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
       "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 26 Nov 2026",
       "description": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e81d/live/7ff7f4c0-e9cd-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "region": "Мир",
+      "source": "BBC World",
+      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 27 Nov 2026",
+      "description": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
     },
     {
       "region": "Мир",
@@ -103,30 +121,21 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db1b/live/69c522b0-e962-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "region": "Мир",
-      "source": "BBC World",
-      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-      "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026",
-      "description": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg"
-    },
-    {
-      "region": "Мир",
-      "source": "BBC World",
-      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026",
-      "description": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5c6/live/4c0cb100-e97d-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
       "region": "Европа",
       "source": "DW Европа",
       "title": "DW",
       "link": "https://www.dw.com/russian/?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-26T23:47",
+      "date": "2026-11-27T01:46",
       "description": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "image": ""
+    },
+    {
+      "region": "Европа",
+      "source": "DW Европа",
+      "title": "МИД Швеции вызвал посла РФ из-за падения ракет в Польше",
+      "link": "https://www.dw.com/ru/мид-швеции-вызвал-посла-рф-из-за-падения-ракет-в-польше/a-80069956?maca=rus-rss-ru-eu-4384-rdf",
+      "date": "2026-11-26T23:47",
+      "description": "Посла России Беляева вызвали в МИД Швеции из-за нарушения воздушного пространства Польши и организации покушения на украинского рэ",
       "image": ""
     },
     {
@@ -163,15 +172,6 @@
       "link": "https://www.dw.com/ru/трамп-и-рютте-призвали-россию-не-допустить-расширения-войны/a-80056547?maca=rus-rss-ru-eu-4384-rdf",
       "date": "2026-11-26T07:51",
       "description": "Президент США Трамп и генеральный секретарь НАТО Рютте призвали Россию воздержаться от шагов, способных расширить войну против Укр",
-      "image": ""
-    },
-    {
-      "region": "Европа",
-      "source": "DW Европа",
-      "title": "Глава МИД Литвы выступил за признание военной разведки РФ террористами",
-      "link": "https://www.dw.com/ru/глава-мид-литвы-выступил-за-признание-военной-разведки-рф-террористами/a-80056033?maca=rus-rss-ru-eu-4384-rdf",
-      "date": "2026-11-26T04:27",
-      "description": "Главное управление Генштаба ВС РФ нужно признать в Евросоюзе террористической организацией, считает глава МИД Литвы Будрис. По его",
       "image": ""
     },
     {
@@ -231,55 +231,55 @@
     {
       "region": "Азия",
       "source": "Straits Times",
-      "title": "Australian Parliament passes government plan to reserve 20% of LNG for domestic market",
+      "title": "Ex-Malaysian PM Muhyiddin ‘turned a blind eye to RM25.3 million deposits’, High Court hears",
+      "link": "https://www.straitstimes.com/asia/se-asia/ex-malaysian-pm-muhyiddin-turned-a-blind-eye-to-rm25-3-million-deposits-high-court-hears",
+      "date": "Fri, 27 Nov 2026",
+      "description": "Muhyiddin is alleged to have committed the offences at the Prime Minister’s Office.",
+      "image": ""
+    },
+    {
+      "region": "Азия",
+      "source": "Straits Times",
+      "title": "The search for Vietnam’s stolen pets at wet markets and slaughterhouses",
+      "link": "https://www.straitstimes.com/asia/se-asia/the-search-for-vietnams-stolen-pets-at-wet-markets-and-slaughterhouses",
+      "date": "Fri, 27 Nov 2026",
+      "description": "Vietnamese police report detaining scores of suspected pet thieves in 2026, accused of stealing thousands of cats and dogs to sell",
+      "image": ""
+    },
+    {
+      "region": "Азия",
+      "source": "Straits Times",
+      "title": "Fire breaks out at Bangkok’s Pattavikorn Market",
+      "link": "https://www.straitstimes.com/asia/se-asia/fire-breaks-out-at-bangkoks-pattavikorn-market",
+      "date": "Fri, 27 Nov 2026",
+      "description": "Bangkok’s Rama 199 Radio Centre confirmed at 6.27am local time that the fire was out.",
+      "image": ""
+    },
+    {
+      "region": "Азия",
+      "source": "Straits Times",
+      "title": "Bankers pay up for Hong Kong apartments as rents hit new highs",
+      "link": "https://www.straitstimes.com/asia/east-asia/bankers-pay-up-for-hong-kong-apartments-as-rents-hit-new-highs",
+      "date": "Fri, 27 Nov 2026",
+      "description": "The frenzy is putting the pressure on potential renters.",
+      "image": ""
+    },
+    {
+      "region": "Азия",
+      "source": "Straits Times",
+      "title": "Families of slain Filipinos seek justice as Duterte's ICC trial set to start",
+      "link": "https://www.straitstimes.com/asia/families-of-slain-filipinos-seek-justice-as-dutertes-icc-trial-set-to-start",
+      "date": "Fri, 27 Nov 2026",
+      "description": "THE HAGUE/MANILA, Nov 27 - Former Philippine leader Rodrigo Duterte goes on trial at the International Criminal Court on Monday fo",
+      "image": ""
+    },
+    {
+      "region": "Азия",
+      "source": "Straits Times",
+      "title": "Australia clears law requiring LNG exporters to keep 20% for domestic use",
       "link": "https://www.straitstimes.com/asia/australianz/australian-parliament-passes-government-plan-to-reserve-20-of-lng-for-domestic-market",
       "date": "Fri, 27 Nov 2026",
       "description": "Western Australia, which already operates its own 15% gas reservation, is exempted from the scheme.",
-      "image": ""
-    },
-    {
-      "region": "Азия",
-      "source": "Straits Times",
-      "title": "Final New Zealand election vote count to confirm Parliament make up",
-      "link": "https://www.straitstimes.com/asia/australianz/final-new-zealand-election-vote-count-to-confirm-parliament-make-up",
-      "date": "Fri, 27 Nov 2026",
-      "description": "The official count is expected to confirm whether the incumbent centre-right government can hold on to its razor-slim majority.",
-      "image": ""
-    },
-    {
-      "region": "Азия",
-      "source": "Straits Times",
-      "title": "Troubles at Sarawak’s state-linked infrastructure giant set to cloud state polls",
-      "link": "https://www.straitstimes.com/asia/se-asia/troubles-at-sarawaks-state-linked-infrastructure-giant-set-to-cloud-state-polls",
-      "date": "Fri, 27 Nov 2026",
-      "description": "Cahya Mata Sarawak's troubles echo the era when the state's ruling parties were still part of BN.",
-      "image": ""
-    },
-    {
-      "region": "Азия",
-      "source": "Straits Times",
-      "title": "Beyond Tinder: Unusual digital spaces sparking Filipino romance",
-      "link": "https://www.straitstimes.com/asia/se-asia/beyond-tinder-unusual-digital-spaces-sparking-filipino-romance",
-      "date": "Fri, 27 Nov 2026",
-      "description": "Internet forums, university chat rooms and even K-pop fan communities are doubling as dating grounds.",
-      "image": ""
-    },
-    {
-      "region": "Азия",
-      "source": "Straits Times",
-      "title": "South Korean police seek arrest warrant for top scorer in tax accountancy exam",
-      "link": "https://www.straitstimes.com/asia/east-asia/south-korean-police-seek-arrest-warrant-for-top-scorer-in-tax-accountancy-exam",
-      "date": "Thu, 26 Nov 2026",
-      "description": "The police are concerned that he could flee or destroy evidence.",
-      "image": ""
-    },
-    {
-      "region": "Азия",
-      "source": "Straits Times",
-      "title": "Indonesia sees silver lining in new US tariffs despite global backlash",
-      "link": "https://www.straitstimes.com/asia/se-asia/indonesia-sees-silver-lining-in-new-us-tariffs-despite-global-backlash",
-      "date": "Thu, 26 Nov 2026",
-      "description": "Significant tariff differential compared with competing countries provides a comparative advantage.",
       "image": ""
     },
     {
@@ -393,6 +393,24 @@
     {
       "region": "Таиланд",
       "source": "Khaosod English",
+      "title": "Fire breaks out at Bangkok’s Patthavikorn Market, motorists warned",
+      "link": "https://www.khaosodenglish.com/news/2026/11/27/fire-breaks-out-at-bangkoks-patthavikorn-market-motorists-warned/",
+      "date": "Fri, 27 Nov 2026",
+      "description": "BANGKOK — 27 November 2026, A major fire broke out at Patthavikorn Market in Bangkok’s Nawamin 72 area early on Friday, prompting",
+      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/IMG_8083.jpeg"
+    },
+    {
+      "region": "Таиланд",
+      "source": "Khaosod English",
+      "title": "Nvidia halts server shipments to four Southeast Asian countries, FT reports",
+      "link": "https://www.khaosodenglish.com/tech/2026/11/26/nvidia-halts-server-shipments-to-four-southeast-asian-countries-ft-reports/",
+      "date": "Thu, 26 Nov 2026",
+      "description": "Nov 26 (Reuters) &#8211; Nvidia has told manufacturing partners to stop ​shipping servers containing its chips to Malaysia, Singap",
+      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/IMG_8077.jpeg"
+    },
+    {
+      "region": "Таиланд",
+      "source": "Khaosod English",
       "title": "Pollution Department checks smoke plume after Bangchak refinery fire",
       "link": "https://www.khaosodenglish.com/news/2026/11/26/pollution-department-checks-smoke-plume-after-bangchak-refinery-fire/",
       "date": "Thu, 26 Nov 2026",
@@ -418,130 +436,112 @@
       "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/0-feat-32.jpg"
     },
     {
-      "region": "Таиланд",
-      "source": "Khaosod English",
-      "title": "Thailand will not lend its sovereignty to anyone ‘even for a minute’, Anutin says",
-      "link": "https://www.khaosodenglish.com/featured/2026/11/26/thailand-will-not-lend-its-sovereignty-to-anyone-even-for-a-minute-anutin-says/",
-      "date": "Thu, 26 Nov 2026",
-      "description": "Prime Minister Anutin Charnvirakul said on 26 November that Thailand’s armed forces were ready to defend the country and pledged g",
-      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/120261126135740_9536.jpg"
-    },
-    {
-      "region": "Таиланд",
-      "source": "Khaosod English",
-      "title": "Liverpool and adidas launch Thai-inspired collection worldwide",
-      "link": "https://www.khaosodenglish.com/life/arts/2026/11/26/liverpool-and-adidas-launch-thai-inspired-collection-worldwide/",
-      "date": "Thu, 26 Nov 2026",
-      "description": "Liverpool FC and adidas have launched Gold Leaf, a limited-edition lifestyle collection inspired by Thai gilding and dedicated to",
-      "image": "https://www.khaosodenglish.com/wp-content/uploads/2026/11/120000.jpg"
+      "region": "Россия",
+      "source": "Лента.ру",
+      "title": "Трамп словом «посмешище» оценил разницу в ледоколах России и США",
+      "link": "https://lenta.ru/news/2026/11/27/tramp-slovom-posmeshische-otsenil-raznitsu-v-ledokolah-rossii-i-ssha/",
+      "date": "Fri, 27 Nov 2026",
+      "description": "",
+      "image": "https://icdn.lenta.ru/images/2026/11/27/04/20261127045335271/pic_3efbbf7f11b57e019f1e32868447bd08.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Уролог развеял главный миф о длительном воздержании у мужчины",
-      "link": "https://lenta.ru/news/2026/11/27/urolog-razveyal-glavnyy-mif-o-dlitelnom-vozderzhanii-u-muzhchiny/",
+      "title": "Названы бесполезные для Android программы",
+      "link": "https://lenta.ru/news/2026/11/27/android-useless/",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/25/13/20261125131839788/pic_1ac446a23b5b7629f6e67c89289432e1.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/26/11/20261126112519761/pic_c5db9b90f461dcabb6fd8b511baa7ff3.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Названа причина борьбы Финляндии с Россией",
-      "link": "https://lenta.ru/news/2026/11/27/nazvana-prichina-borby-finlyandii-s-rossiey/",
+      "title": "Россиян предупредили об опасных последствиях дефицита витаминов",
+      "link": "https://lenta.ru/news/2026/11/27/rossiyan-predupredili-ob-opasnyh-posledstviyah-defitsita-vitaminov/",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/02/20261127025342928/pic_34f3d2db7ea56b0a5e843b62bea44d38.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/26/16/20261126165504505/pic_49fc9c34fed46dced87ba9437b07c243.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Юрист предупредил о невыгодных месяцах для отпуска в 2027 году",
-      "link": "https://lenta.ru/news/2026/11/27/yurist-predupredil-o-nevygodnyh-mesyatsah-dlya-otpuska-v-2027-godu/",
+      "title": "ВСУ атаковали Ленинградскую область дронами",
+      "link": "https://lenta.ru/news/2026/11/27/vsu-atakovali-dronami-leningradskuyu-oblast/",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/02/20261127024644790/pic_ebb9521c6943ede2c72f8fcf1cc641f1.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/27/04/20261127043157777/pic_aadf0b7af7253fab3041a7f12bef1f09.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Россиянам назвали способы провести зиму без боли в суставах",
-      "link": "https://lenta.ru/news/2026/11/27/bez-boli/",
+      "title": "Путин объяснил снижение преступности в Москве",
+      "link": "https://lenta.ru/news/2026/11/27/putin-ob-yasnil-snizhenie-prestupnosti-v-moskve/",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/26/11/20261126114021221/pic_10911df60bab5647f1cb5a85397befaf.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/27/04/20261127042633274/pic_6ae7d387fe2e25632f9f5a93983c7356.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Назван полезный для улучшения работы печени при жировой болезни витамин",
-      "link": "https://lenta.ru/news/2026/11/27/nazvan-poleznyy-dlya-uluchsheniya-raboty-pecheni-pri-zhirovoy-bolezni-vitamin/",
+      "title": "Доктор Мясников разрешил россиянам есть все на Новый год",
+      "link": "https://lenta.ru/news/2026/11/27/mozhno-vse/",
       "date": "Fri, 27 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/26/13/20261126130238899/pic_49fc9c34fed46dced87ba9437b07c243.jpg"
-    },
-    {
-      "region": "Россия",
-      "source": "Лента.ру",
-      "title": "Детский омбудсмен раскрыла дальнейшую судьбу братьев погибшей от голода девочки",
-      "link": "https://lenta.ru/news/2026/11/27/detskiy-ombudsmen-raskryla-dalneyshuyu-sudbu-bratiev-pogibshey-ot-goloda-devochki/",
-      "date": "Fri, 27 Nov 2026",
-      "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/27/02/20261127022805232/pic_a1e0cca059a2491065a75e0a1f923444.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/26/12/20261126123522294/pic_10f0c353fa129bbfe010a8963ac8bf76.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Врач развеяла заблуждения о похудении после 40 лет",
-      "link": "https://www.amic.ru/news/vrach-razveyala-zabluzhdeniya-o-pohudenii-posle-40-let-597556",
+      "title": "Новым председателем Алтайского краевого суда стал Дмитрий Пашков",
+      "link": "https://www.amic.ru/news/novym-predsedatelem-altayskogo-kraevogo-suda-stal-dmitriy-pashkov-597593",
       "date": "Fri, 27 Nov 2026",
-      "description": "Ключевую роль играют естественные изменения метаболизма, снижение мышечной массы и гормональная перестройка",
-      "image": "https://www.amic.ru/images/news/news/588796_size2.jpg"
+      "description": "Дмитрий Пашков работает в Алтайском краевом суде с 2023 года",
+      "image": "https://www.amic.ru/images/news/news/531938_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Избирательную комиссию Алтайского края обновят. Кто войдет в новый состав",
-      "link": "https://www.amic.ru/news/izbiratelnuyu-komissiyu-altayskogo-kraya-obnovyat-kto-voydet-v-novyy-sostav-597565",
+      "title": "Площадка для выгула собак. Жители раскритиковали новый парк в Горно-Алтайске",
+      "link": "https://www.amic.ru/news/ploschadka-dlya-vygula-sobak-zhiteli-raskritikovali-novyy-park-v-gorno-altayske-597581",
       "date": "Fri, 27 Nov 2026",
-      "description": "Депутаты АКЗС назначили семь членов крайизбиркома, еще семь должен определить губернатор",
-      "image": "https://www.amic.ru/images/news/news/597565_size2.jpg"
+      "description": "Парк \"Бирлик\" (что в переводе означает \"единство\") вызвал нешуточные дискуссии. В негативных оценках граждане едины",
+      "image": "https://www.amic.ru/images/news/news/597581_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Народные приметы 27 ноября. Как с помощью куска мяса узнать, за кого выйдешь замуж",
-      "link": "https://www.amic.ru/news/kakimi-strannymi-delami-zanimalis-27-noyabrya-i-pochemu-boyalis-hodit-v-les-450944",
+      "title": "Восьмилетнего ребенка госпитализировали после ДТП с внедорожником в Горно-Алтайске",
+      "link": "https://www.amic.ru/news/vosmiletnego-rebenka-gospitalizirovali-posle-dtp-s-vnedorozhnikom-v-gorno-altayske-597578",
       "date": "Fri, 27 Nov 2026",
-      "description": "Рассказываем, почему нельзя гулять по лесу и лениться в Филиппов день",
-      "image": "https://www.amic.ru/images/news/news/450944_size2.jpg"
+      "description": "Пострадавшего доставили в республиканскую детскую больницу для оказания медицинской помощи",
+      "image": "https://www.amic.ru/images/news/news/597578_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Вовремя скажите \"стоп\". Астрологический прогноз для каждого знака зодиака на 27 ноября",
-      "link": "https://www.amic.ru/news/vovremya-skazhite-stop-astrologicheskiy-prognoz-dlya-kazhdogo-znaka-zodiaka-na-27-noyabrya-597518",
+      "title": "Частые переводы денег близким не станут поводом для налоговой проверки в России",
+      "link": "https://www.amic.ru/news/chastye-perevody-deneg-blizkim-ne-stanut-povodom-dlya-nalogovoy-proverki-v-rossii-597585",
       "date": "Fri, 27 Nov 2026",
-      "description": "Рабочие задачи — это важно, но нужно будет вовремя переключиться на отдых",
-      "image": "https://www.amic.ru/images/news/news/597518_size2.jpg"
+      "description": "Банк России будет передавать налоговой службе сведения о гражданах, чьи финансовые операции соответствуют определенным признакам",
+      "image": "https://www.amic.ru/images/news/news/582326_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "Алтайский край вошел в число регионов России с высокой оценкой медпомощи",
-      "link": "https://www.amic.ru/news/altayskiy-kray-voshel-v-chislo-regionov-rossii-s-vysokoy-ocenkoy-medpomoschi-597522",
+      "title": "Представители Барнаула познакомились с китайскими технологиями озеленения пустынь",
+      "link": "https://www.amic.ru/news/predstaviteli-barnaula-poznakomilis-s-kitayskimi-tehnologiyami-ozeleneniya-pustyn-597584",
       "date": "Fri, 27 Nov 2026",
-      "description": "Самый высокий результат зафиксировали в Чечне",
-      "image": "https://www.amic.ru/images/news/news/542949_size2.jpg"
+      "description": "Рабочая поездка состоялась 25 ноября в рамках второго дня международного форума \"Всемирный диалог мэров\"",
+      "image": "https://www.amic.ru/images/news/news/597584_size2.jpg"
     },
     {
       "region": "Барнаул",
       "source": "Амител",
-      "title": "До +7. Какую погоду ждать в Алтайском крае 27 ноября",
-      "link": "https://www.amic.ru/news/do-7-kakuyu-pogodu-zhdat-v-altayskom-krae-27-noyabrya-597579",
+      "title": "Праздничные смены: россиянам напомнили об особенностях работы и двойной оплате",
+      "link": "https://www.amic.ru/news/prazdnichnye-smeny-rossiyanam-napomnili-ob-osobennostyah-raboty-i-dvoynoy-oplate-597559",
       "date": "Fri, 27 Nov 2026",
-      "description": "В регионе пройдет мокрый снег",
-      "image": "https://www.amic.ru/images/news/news/595116_size2.jpg"
+      "description": "Работа в праздничные дни оплачивается минимум в двойном размере либо компенсируется дополнительным днем отдыха",
+      "image": "https://www.amic.ru/images/news/news/573773_size2.jpg"
     }
   ]
 }
