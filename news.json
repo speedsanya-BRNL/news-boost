@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28 09:01",
+  "updated": "2026-11-28 11:01",
   "categories": [
     "Мир",
     "Европа",
@@ -15,55 +15,55 @@
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "В аэропорту Рейгана под Вашингтоном два самолета задели друг друга крыльями",
-      "link": "https://tass.ru/proisshestviya/28364193",
+      "title": "На Тайване проходит референдум по вопросу об отмене безъядерного статуса острова",
+      "link": "https://tass.ru/obschestvo/28364313",
       "date": "Sat, 28 Nov 2026",
-      "description": "Информации о пострадавших нет, сообщили в Федеральном авиационном управлении США",
+      "description": "В голосовании по вопросу возобновления работы ядерной энергетики могут принять участие более 20 млн человек",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "В аэропортах Пензы и Саратова сняли ограничения",
-      "link": "https://tass.ru/ekonomika/28364189",
+      "title": "Bloomberg назвало напряженным разговор Мелони и Зеленского после атаки в Ливии",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/28364311",
       "date": "Sat, 28 Nov 2026",
-      "description": "Аэропорты не принимали и не отправляли рейсы",
+      "description": "По данным агентства, удар по Бенгази привел к охлаждению отношений между Украиной и Италией",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Аэропорт Самары приостановил прием и выпуск самолетов",
-      "link": "https://tass.ru/ekonomika/28364191",
+      "title": "Атлантический циклон принесет метели в три региона Центральной России",
+      "link": "https://tass.ru/obschestvo/28364305",
       "date": "Sat, 28 Nov 2026",
-      "description": "",
+      "description": "Речь идет об Ивановской, Костромской и Ярославской областях",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "S&P понизило прогноз по кредитному рейтингу Франции до негативного",
-      "link": "https://tass.ru/ekonomika/28364187",
+      "title": "В ГД предложили ввести федпрограмму новогодних выплат пожилым",
+      "link": "https://tass.ru/obschestvo/28364307",
       "date": "Sat, 28 Nov 2026",
-      "description": "Причинами стали рост государственного долга, сдержанные перспективы экономического роста и слабый политический консенсус по вопрос",
+      "description": "Первый зампред комитета Госдумы по бюджету и налогам Каплан Панеш также выступил за создание единой федеральной программы подарков",
+      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261128/9604715.jpg"
+    },
+    {
+      "region": "Мир",
+      "source": "ТАСС",
+      "title": "Мелания Трамп продолжает гуманитарную работу по России и Украине",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/28364303",
+      "date": "Sat, 28 Nov 2026",
+      "description": "Первая леди США добавила, что занимается деятельностью, связанной с воссоединением семей",
       "image": ""
     },
     {
       "region": "Мир",
       "source": "ТАСС",
-      "title": "Более 20 предостережений вынесли АТП, чей автобус попал в ДТП под Красноярском",
-      "link": "https://tass.ru/proisshestviya/28364185",
+      "title": "Офицер Карта: ВСУ лишились свыше 220 блиндажей в Харьковской области",
+      "link": "https://tass.ru/armiya-i-opk/28364301",
       "date": "Sat, 28 Nov 2026",
-      "description": "В аварии 5 человек погибли и 14 пострадали",
-      "image": ""
-    },
-    {
-      "region": "Мир",
-      "source": "ТАСС",
-      "title": "МИД: Запад запрещает публиковать статистику, где РФ выглядит хорошо",
-      "link": "https://tass.ru/politika/28364181",
-      "date": "Sat, 28 Nov 2026",
-      "description": "Ограничения ввели после того, как Москва стала активно пользоваться положительными фактами, которые публиковали американские компа",
+      "description": "Для поражения целей применялись FPV-дроны, беспилотники самолетного типа \"Молния-2\", а также артиллерия, отметил военнослужащий",
       "image": ""
     },
     {
@@ -213,6 +213,15 @@
     {
       "region": "США",
       "source": "NPR News",
+      "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+      "link": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
+      "date": "Fri, 27 Nov 2026",
+      "description": "Trump&apos;s sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The h",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5079x3386+0+0/resize/5079x3386!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2F2e%2Fbd2ef7014b16a3b474a9ef7aad59%2Fgettyimages-2301934612.jpg"
+    },
+    {
+      "region": "США",
+      "source": "NPR News",
       "title": "Screen-free tweens try their hand at Dungeons & Dragons",
       "link": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
       "date": "Fri, 27 Nov 2026",
@@ -220,13 +229,31 @@
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2F2e%2F399887fb4ec881e2707d4ab12793%2Fd-d-lead-photo.jpg"
     },
     {
-      "region": "США",
-      "source": "NPR News",
-      "title": "12 strategies to cut your risk of dementia. Take this quiz to start",
-      "link": "https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn",
-      "date": "Fri, 27 Nov 2026",
-      "description": "Here&apos;s something you can do as you gather with family and friends this holiday season: Take a free, five-minute quiz to asses",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5714x3802+0+0/resize/5714x3802!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffb%2F9c%2F9713cdb545dbb1fb84bae3122894%2Fgettyimages-2272594799.jpg"
+      "region": "Азия",
+      "source": "Straits Times",
+      "title": "Korea Post confirms data breach affecting at least 113,000 customers",
+      "link": "https://www.straitstimes.com/asia/east-asia/korea-post-confirms-data-breach-affecting-at-least-113000-customers",
+      "date": "Sat, 28 Nov 2026",
+      "description": "Korea Post was still working to determine the full extent of the breach.",
+      "image": ""
+    },
+    {
+      "region": "Азия",
+      "source": "Straits Times",
+      "title": "Skipping sleep to ‘eat wind’ and a late-night drive to a Genting petrol kiosk",
+      "link": "https://www.straitstimes.com/asia/se-asia/skipping-sleep-to-eat-wind-and-a-late-night-drive-to-a-genting-petrol-kiosk",
+      "date": "Sat, 28 Nov 2026",
+      "description": "These locals have been taking night drives to Genting, but not to the casino or theme parks.",
+      "image": ""
+    },
+    {
+      "region": "Азия",
+      "source": "Straits Times",
+      "title": "Dry run for Malaysia’s integrated immigration system to begin next month",
+      "link": "https://www.straitstimes.com/asia/se-asia/dry-run-for-malaysias-integrated-immigration-system-to-begin-next-month",
+      "date": "Sat, 28 Nov 2026",
+      "description": "The Singapore side’s run will be held at the Woodlands RTS station from Dec 16 to 30.",
+      "image": ""
     },
     {
       "region": "Азия",
@@ -256,85 +283,76 @@
       "image": ""
     },
     {
-      "region": "Азия",
-      "source": "Straits Times",
-      "title": "In the new ‘sheconomy’ of China, men are the eye candy for women",
-      "link": "https://www.straitstimes.com/asia/east-asia/in-the-new-sheconomy-of-china-men-are-the-eye-candy-for-women",
-      "date": "Sat, 28 Nov 2026",
-      "description": "Across China, businesses are cashing in on a lucrative new market: Women’s enjoyment.",
-      "image": ""
-    },
-    {
-      "region": "Азия",
-      "source": "Straits Times",
-      "title": "Taiwan votes in key local elections as China looks on",
-      "link": "https://www.straitstimes.com/asia/taiwan-votes-in-key-local-elections-as-china-looks-on",
-      "date": "Sat, 28 Nov 2026",
-      "description": "TAIPEI, Nov 28 - Taiwan's voters were choosing mayors and county chiefs on Saturday in an election that will gauge party support a",
-      "image": ""
-    },
-    {
-      "region": "Азия",
-      "source": "Straits Times",
-      "title": "‘Not a mini-Tokyo’: Osaka bids to become Japan’s second capital",
-      "link": "https://www.straitstimes.com/asia/east-asia/not-a-mini-tokyo-osaka-bids-to-become-japans-second-capital",
-      "date": "Sat, 28 Nov 2026",
-      "description": "Fuelled by coalition politics and post-Expo momentum, the irreverent city is pitching itself as a counterweight to Tokyo.",
-      "image": ""
-    },
-    {
       "region": "Китай",
       "source": "CGTN Китай",
-      "title": "Path to Zero: How China's desert forests store carbon out of sight",
-      "link": "https://news.cgtn.com/news/2026-11-27/Path-to-Zero-How-China-s-desert-forests-store-carbon-out-of-sight-1SoAHlFGYF2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Bangkok hosts seminar on Xi's book on protecting human rights",
+      "link": "https://news.cgtn.com/news/2026-11-27/Bangkok-hosts-seminar-on-Xi-s-book-on-protecting-human-rights-1SpY0m6Brl6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
       "date": "Fri, 27 Nov 2026",
-      "description": "",
-      "image": "https://news.cgtn.com/news/2026-11-27/Path-to-Zero-How-China-s-desert-forests-store-carbon-out-of-sight-1SoAHlFGYF2/img/c5a27f877c9d41d58dc37171716e215a/c5a27f877c9d41d58dc37171716e215a-1280.png"
+      "description": "An academic seminar on the book \"Xi Jinping: On Respecting and Protecting Human Rights\" was held in Bangkok on Thursday.",
+      "image": "https://news.cgtn.com/news/2026-11-27/Bangkok-hosts-seminar-on-Xi-s-book-on-protecting-human-rights-1SpY0m6Brl6/img/a675c46c6c9d42a5afa8df230d17e38c/a675c46c6c9d42a5afa8df230d17e38c-750.jpeg"
     },
     {
       "region": "Китай",
       "source": "CGTN Китай",
-      "title": "China urges Japan to fulfill obligations on abandoned chemical weapons",
-      "link": "https://news.cgtn.com/news/2026-11-26/China-urges-Japan-to-fulfill-obligations-on-abandoned-chemical-weapons-1SnYMqD9rgc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "date": "Thu, 26 Nov 2026",
-      "description": "China has urged Japan to accelerate the destruction of chemical weapons it abandoned in China, stressing that their complete destr",
-      "image": "https://news.cgtn.com/news/2026-11-26/China-urges-Japan-to-fulfill-obligations-on-abandoned-chemical-weapons-1SnYMqD9rgc/img/63d2e850c8ae4408a5711c67a4f8e091/63d2e850c8ae4408a5711c67a4f8e091-750.png"
+      "title": "Netherlands vows to counter US chip bill targeting ASML China sales",
+      "link": "https://news.cgtn.com/news/2026-11-27/Netherlands-vows-to-counter-US-chip-bill-targeting-ASML-China-sales-1SpiBiktaPC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "date": "Fri, 27 Nov 2026",
+      "description": "The Netherlands will push back against proposed United States legislation that would tighten export curbs on Dutch lithography gia",
+      "image": "https://news.cgtn.com/news/2026-11-27/Netherlands-vows-to-counter-US-chip-bill-targeting-ASML-China-sales-1SpiBiktaPC/img/47456e745a1c4fcbbab937bc3ffb5ca3/47456e745a1c4fcbbab937bc3ffb5ca3-750.png"
     },
     {
       "region": "Китай",
       "source": "CGTN Китай",
-      "title": "China vows mature, steady, sustainable development of ties with UK",
-      "link": "https://news.cgtn.com/news/2026-11-24/FM-China-vows-mature-stead-sustainable-development-of-ties-with-UK-1Sl7wQTPoIw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "date": "Tue, 24 Nov 2026",
-      "description": "China stands ready to work with Britain to promote the mature, steady and sustainable development of bilateral relations, Chinese",
-      "image": "https://news.cgtn.com/news/2026-11-24/FM-China-vows-mature-stead-sustainable-development-of-ties-with-UK-1Sl7wQTPoIw/img/c0f7bc43733e40a2a29f9506dd52befd/c0f7bc43733e40a2a29f9506dd52befd-1920.jpeg"
-    },
-    {
-      "region": "Китай",
-      "source": "CGTN Китай",
-      "title": "Pak-China Friendship Hospital brings care closer to patients",
-      "link": "https://news.cgtn.com/news/2026-11-24/Pak-China-Friendship-Hospital-brings-care-closer-to-patients-1Sl3dAd7Zlu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "date": "Tue, 24 Nov 2026",
-      "description": "",
-      "image": "https://news.cgtn.com/news/2026-11-24/Pak-China-Friendship-Hospital-brings-care-closer-to-patients-1Sl3dAd7Zlu/img/90edb7b0e4de41d8868e79be3b5369e3/90edb7b0e4de41d8868e79be3b5369e3-1280.jpeg"
-    },
-    {
-      "region": "Китай",
-      "source": "CGTN Китай",
-      "title": "Rocket carrying China's Shenzhou-24 crewed spacecraft blasts off",
-      "link": "https://news.cgtn.com/news/2026-11-25/Rocket-carrying-China-s-Shenzhou-24-crewed-spacecraft-blasts-off-1SlLaN95yik/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "CENC: M4.8 earthquake hits waters off Taiwan region",
+      "link": "https://news.cgtn.com/news/2026-11-25/news-1SmoLTBP0Pe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
       "date": "Wed, 25 Nov 2026",
       "description": "",
-      "image": "https://news.cgtn.com/news/2026-11-25/Rocket-carrying-China-s-Shenzhou-24-crewed-spacecraft-blasts-off-1SlLaN95yik/img/8cc2209874514cadb97edf5a6fbc5027/8cc2209874514cadb97edf5a6fbc5027-1280.jpeg"
+      "image": "https://news.cgtn.com/news/2026-11-25/news-1SmoLTBP0Pe/img/62cef048d26f470189380562272f2d25/62cef048d26f470189380562272f2d25-1920.jpeg"
     },
     {
       "region": "Китай",
       "source": "CGTN Китай",
-      "title": "Wang Yi says openness and pragmatism define China-Netherlands ties",
-      "link": "https://news.cgtn.com/news/2026-11-26/Wang-Yi-says-openness-and-pragmatism-define-China-Netherlands-ties-1SnxlrZWtyM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "China urges Japan to destroy abandoned chemical weapons",
+      "link": "https://news.cgtn.com/news/2026-11-26/China-urges-Japan-to-destroy-abandoned-chemical-weapons-1SnqFQ4FRmw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
       "date": "Thu, 26 Nov 2026",
+      "description": "China urged Japan to accelerate the destruction of abandoned chemical weapons in China at the 31st Session of the Conference of th",
+      "image": "https://news.cgtn.com/news/2026-11-26/China-urges-Japan-to-destroy-abandoned-chemical-weapons-1SnqFQ4FRmw/img/076887bb70404852b13cf95053027eec/076887bb70404852b13cf95053027eec-250.png"
+    },
+    {
+      "region": "Китай",
+      "source": "CGTN Китай",
+      "title": "How can smart cities put people first?",
+      "link": "https://news.cgtn.com/news/2026-11-25/How-can-smart-cities-put-people-first--1SmuI0evsnm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "date": "Wed, 25 Nov 2026",
       "description": "",
-      "image": "https://video.cgtn.com/news/2026-11-26/Wang-Yi-says-openness-and-pragmatism-define-China-Netherlands-ties-1SnxlrZWtyM/video/wu_1k8amkhs3bnnui1jij68dnkea/wu_1k8amkhs3bnnui1jij68dnkea-750.png"
+      "image": "https://news.cgtn.com/news/2026-11-25/How-can-smart-cities-put-people-first--1SmuI0evsnm/img/8af3de0ca29a41b5873253f0c821dcf8/8af3de0ca29a41b5873253f0c821dcf8-1280.jpeg"
+    },
+    {
+      "region": "Китай",
+      "source": "CGTN Китай",
+      "title": "MOFA: Historic milestone in China-Pakistan space cooperation",
+      "link": "https://news.cgtn.com/news/2026-11-25/MOFA-Historic-milestone-in-China-Pakistan-space-cooperation-1SmsNsExe6s/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "date": "Wed, 25 Nov 2026",
+      "description": "",
+      "image": "https://news.cgtn.com/news/2026-11-25/MOFA-Historic-milestone-in-China-Pakistan-space-cooperation-1SmsNsExe6s/img/be0698a56b7d4ad0b12c53c7abf160b0/be0698a56b7d4ad0b12c53c7abf160b0-1280.png"
+    },
+    {
+      "region": "Таиланд",
+      "source": "The Thaiger",
+      "title": "Four rescued after longtail tour boat capsizes near Koh Kai in Krabi",
+      "link": "https://thethaiger.com/news/south/longtail-tour-boat-capsizes-koh-kai-krabi",
+      "date": "Sat, 28 Nov 2026",
+      "description": "National park officers rescued a boatman, a guide and two foreign tourists after heavy rain and strong waves overturned their long",
+      "image": "https://thethaiger.com/wp-content/uploads/2026/11/thaiger-Storm-flips-tourist-boat.jpg"
+    },
+    {
+      "region": "Таиланд",
+      "source": "The Thaiger",
+      "title": "Thailand foreign tourist arrivals fall 12% in October as exports grow",
+      "link": "https://thethaiger.com/hot-news/tourism/thailand-foreign-tourist-arrivals-fall-12-october",
+      "date": "Sat, 28 Nov 2026",
+      "description": "Thailand had 2.27 million foreign arrivals in October, 12% fewer than a year earlier, while exports grew 27.5%, the Fiscal Policy",
+      "image": "https://thethaiger.com/wp-content/uploads/2026/11/thaiger-Tourists-down-exports-up.jpg"
     },
     {
       "region": "Таиланд",
@@ -371,24 +389,6 @@
       "date": "Fri, 27 Nov 2026",
       "description": "Low-rise condo on Patong Sai 3 Road draws Thai and international buyers, with starting prices from 3.9 million to 13.9 million bah",
       "image": "https://thethaiger.com/wp-content/uploads/2026/11/image-1-web-21.jpg"
-    },
-    {
-      "region": "Таиланд",
-      "source": "The Thaiger",
-      "title": "Italian tourists accused of shoplifting at Phuket 7-Eleven",
-      "link": "https://thethaiger.com/news/phuket/italian-tourists-accused-of-shoplifting-at-phuket-7-eleven",
-      "date": "Fri, 27 Nov 2026",
-      "description": "Three Italian tourists were detained by convenience store staff and jet ski operators after allegedly trying to leave a 7-Eleven i",
-      "image": "https://thethaiger.com/wp-content/uploads/2026/11/phuket-tourist-1.jpg"
-    },
-    {
-      "region": "Таиланд",
-      "source": "The Thaiger",
-      "title": "Chiang Mai airport sets daily record of 41,136 passengers after Yi Peng",
-      "link": "https://thethaiger.com/news/chiang-mai/chiang-mai-airport-passenger-record-yi-peng-2026",
-      "date": "Fri, 27 Nov 2026",
-      "description": "Chiang Mai airport handled 41,136 passengers on 279 flights on November 26, beating a 2019 record as visitors left after Yi Peng.",
-      "image": "https://thethaiger.com/wp-content/uploads/2026/11/chiang-mai-airport-passenger-record-yi-peng-2026.jpg"
     },
     {
       "region": "Таиланд",
@@ -438,56 +438,92 @@
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Экс-советник Кучмы заявил о крахе Зеленского после саммита ЕС",
-      "link": "https://lenta.ru/news/2026/11/28/v-kieve-zayavili-o-krahe-zelenskogo-posle-sammita-es/",
+      "title": "Адвокат назвал скрытый риск отказа от штампа о браке в паспорте",
+      "link": "https://lenta.ru/news/2026/11/28/advokat-nazval-skrytyy-risk-otkaza-ot-shtampa-o-brake-v-pasporte/",
       "date": "Sat, 28 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/28/05/20261128050018561/pic_8cdf616193b19018579b49d9fe7e4f05.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/28/06/20261128065115764/pic_0782fa13e3edafca963b65be20fe88e5.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Врач раскрыла простой способ снизить риск преждевременной смерти на 31%",
-      "link": "https://lenta.ru/news/2026/11/28/vrach-raskryla-prostoy-sposob-snizit-risk-prezhdevremennoy-smerti-na-31/",
+      "title": "Стало известно о возмущении в Киеве и ЕС словами Кушнера о России",
+      "link": "https://lenta.ru/news/2026/11/28/stalo-izvestno-o-vozmuschenii-v-kieve-i-es-slovami-kushnera-o-rossii/",
       "date": "Sat, 28 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/28/04/20261128045626086/pic_a1fa9c85f99b0fba342147d459223395.jpg"
+      "image": "https://icdn.lenta.ru/assets/webpack/images/lenta_og.8735b949.png"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Rheinmetall остановит строительство завода снарядов на Украине после атаки ВСУ на Кувейт",
-      "link": "https://lenta.ru/news/2026/11/28/rheinmetall-ostanovit-stroitelstvo-zavoda-snaryadov-na-ukraine-posle-ataki-vsu-na-kuveyt/",
+      "title": "В стране ЕС началась паника из-за ударов ВСУ по Крыму",
+      "link": "https://lenta.ru/news/2026/11/28/v-strane-es-nachalas-panika-iz-za-udarov-vsu-po-krymu/",
       "date": "Sat, 28 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/28/04/20261128045759486/pic_f27171d3e108eb903a6187912a022eed.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/28/06/20261128065251428/pic_309cac8af50067d65b57a7c01a399df0.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "Раскрыт возможный сценарий обнаружения останков семьи Усольцевых",
-      "link": "https://lenta.ru/news/2026/11/28/raskryt-vozmozhnyy-stsenariy-obnaruzheniya-ostankov-semi-usoltsevyh/",
+      "title": "Раскрыли опасное последствие ударов ВСУ по энергетике для угольных шахт",
+      "link": "https://lenta.ru/news/2026/11/28/raskryli-opasnoe-posledstvie-udarov-vsu-po-energetike-dlya-ugolnyh-shaht/",
       "date": "Sat, 28 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/28/04/20261128045118079/pic_a72c1b58de701c5673e54a18e122e778.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/28/06/20261128064058608/pic_dd634982752f0086bca23c08d7cb0e12.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "В Киеве нашли способ лишить отсрочки более 200 тысяч украинцев",
-      "link": "https://lenta.ru/news/2026/11/28/v-kieve-nashli-sposob-lishit-otsrochki-bolee-200-tysyach-ukraintsev/",
+      "title": "Раскрыты потери Украины из-за простоя портов",
+      "link": "https://lenta.ru/news/2026/11/28/raskryty-poteri-ukrainy-iz-za-prostoya-portov/",
       "date": "Sat, 28 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/28/04/20261128044538598/pic_ea55fc09d8345f4bab77f78f39d5d3e5.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/28/06/20261128063059878/pic_b76c2c2b1c1396431fcd54f4f665b33c.jpg"
     },
     {
       "region": "Россия",
       "source": "Лента.ру",
-      "title": "«Полное безумие!» Кандидат на пост президента Франции призвал выйти из Евросоюза из-за Украины",
-      "link": "https://lenta.ru/news/2026/11/28/long-polnoe-bezumie-kandidat-na-post-prezidenta-frantsii-vozmutilsya-pomoschyu-es-ukraine-i-prizyval-stranu-vyyti-iz-soyuza/",
+      "title": "Российские мотострелки уничтожили пулеметное гнездо ВСУ",
+      "link": "https://lenta.ru/news/2026/11/28/rossiyskie-motostrelki-unichtozhili-pulemetnoe-gnezdo-vsu/",
       "date": "Sat, 28 Nov 2026",
       "description": "",
-      "image": "https://icdn.lenta.ru/images/2026/11/28/04/20261128042206626/pic_eb4794a3c76797dce666503d32fc659a.jpg"
+      "image": "https://icdn.lenta.ru/images/2026/11/28/06/20261128060022358/pic_f85ae87da7d0da5fe9e50c3676ebbbb0.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "В Алтайском крае раскрыли жестокое убийство с обезглавливанием спустя 24 года",
+      "link": "https://www.amic.ru/news/v-altayskom-krae-raskryli-zhestokoe-ubiystvo-s-obezglavlivaniem-spustya-24-goda-597677",
+      "date": "Sat, 28 Nov 2026",
+      "description": "Уголовное дело на долгие годы осталось нераскрытым",
+      "image": "https://www.amic.ru/images/news/news/558840_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "В Горно-Алтайске столкнулись три иномарки. Пострадала женщина",
+      "link": "https://www.amic.ru/news/v-gorno-altayske-stolknulis-tri-inomarki-postradala-zhenschina-597671",
+      "date": "Sat, 28 Nov 2026",
+      "description": "Женщину с ушибом головы доставили в республиканскую больницу",
+      "image": "https://www.amic.ru/images/news/news/597671_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "Финансист дал простую инструкцию, как тратить меньше на подарки к Новому году",
+      "link": "https://www.amic.ru/news/finansist-dal-prostuyu-instrukciyu-kak-tratit-menshe-na-podarki-k-novomu-godu-597641",
+      "date": "Sat, 28 Nov 2026",
+      "description": "Ретейлеры активно стимулируют интерес к праздничному ассортименту, начисляя бонусы и предлагая скидки на будущие покупки",
+      "image": "https://www.amic.ru/images/news/news/597641_size2.jpg"
+    },
+    {
+      "region": "Барнаул",
+      "source": "Амител",
+      "title": "В Барнауле мужчина из-за обиды на бывшую жену устроил пожар на 13,8 млн рублей",
+      "link": "https://www.amic.ru/news/v-barnaule-muzhchina-iz-za-obidy-na-byvshuyu-zhenu-ustroil-pozhar-na-138-mln-rubley-597670",
+      "date": "Sat, 28 Nov 2026",
+      "description": "Мужчина бросил внутри дома зажженную сигарету, после чего возник пожар",
+      "image": "https://www.amic.ru/images/news/news/523406_size2.jpg"
     },
     {
       "region": "Барнаул",
@@ -504,44 +540,8 @@
       "title": "\"Мечта о кино привела меня в спорт\". Олег Тактаров о Голливуде, боевиках и новых ролях",
       "link": "https://www.amic.ru/news/mechta-o-kino-privela-menya-v-sport-oleg-taktarov-o-gollivude-boevikah-i-novyh-rolyah-597657",
       "date": "Sat, 28 Nov 2026",
-      "description": "Актер рассказал, почему отказал Гаю Ричи, чем российское кино отличается от американского и почему не стремится вернуться в Голлив",
+      "description": "Актер рассказал amic.ru, почему отказал Гаю Ричи, чем российское кино отличается от американского и почему не стремится вернуться ",
       "image": "https://www.amic.ru/images/news/news/597657_size2.jpg"
-    },
-    {
-      "region": "Барнаул",
-      "source": "Амител",
-      "title": "Бренд-шеф предупредил родителей об опасных для детей роллах",
-      "link": "https://www.amic.ru/news/brend-shef-predupredil-roditeley-ob-opasnyh-dlya-detey-rollah-597631",
-      "date": "Sat, 28 Nov 2026",
-      "description": "Если очень хочется угостить ребенка \"как в суши-баре\", безопасными считаются только термически обработанные варианты",
-      "image": "https://www.amic.ru/images/news/news/597631_size2.jpg"
-    },
-    {
-      "region": "Барнаул",
-      "source": "Амител",
-      "title": "В России объяснили, из чего складывается оплата больничного",
-      "link": "https://www.amic.ru/news/v-rossii-obyasnili-iz-chego-skladyvaetsya-oplata-bolnichnogo-597636",
-      "date": "Sat, 28 Nov 2026",
-      "description": "Итоговая сумма рассчитывается на основе МРОТ, деленного на количество дней в месяце",
-      "image": "https://www.amic.ru/images/news/news/587704_size2.jpg"
-    },
-    {
-      "region": "Барнаул",
-      "source": "Амител",
-      "title": "День матери – 2026. Когда его отмечают и что дарят на этот праздник",
-      "link": "https://www.amic.ru/news/den-materi---2025-kogda-ego-otmechayut-i-chto-daryat-na-etot-prazdnik-573370",
-      "date": "Sat, 28 Nov 2026",
-      "description": "До торжественной даты осталось всего два дня",
-      "image": "https://www.amic.ru/images/news/news/573370_size2.jpg"
-    },
-    {
-      "region": "Барнаул",
-      "source": "Амител",
-      "title": "Рождественский пост — 2026. Что нельзя, как питаться и можно ли отметить Новый год",
-      "link": "https://www.amic.ru/news/rozhdestvenskiy-post-2019-chto-zaprescheno-kak-pitatsya-i-vsem-li-eto-nuzhno-delat-451023",
-      "date": "Sat, 28 Nov 2026",
-      "description": "У православных начинается 40-дневный пост, который завершится 7 января",
-      "image": "https://www.amic.ru/images/news/news/451023_size2.jpg"
     }
   ]
 }
